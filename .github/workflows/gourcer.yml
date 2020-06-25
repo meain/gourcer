@@ -31,6 +31,6 @@ jobs:
         git clone https://github.com/meain/dotfiles
     - name: Generate video
       run: |
-        gource -1024x768 --stop-position 1.0 --highlight-all-users --hide-filenames --seconds-per-day 5 --output-framerate 60 --output-ppm-stream output.ppm
+        DISPLAY=":99" gource -1024x768 --stop-position 1.0 --highlight-all-users --hide-filenames --seconds-per-day 5 --output-framerate 60 --output-ppm-stream output.ppm
         ffmpeg -i output.ppm -c:v libx264 -crf 24 -preset veryslow output.mp4
         ls -la
