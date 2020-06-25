@@ -22,4 +22,6 @@ jobs:
     - name: Build the tagged Docker image
       run: docker build . --tag runner
     - name: Build the latest Docker image
-      run: docker run -t runner
+      run: docker run -t runner -v ./:/visualization
+    - name: Check
+      run: ls
