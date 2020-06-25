@@ -19,9 +19,7 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
-    - name: Build the tagged Docker image
-      run: docker build . --tag runner
     - name: Build the latest Docker image
-      run: docker run -t runner -v ./:/visualization
+      run: docker run -v ./:/results  --env TITLE="meain/ppl" czerasz/gource meain/ppl
     - name: Check
       run: ls
