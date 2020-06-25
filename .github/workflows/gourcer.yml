@@ -19,11 +19,17 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
-    - name: Install gource
+    - name: Update repos
       run: |
         sudo apt-get update
-        sudo apt-get install -y gource
+    - name: Install gource and ffmpeg
+      run: |
+        sudo apt-get install -y gource ffmpeg
     - name: Pull a repo
       run: |
         mkdir video_assets && cd video_assets
         git clone https://github.com/meain/dotfiles
+    - name: Generate video
+      run: |
+        gource -f -3840x2160 --camera-mode  track  --file-idle-time 150  --max-file-lag 4 --seconds-per-day 2 --highlight-all-users --output-framerate 30 --output-ppm-stream output.ppm
+        ffmpeg -i output.ppm -c:v libx264 -crf 24 -preset veryslow output.mp4
