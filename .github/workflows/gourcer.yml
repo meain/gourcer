@@ -19,19 +19,4 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
-    - name: Update repos
-      run: |
-        sudo apt-get update
-    - name: Install gource and ffmpeg
-      run: |
-        sudo apt-get install -y gource ffmpeg
-    - name: Pull a repo
-      run: |
-        mkdir video_assets && cd video_assets
-        git clone https://github.com/meain/dotfiles
-    - name: Generate video
-      run: |
-        Xvfb :99 -ac -screen 0 $XVFB_WHD -nolisten tcp &
-        DISPLAY=":99" XVFB_WHD="3840x2160x24" gource -1024x768 --stop-position 1.0 --highlight-all-users --hide-filenames --seconds-per-day 5 --output-framerate 60 --output-ppm-stream output.ppm
-        ffmpeg -i output.ppm -c:v libx264 -crf 24 -preset veryslow output.mp4
-        ls -la
+    - uses: docker://utensils/envisaged:latest
