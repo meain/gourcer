@@ -19,7 +19,23 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
-    - name: Create video
-      run: docker run -v "$(pwd):/results"  --env TITLE="meain/ppl" czerasz/gource meain/ppl
-    - name: Check
-      run: ls
+    # - name: Create video
+    #   run: docker run -v "$(pwd):/results"  --env TITLE="meain/ppl" czerasz/gource meain/ppl
+    # - name: Check
+    #   run: ls
+    - name: Copy creds
+      env:
+        CLIENT_SECRETS: ${{ secrets.CLIENT_SECRETS }}
+        REQUEST_TOKEN: ${{ secrets.REQUEST_TOKEN }}
+      run: |
+        echo "$CLIENT_SECRETS" > client_secrets.json
+        echo "$REQUEST_TOKEN" > request.token
+        cat client_secrets.json
+        cat request.token
+    - name: Pull yt-upload
+      run: |
+        wget 'https://github.com/porjo/youtubeuploader/releases/download/20.04/youtubeuploader_linux_amd64.tar.gz' 
+        tar -xvzf youtubeuploader_linux_amd64.tar.gz
+    - name: Run yt-upload
+      run: |
+        ./youtubeuploader_linux_amd64 -filename tiny.mp4
