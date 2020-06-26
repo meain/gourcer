@@ -18,9 +18,9 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v2
     - name: Pre Check
       run: ls
-    # - uses: actions/checkout@v2
     # - name: Create video
     #   run: docker run -v "$(pwd):/results"  --env TITLE="$(head repo)" czerasz/gource "$(head repo)"
     # - name: Check
