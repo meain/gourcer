@@ -20,11 +20,11 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - name: Pre Check
       run: ls
-    - uses: actions/checkout@v2
-    - name: Create video
-      run: docker run -v "$(pwd):/results"  --env TITLE="$(head repo)" czerasz/gource "$(head repo)"
-    - name: Check
-      run: ls
+    # - uses: actions/checkout@v2
+    # - name: Create video
+    #   run: docker run -v "$(pwd):/results"  --env TITLE="$(head repo)" czerasz/gource "$(head repo)"
+    # - name: Check
+    #   run: ls
     # - name: Copy creds
     #   env:
     #     CLIENT_SECRETS: ${{ secrets.CLIENT_SECRETS }}
@@ -39,4 +39,5 @@ jobs:
     - name: Run yt-upload
       run: |
         echo "..$(head repo).."
+        echo ">>$(head repo|sed 's|/|-|')<<"
         # ./youtubeuploader_linux_amd64 -filename tiny.mp4 | tee ytup
