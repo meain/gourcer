@@ -40,4 +40,4 @@ jobs:
       run: |
         echo "..$(head repo).."
         echo ">>$(head repo|sed 's|/|-|')<<"
-        echo ./youtubeuploader_linux_amd64 -filename "$(head repo|sed 's|/|-|').mp4" -title "Gource visualisation: $(head repo|sed 's|/|-|').mp4 on $(ate '+%Y-%m-%d')" -description 'https://github.com/meain/gourcer' -tags='gource,video,git,github,tech'
+        echo ./youtubeuploader_linux_amd64 -filename "$(head repo|sed 's|/|-|').mp4" -title "Gource visualisation: $(head repo) on $(date '+%Y-%m-%d')" -description 'https://github.com/meain/gourcer' -tags='gource,video,git,github,tech'
