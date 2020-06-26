@@ -21,10 +21,10 @@ jobs:
     - uses: actions/checkout@v2
     - name: Pre Check
       run: ls
-    # - name: Create video
-    #   run: docker run -v "$(pwd):/results"  --env TITLE="$(head repo)" czerasz/gource "$(head repo)"
-    # - name: Check
-    #   run: ls
+    - name: Create video
+      run: docker run -v "$(pwd):/results"  --env TITLE="$(head repo)" czerasz/gource "$(head repo)"
+    - name: Check
+      run: ls
     # - name: Copy creds
     #   env:
     #     CLIENT_SECRETS: ${{ secrets.CLIENT_SECRETS }}
@@ -40,4 +40,4 @@ jobs:
       run: |
         echo "..$(head repo).."
         echo ">>$(head repo|sed 's|/|-|')<<"
-        # ./youtubeuploader_linux_amd64 -filename tiny.mp4 | tee ytup
+        echo ./youtubeuploader_linux_amd64 -filename "$(head repo|sed 's|/|-|').mp4" -title "Gource visualisation: $(head repo|sed 's|/|-|').mp4 on $(ate '+%Y-%m-%d')" -description 'https://github.com/meain/gourcer' -tags='gource,video,git,github,tech'
