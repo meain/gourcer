@@ -8,7 +8,7 @@ DEPTH="${DEPTH:-24}"
 
 screen -dmS recording xvfb-run -a -s "-screen 0 ${RES}x${DEPTH}" \ 
     gource "-$RES" -r 30 --title "$TITLE" --highlight-all-users \
-    -s 0.5 --seconds-per-day ${SEC_PER_DAY:-1} --hide filenames -o - \
+    -s 0.5 --seconds-per-day ${SEC_PER_DAY:-1} --hide filenames -o - |
     ffmpeg -y -r 30 -f image2pipe -loglevel info -vcodec ppm -i - \
     -vcodec libx264 -preset medium -pix_fmt yuv420p -crf 1 -threads 0 -bf 0 /results/gource.mp4
 
