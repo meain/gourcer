@@ -13,8 +13,10 @@ jobs:
       run: mkdir results && ls
     - name: Clone repo
       run: git clone "https://github.com/$(head repo)" crepo
+    - name: Build container
+      run: docker build -t runner .
     - name: Create video
-      run: docker run -v "$(pwd)/results:/results" -v "$(pwd)/crepo:/repo"  --env TITLE="$(head repo)" .
+      run: docker run -v "$(pwd)/results:/results" -v "$(pwd)/crepo:/repo"  --env TITLE="$(head repo)" -t runner
     - name: Check
       run: ls
     - name: Copy creds
