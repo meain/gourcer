@@ -6,7 +6,6 @@ rm -f /results/{gource.ppm,gource.mp4}
 RES="${RES:-1280x720}"
 DEPTH="${DEPTH:-24}"
 
-cd /repo
 screen -dmS recording xvfb-run -a -s "-screen 0 ${RES}x${DEPTH}" \ 
     gource "-$RES" -r 30 --title "$TITLE" --highlight-all-users \
     -s 0.5 --seconds-per-day ${SEC_PER_DAY:-1} --hide filenames -o - \
