@@ -12,9 +12,9 @@ jobs:
     - name: Populate dirs
       run: mkdir results && ls
     - name: Clone repo
-      run: git clone "https://github.com/$(head repo)" repo
+      run: git clone "https://github.com/$(head repo)" crepo
     - name: Create video
-      run: docker run -v "$(pwd)/results:/results" -v "$(pwd)/repo:/repo"  --env TITLE="$(head repo)" .
+      run: docker run -v "$(pwd)/results:/results" -v "$(pwd)/crepo:/repo"  --env TITLE="$(head repo)" .
     - name: Check
       run: ls
     - name: Copy creds

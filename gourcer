@@ -20,7 +20,7 @@ while [[ "$filesize" -eq "0" || $lastsize -lt $filesize ]] ;
 do
     sleep 20
     lastsize="$filesize"
-    filesize=$(stat -c '%s' /results/gource.ppm)
+    filesize=$(stat -c '%s' /results/gource.mp4)
     echo 'Polling the size. Current size is' $filesize
 done
 echo 'Force stopping recording because file size is not growing'
