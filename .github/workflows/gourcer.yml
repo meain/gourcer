@@ -18,7 +18,7 @@ jobs:
     - name: Create video
       run: docker run -v "$(pwd)/results:/results" -v "$(pwd)/crepo:/repo"  --env TITLE="$(head repo)" -t runner
     - name: Check
-      run: ls
+      run: ls && ls -lh results
     - name: Copy creds
       env:
         CLIENT_SECRETS: ${{ secrets.CLIENT_SECRETS }}
@@ -32,4 +32,4 @@ jobs:
         tar -xvzf youtubeuploader_linux_amd64.tar.gz
     - name: Run yt-upload
       run: |
-        echo ./youtubeuploader_linux_amd64 -filename "results/gource.mp4" -title "Gource visualisation: $(head repo) on $(date '+%Y-%m-%d')" -description 'https://github.com/meain/gourcer' -tags='gource,video,git,github,tech' -privacy private
+        ./youtubeuploader_linux_amd64 -filename "results/gource.mp4" -title "Gource visualisation: $(head repo) on $(date '+%Y-%m-%d')" -description 'https://github.com/meain/gourcer' -tags='gource,video,git,github,tech' -privacy private

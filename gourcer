@@ -6,7 +6,6 @@ RES="${RES:-1280x720}"
 DEPTH="${DEPTH:-24}"
 
 xvfb-run -a -s "-screen 0 ${RES}x${DEPTH}" /tmp/qg &
-id="$!"
 
 # This hack is needed because gource process doesn't stop
 lastsize="0"
