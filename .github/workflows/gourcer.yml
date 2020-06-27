@@ -32,4 +32,4 @@ jobs:
         tar -xvzf youtubeuploader_linux_amd64.tar.gz
     - name: Run yt-upload
       run: |
-        ./youtubeuploader_linux_amd64 -filename "results/gource.mp4" -title "Gource visualisation: $(head repo) on $(date '+%Y-%m-%d')" -description 'https://github.com/meain/gourcer' -tags='gource,video,git,github,tech' -privacy private
+        ./youtubeuploader_linux_amd64 -filename "results/gource.mp4" -title "Gource visualisation: $(head repo) on $(date '+%Y-%m-%d')" -description 'https://github.com/meain/gourcer' -tags='gource,video,git,github,tech'
