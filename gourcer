@@ -1,7 +1,7 @@
 #!/bin/sh
 
 rm -f /results/{gource.ppm,gource.mp4}
-RES="${RES:-1280x720}"
+RES="${RES:-1920x1080}"
 DEPTH="${DEPTH:-24}"
 
 xvfb-run -a -s "-screen 0 ${RES}x${DEPTH}" /tmp/qg &

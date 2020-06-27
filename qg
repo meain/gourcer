@@ -1,6 +1,6 @@
 #!/bin/sh
 
-RES="${RES:-1280x720}"
+RES="${RES:-1920x1080}"
 echo "Starting video generation..."
 
 gource -s 0.2 -a 1 ./ -"$RES" -o - |
