@@ -1,5 +1,4 @@
-#!/bin/bash
-set -e # stop on first error
+#!/bin/sh
 
 rm -f /results/{gource.ppm,gource.mp4}
 RES="${RES:-1280x720}"
@@ -7,15 +6,14 @@ DEPTH="${DEPTH:-24}"
 
 xvfb-run -a -s "-screen 0 ${RES}x${DEPTH}" /tmp/qg &
 
-# This hack is needed because gource process doesn't stop
-lastsize="0"
-filesize="0"
-while [[ "$filesize" -eq "0" || $lastsize -lt $filesize ]] ;
-do
+lastsize=0
+filesize=0
+while true;do
     sleep 20
-    lastsize="$filesize"
-    filesize=$(stat -c '%s' /results/gource.mp4)
-    echo 'Polling the size. Current size is' $filesize
+    lastsize="$filesize" && filesize="$(stat -c '%s' /results/gource.mp4)"
+    echo 'Polling the size. Current size is' "$filesize"
+    [ "$filesize" -ne "0" ] && [ "$lastsize" -eq "$filesize" ] && break
 done
-echo 'Force stopping recording because file size is not growing'
-exit 0
+echo "Force stopping..."
+pkill -SIGKILL gource
+sleep 30 # wait for ffmpeg to finish (>20 as ffmpeg timeout is 20)
