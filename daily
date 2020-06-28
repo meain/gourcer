@@ -1,0 +1,18 @@
+#!/bin/sh
+
+set -e
+
+
+# cat eapi | jq -r '.[0].url' | grep -Eo '[^\/]*/[^\/]*$'
+
+
+curl 'https://ghapi.huchen.dev/repositories?since=daily' | 
+    grep -Eo '"url": ?"https://github.com[^"]*"' | 
+    grep -Eo '[^\/]*/[^\/]*"$' | sed 's|"$||' | head -n1 > repo
+
+git config --global user.email "trending-puller-bot@meain.io"
+git config --global user.name "Trending Puller"
+
+git add .
+git commit -m "$(date "+%Y_%m_%d")"
+git push origin master

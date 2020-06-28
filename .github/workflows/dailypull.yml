@@ -1,0 +1,14 @@
+name: trending-puller
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Update repo
+      run: ./daily
+      shell: bash
