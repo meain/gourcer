@@ -14,5 +14,5 @@ ffmpeg -y -r 60 -f image2pipe -vcodec ppm -i - -vcodec libx264 -preset medium \
 -pix_fmt yuv420p -crf 1 -analyzeduration 999999999 -probesize 999999999 -threads 0 -bf 0 -f mpegts - |
 pv -f 2>/results/gource |
 ./youtubeuploader_linux_amd64 -filename - \
--title "Gource visualisation: $(head repo) on $(date '+%Y-%m-%d')" \
--description "https://github.com/$(head repo) built using https://github.com/meain/gourcer" -privacy public
+-title "Gource visualisation: $TITLE on $(date '+%Y-%m-%d')" \
+-description "https://github.com/$TITLE built using https://github.com/meain/gourcer" -privacy public
