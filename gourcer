@@ -9,8 +9,8 @@ xvfb-run -a -s "-screen 0 ${RES}x${DEPTH}" /tmp/qg &
 lastsize=0
 filesize=0
 while true;do
-    sleep 20
-    lastsize="$filesize" && filesize="$(stat -c '%s' /results/gource.mp4)"
+    sleep 30
+    lastsize="$filesize" && filesize="$(stat -c '%s' /results/gource)"
     echo 'Polling the size. Current size is' "$filesize"
     [ "$filesize" -ne "0" ] && [ "$lastsize" -eq "$filesize" ] && break
 done
