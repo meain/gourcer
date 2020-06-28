@@ -13,7 +13,6 @@ jobs:
       run: ./daily
     - name: Check repo
       run: cat repo
-      run: mkdir results && ls
     - name: Populate dirs
       run: mkdir results && ls
     - name: Clone repo
