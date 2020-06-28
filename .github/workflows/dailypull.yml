@@ -1,8 +1,8 @@
 name: daily-build
 
 on:
-  push:
-    branches: [ master ]
+  schedule:
+    - cron:  '10 1 * * *'
 
 jobs:
   build:
