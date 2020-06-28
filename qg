@@ -7,8 +7,3 @@ gource -s 0.2 -a 1 ./ -"$RES" -o - |
 ffmpeg -y -r 60 -f image2pipe -vcodec ppm -i - -vcodec libx264 -preset medium \
 -timeout 20 \
 -pix_fmt yuv420p -crf 1 -analyzeduration 999999999 -probesize 999999999 -threads 0 -bf 0 /results/gource.mp4
-
-
-# gource -s 0.2 -a 1 ./ -o - |
-# ffmpeg -y -r 60 -f image2pipe -vcodec ppm -i - -vcodec libx264 -preset medium \
-# -pix_fmt yuv420p -crf 1 -analyzeduration 999999999 -probesize 999999999 -threads 0 -bf 0 /results/gource.mp4
