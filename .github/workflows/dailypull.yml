@@ -20,20 +20,7 @@ jobs:
     - name: Build container
       run: docker build -t runner .
     - name: Create video
-      run: docker run -v "$(pwd)/results:/results" -v "$(pwd)/crepo:/repo"  --env TITLE="$(head repo)" -t runner
-    - name: Check
-      run: ls && ls -lh results
-    - name: Copy creds
       env:
         CLIENT_SECRETS: ${{ secrets.CLIENT_SECRETS }}
         REQUEST_TOKEN: ${{ secrets.REQUEST_TOKEN }}
-      run: |
-        echo "$CLIENT_SECRETS" > client_secrets.json
-        echo "$REQUEST_TOKEN" > request.token
-    - name: Pull yt-upload
-      run: |
-        wget 'https://github.com/porjo/youtubeuploader/releases/download/20.04/youtubeuploader_linux_amd64.tar.gz' 
-        tar -xvzf youtubeuploader_linux_amd64.tar.gz
-    - name: Run yt-upload
-      run: |
-        ./youtubeuploader_linux_amd64 -filename "results/gource.mp4" -title "Gource visualisation: $(head repo) on $(date '+%Y-%m-%d')" -description 'https://github.com/meain/gourcer'  -privacy public
+      run: docker run -v "$(pwd)/results:/results" -v "$(pwd)/crepo:/repo"  --env TITLE="$(head repo)" -e CLIENT_SECRETS="$CLIENT_SECRETS" -e REQUEST_TOKEN="$REQUEST_TOKEN" -t runner
