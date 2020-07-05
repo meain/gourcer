@@ -5,6 +5,12 @@ set -e
 
 # cat eapi | jq -r '.[0].url' | grep -Eo '[^\/]*/[^\/]*$'
 
-curl 'https://ghapi.huchen.dev/repositories?since=daily' | 
-    grep -Eo '"url": ?"https://github.com[^"]*"' | 
+curl 'https://ghapi.huchen.dev/repositories?since=daily' > pulled
+
+grep -Eo '"url": ?"https://github.com[^"]*"' pulled |
     grep -Eo '[^\/]*/[^\/]*"$' | sed 's|"$||' | head -n1 > repo
+
+grep -oE '("[^"]*"|\d+,)' pulled |
+    head -n 20 | sed 's|"||g;s|,||' |
+    sed 'N;s/\n/ /' | sed 's| |: |' > description
+printf '\n\nBuilt using https://github.com/meain/gourcer' >> description

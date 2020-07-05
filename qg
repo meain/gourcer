@@ -15,4 +15,4 @@ ffmpeg -y -r 60 -f image2pipe -vcodec ppm -i - -vcodec libx264 -preset medium \
 -threads 0 -bf 0 -f mpegts - 2>/results/gource |
 ./youtubeuploader_linux_amd64 -filename - \
 -title "Gource visualisation: $TITLE on $(date '+%Y-%m-%d')" \
--description "https://github.com/$TITLE built using https://github.com/meain/gourcer" -privacy public
+-description "$DESCRIPTION" -privacy public

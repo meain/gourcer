@@ -1,5 +1,8 @@
 #!/bin/sh
 
+echo "$TITLE"
+echo "$DESCRIPTION"
+
 rm -f /results/{gource.ppm,gource.mp4}
 RES="${RES:-1920x1080}"
 DEPTH="${DEPTH:-24}"
