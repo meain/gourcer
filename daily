@@ -11,6 +11,6 @@ grep -Eo '"url": ?"https://github.com[^"]*"' pulled |
     grep -Eo '[^\/]*/[^\/]*"$' | sed 's|"$||' | head -n1 > repo
 
 grep -oE '("[^"]*"|[0-9]+,)' pulled |
-    head -n 20 | sed 's|"||g;s|,||' |
-    sed 'N;s/\n/ /' | sed 's| |: |' > description
+    head -n 18 | sed 's|"||g;s|,||' |
+    sed 'N;s/\n/ /' | grep -vE '^avatar' | sed 's| |: |' > description
 printf '\n\nBuilt using https://github.com/meain/gourcer' >> description
