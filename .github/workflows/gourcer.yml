@@ -14,11 +14,11 @@ jobs:
     - name: Populate dirs
       run: mkdir results && ls
     - name: Clone repo
-      run: git clone "https://github.com/$(head repo)" crepo
+      run: git clone "$(head repo)" crepo
     - name: Build container
       run: docker build -t runner .
     - name: Create video
       env:
         CLIENT_SECRETS: ${{ secrets.CLIENT_SECRETS }}
         REQUEST_TOKEN: ${{ secrets.REQUEST_TOKEN }}
-      run: docker run -v "$(pwd)/results:/results" -v "$(pwd)/crepo:/repo"  --env TITLE="$(head repo)" --env DESCRIPTION="https://github.com/$(head repo) built using https://github.com/meain/gourcer" -e CLIENT_SECRETS="$CLIENT_SECRETS" -e REQUEST_TOKEN="$REQUEST_TOKEN" -t runner
+      run: docker run -v "$(pwd)/results:/results" -v "$(pwd)/crepo:/repo"  --env TITLE="$(head repo)" --env DESCRIPTION="$(head repo) built using https://github.com/meain/gourcer" -e CLIENT_SECRETS="$CLIENT_SECRETS" -e REQUEST_TOKEN="$REQUEST_TOKEN" -t runner
