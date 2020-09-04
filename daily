@@ -14,4 +14,3 @@ echo "Trending on Github on $(date '+%d-%m-%Y')" > description
 grep -oE '("[^"]*"|[0-9]+,)' pulled |
     head -n 18 | sed 's|"||g;s|,||' |
     sed 'N;s/\n/ /' | grep -vE '^avatar' | sed 's| |: |' > description
-printf '\n\nBuilt using https://github.com/meain/gourcer' >> description

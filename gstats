@@ -11,6 +11,3 @@ echo "Total number of lines: $(find . -type f|wc -l)"
 # echo "Number of contributers: $(git shortlog -sne|wc -l)"
 # printf "Top 5 contributers:"
 # git shortlog -sne|head -n5|sed 's| *[0-9]* *||'
-echo ""
-echo ""
-echo "Built using https://github.com/meain/gourcer"
