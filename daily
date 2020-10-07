@@ -2,15 +2,14 @@
 
 set -e
 
-
 # cat eapi | jq -r '.[0].url' | grep -Eo '[^\/]*/[^\/]*$'
 
-curl 'https://ghapi.huchen.dev/repositories?since=daily' > pulled
+curl 'https://ghapi.huchen.dev/repositories?since=daily' >pulled
 
 grep -Eo '"url": ?"https://github.com[^"]*"' pulled |
-    grep -Eo '[^\/]*/[^\/]*"$' | sed 's|"$||' | head -n1 > repo
+    cut -d '"' -f 4 | head -n1 >repo
 
-echo "Trending on Github on $(date '+%d-%m-%Y')" > description
+echo "Trending on Github on $(date '+%d-%m-%Y')" >description
 grep -oE '("[^"]*"|[0-9]+,)' pulled |
     head -n 18 | sed 's|"||g;s|,||' |
-    sed 'N;s/\n/ /' | grep -vE '^avatar' | sed 's| |: |' > description
+    sed 'N;s/\n/ /' | grep -vE '^avatar' | sed 's| |: |' >description
