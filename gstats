@@ -10,8 +10,8 @@ if cat repo | grep -q '//github.com/'; then
 	cat /tmp/gh-repo-page | grep -C1 'f4 mt-3' | grep -v 'f4 mt-3' | grep '.' | sed 's|^\ *||' | awk '{print "Description: "$0}'
 	cat /tmp/gh-repo-page |
 		grep -C 1 'social-count' | grep 'this repository' | grep -oE 'aria-label="[0-9]+ users' | grep -oE '[0-9]+' | xargs echo | awk '{print "Watching: "$1"\nStarred: "$2"\nForked: "$3}'
-	printf "Languages: "
-	cat /tmp/gh-repo-page|grep 'Progress-item'|grep -o 'aria-label="[^"]*' | awk -F'"' '{print $2"% | "}' | xargs echo | sed 's/..$//'
+	printf "Top Languages: "
+	cat /tmp/gh-repo-page|grep 'Progress-item'|grep -o 'aria-label="[^"]*' | head -n5 | awk -F'"' '{print $2"% | "}' | xargs echo | sed 's/..$//'
 fi
 
 cd crepo || exit 1
