@@ -5,6 +5,7 @@ set -e
 curl "$(cat repo)" > /tmp/gh-repo-page
 cat repo | awk '{print "Url: "$0}'
 cat repo | sed 's|https://[^/]*/\([^/]*\)/\([^/]*\)|Author: \1#Repo: \2|' | tr '#' '\n'
+echo ""
 if cat repo | grep -q '//github.com/'; then
 	cat /tmp/gh-repo-page | grep -C1 'f4 mt-3' | grep -v 'f4 mt-3' | grep '.' | sed 's|^\ *||' | awk '{print "Description: "$0}'
 	cat /tmp/gh-repo-page |
