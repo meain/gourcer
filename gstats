@@ -20,6 +20,8 @@ echo "Total commits: $(git rev-list --count HEAD)"
 echo "Initial commit: $(git log --oneline|tail -1|awk '{print $1}'|xargs git show|grep -E '^Date:'|sed 's|Date:\ *||')"
 echo "Total number of files: $(find . -type f|wc -l)"
 echo "Total number of lines: $(find . -type f|wc -l)"
-echo "Number of contributers: $(git shortlog -sne|wc -l)"
+git shortlog -c
+git shortlog -sn
+echo "Number of contributers: $(git shortlog -sn|wc -l)"
 echo "Top 5 contributers:"
-git shortlog -sne|head -n5
+git shortlog -sn|head -n5
