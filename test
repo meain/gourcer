@@ -1,0 +1,10 @@
+#!/bin/sh
+
+# If someone stars of forks this weird repo, the tests will fail
+# But I am pretty sure no one will. Just gonna go with it for now.
+
+mv tests/repo repo
+rm -rf crepo
+git clone "$(head repo)" crepo
+./gstats > description && cat description
+diff description tests/description 
