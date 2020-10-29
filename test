@@ -1,5 +1,7 @@
 #!/bin/sh
 
+set -e
+
 # If someone stars of forks this weird repo, the tests will fail
 # But I am pretty sure no one will. Just gonna go with it for now.
 
