@@ -16,7 +16,7 @@ jobs:
     - name: Clone repo
       run: git clone "$(head repo)" crepo
     - name: Fetch description
-      run: ./ghstats > description && cat description
+      run: ./gstats > description && cat description
     # - name: Build container
     #   run: docker build -t runner .
     # - name: Create video
