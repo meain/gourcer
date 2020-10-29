@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 set -e
 
@@ -9,4 +9,4 @@ cp tests/repo repo
 rm -rf crepo
 git clone "$(head repo)" crepo
 ./gstats > description && cat description
-diff description tests/description 
+diff <(head -n12 description) <(head -n12 tests/description) 
