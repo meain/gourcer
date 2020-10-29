@@ -2,14 +2,10 @@
 
 set -e
 
-# cat eapi | jq -r '.[0].url' | grep -Eo '[^\/]*/[^\/]*$'
-
-curl 'https://ghapi.huchen.dev/repositories?since=daily' >pulled
-
-grep -Eo '"url": ?"https://github.com[^"]*"' pulled |
-    cut -d '"' -f 4 | head -n1 >repo
-
-echo "Trending on Github on $(date '+%d-%m-%Y')" >description
-grep -oE '("[^"]*"|[0-9]+,)' pulled |
-    head -n 18 | sed 's|"||g;s|,||' |
-    sed 'N;s/\n/ /' | grep -vE '^avatar' | sed 's| |: |' >description
+URL="https://github.com/trending"
+curl "$URL" |
+	grep 'data-hydro-click' |
+	grep 'TRENDING_REPOSITORIES_PAGE' |
+	grep -o 'href="[^"]*' |
+	head -n1 |
+	awk -F'"' '{print "https://github.com"$2}' > repo
