@@ -9,4 +9,4 @@ cp tests/repo repo
 rm -rf crepo
 git clone "$(head repo)" crepo
 ./gstats > description && cat description
-diff <(head -n12 description) <(head -n12 tests/description) 
+diff <(head -n10 description) <(head -n10 tests/description) 
