@@ -1,6 +1,8 @@
-name: gourcer
+name: daily-build-from-pending
 
 on:
+  # schedule:
+  #   - cron:  '13 */6 * * *'
   push:
     branches: [ master ]
 
@@ -9,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    - name: Get repo
+      run: cat repo
     - name: Check repo
       run: cat repo
     - name: Populate dirs

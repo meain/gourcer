@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# running the separtely without getpending so as to make sure it runs
+git config --global user.email "bot@meain.io"
+git config --global user.name "Bot"
+
+git add pending
+git commit -m "Ran $(head repo)"
+git push origin master
