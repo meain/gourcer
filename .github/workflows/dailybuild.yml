@@ -12,7 +12,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Get repo
-      run: cat repo
+      run: ./getpending
     - name: Check repo
       run: cat repo
     - name: Populate dirs
@@ -28,3 +28,5 @@ jobs:
     #     CLIENT_SECRETS: ${{ secrets.CLIENT_SECRETS }}
     #     REQUEST_TOKEN: ${{ secrets.REQUEST_TOKEN }}
     #   run: docker run -v "$(pwd)/results:/results" -v "$(pwd)/crepo:/repo"  --env TITLE="$(head repo|grep -Eo '[^\/]*/[^\/]*$')" --env DESCRIPTION="$(cat description)" -e CLIENT_SECRETS="$CLIENT_SECRETS" -e REQUEST_TOKEN="$REQUEST_TOKEN" -t runner
+    - name: Mark completion
+      run: ./updatepending
