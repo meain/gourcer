@@ -295,7 +295,7 @@ x https://github.com/ray-project/ray
 x https://github.com/dask/dask
 x https://github.com/charmbracelet/glow
 x https://github.com/guillaume-be/rust-bert
-- https://github.com/vadimdemedes/ink
+x https://github.com/vadimdemedes/ink
 - https://github.com/dwango/fibers-rs
 - https://github.com/TomWright/dasel
 - https://github.com/rust-analyzer/rust-analyzer
