@@ -307,7 +307,7 @@ x https://github.com/c9fe/sirdb
 x https://github.com/squidfunk/mkdocs-material
 x https://github.com/PyCQA/pylint
 x https://github.com/NanoHttpd/nanohttpd
-- https://github.com/FormidableLabs/prism-react-renderer
+x https://github.com/FormidableLabs/prism-react-renderer
 - https://github.com/neoclide/coc.nvim
 - https://github.com/willmcgugan/rich
 - https://github.com/Yqnn/svg-path-editor
