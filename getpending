@@ -1,5 +1,5 @@
 #!/bin/sh
 
-REPO="$(grep -E '^-' pending | head -n1 | cut -d' ' -f2)"
+REPO="$(grep -E '^-' pending | shuf | head -n1 | cut -d' ' -f2)"
 echo "$REPO" >repo
 sed -ibk "s|- $REPO|x $REPO|" pending && rm pendingbk
