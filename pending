@@ -336,7 +336,7 @@ x https://github.com/koct9i/ioping
 x https://github.com/rust-lang/rustfmt
 - https://github.com/rust-lang/book
 - https://github.com/mattn/efm-langserver
-- https://github.com/rust-lang/mdBook
+x https://github.com/rust-lang/mdBook
 - https://github.com/alphapapa/unpackaged.el
 - https://github.com/radareorg/cutter
 - https://github.com/argoproj/argo
