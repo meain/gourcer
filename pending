@@ -333,7 +333,7 @@ x https://github.com/koct9i/ioping
 - https://github.com/MagicStack/asyncpg
 - https://github.com/rust-lang/cargo
 - https://github.com/rust-lang/rustup
-- https://github.com/rust-lang/rustfmt
+x https://github.com/rust-lang/rustfmt
 - https://github.com/rust-lang/book
 - https://github.com/mattn/efm-langserver
 - https://github.com/rust-lang/mdBook
