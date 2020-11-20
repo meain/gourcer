@@ -334,7 +334,7 @@ x https://github.com/k0sproject/k0s
 - https://github.com/rust-lang/cargo
 - https://github.com/rust-lang/rustup
 x https://github.com/rust-lang/rustfmt
-- https://github.com/rust-lang/book
+x https://github.com/rust-lang/book
 - https://github.com/mattn/efm-langserver
 x https://github.com/rust-lang/mdBook
 - https://github.com/alphapapa/unpackaged.el
