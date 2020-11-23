@@ -320,7 +320,7 @@ x https://github.com/Chocobozzz/PeerTube
 - https://github.com/Detegr/rust-ctrlc
 x https://github.com/marko-js/marko
 - https://github.com/tomnomnom/gron
-- https://github.com/rust-lang/highfive
+x https://github.com/rust-lang/highfive
 - https://github.com/ziglang/zig
 - https://github.com/ArturKovacs/emulsion
 - https://github.com/stephank/lazyssh
