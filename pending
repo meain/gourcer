@@ -369,6 +369,6 @@ x https://github.com/fabiopardo/tonic
 - https://github.com/tjdevries/nlua.nvim
 - https://github.com/styled-components/styled-components
 x https://github.com/rktjmp/lush.nvim
-- https://github.com/tokio-rs/loom
+x https://github.com/tokio-rs/loom
 - https://github.com/smol-rs/async-io
 - https://github.com/GothenburgBitFactory/taskwarrior
