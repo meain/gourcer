@@ -366,7 +366,7 @@ x https://github.com/fabiopardo/tonic
 - https://github.com/meqif/docker-compose-mode
 - https://github.com/stoeckmann/xwallpaper
 - https://github.com/spotify/luigi
-- https://github.com/tjdevries/nlua.nvim
+x https://github.com/tjdevries/nlua.nvim
 - https://github.com/styled-components/styled-components
 x https://github.com/rktjmp/lush.nvim
 x https://github.com/tokio-rs/loom
