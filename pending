@@ -426,7 +426,7 @@ x https://github.com/matrix-org/synapse
 - https://github.com/gongo/emacs-nes
 - https://github.com/nvim-telescope/telescope.nvim
 - https://github.com/alexcrichton/proc-macro2
-- https://github.com/akermu/emacs-libvterm
+x https://github.com/akermu/emacs-libvterm
 - https://github.com/john2x/plan9-theme.el
 - https://github.com/brankosekulic/trimHtml
 - https://github.com/NativeScript/NativeScript
