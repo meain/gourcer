@@ -332,7 +332,7 @@ x https://github.com/Aloso/colo
 x https://github.com/k0sproject/k0s
 - https://github.com/MagicStack/asyncpg
 - https://github.com/rust-lang/cargo
-- https://github.com/rust-lang/rustup
+x https://github.com/rust-lang/rustup
 x https://github.com/rust-lang/rustfmt
 x https://github.com/rust-lang/book
 - https://github.com/mattn/efm-langserver
