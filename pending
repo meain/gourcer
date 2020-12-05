@@ -420,7 +420,7 @@ x https://github.com/matrix-org/synapse
 - https://github.com/feross/safe-buffer
 - https://github.com/feross/simple-peer
 - https://github.com/feross/buffer
-- https://github.com/webtorrent/webtorrent-desktop
+x https://github.com/webtorrent/webtorrent-desktop
 - https://github.com/standard/standard
 - https://github.com/digitallyinduced/ihp
 - https://github.com/gongo/emacs-nes
