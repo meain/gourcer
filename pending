@@ -465,7 +465,7 @@ x https://github.com/nwtgck/piping-server
 - https://github.com/rejeep/prodigy.el
 - https://github.com/cask/cask
 - https://github.com/purcell/osx-location
-- https://github.com/purcell/exec-path-from-shell
+x https://github.com/purcell/exec-path-from-shell
 - https://github.com/purcell/airspeed
 - https://github.com/purcell/sqlint
 - https://github.com/dabeaz/curio
