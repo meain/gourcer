@@ -476,7 +476,7 @@ x https://github.com/purcell/exec-path-from-shell
 - https://github.com/taniarascia/takenote
 - https://github.com/containers/skopeo
 - https://github.com/containers/podman
-- https://github.com/containers/buildah
+x https://github.com/containers/buildah
 - https://github.com/rkt/rkt/
 - https://github.com/FormidableLabs/spectacle
 - https://github.com/jxnblk/mdx-deck
