@@ -384,7 +384,7 @@ x https://github.com/edkolev/evil-goggles
 x https://github.com/eduardoboucas/staticman
 x https://github.com/utterance/utterances
 x https://github.com/KDE/kdeconnect-kde
-- https://invent.kde.org/packaging/homebrew-kde
+x https://invent.kde.org/packaging/homebrew-kde
 - https://github.com/onelivesleft/PrettyErrors
 - https://github.com/dkopko/klox
 - https://github.com/swc-project/swc
