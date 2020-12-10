@@ -424,7 +424,7 @@ x https://github.com/webtorrent/webtorrent-desktop
 - https://github.com/standard/standard
 - https://github.com/digitallyinduced/ihp
 - https://github.com/gongo/emacs-nes
-- https://github.com/nvim-telescope/telescope.nvim
+x https://github.com/nvim-telescope/telescope.nvim
 - https://github.com/alexcrichton/proc-macro2
 x https://github.com/akermu/emacs-libvterm
 x https://github.com/john2x/plan9-theme.el
