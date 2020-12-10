@@ -469,7 +469,7 @@ x https://github.com/purcell/exec-path-from-shell
 - https://github.com/purcell/airspeed
 - https://github.com/purcell/sqlint
 - https://github.com/dabeaz/curio
-- https://github.com/lunatic-lang/lunatic
+x https://github.com/lunatic-lang/lunatic
 - https://github.com/eugen0329/vim-esearch
 - https://github.com/directus/directus
 - https://github.com/ruffle-rs/ruffle
