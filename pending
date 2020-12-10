@@ -479,7 +479,7 @@ x https://github.com/lunatic-lang/lunatic
 x https://github.com/containers/buildah
 - https://github.com/rkt/rkt/
 - https://github.com/FormidableLabs/spectacle
-- https://github.com/jxnblk/mdx-deck
+x https://github.com/jxnblk/mdx-deck
 - https://github.com/mikejholly/impressive-markdown
 - https://github.com/coq/coq
 - https://github.com/obsproject/obs-studio
