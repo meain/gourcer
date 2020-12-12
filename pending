@@ -337,7 +337,7 @@ x https://github.com/rust-lang/rustfmt
 x https://github.com/rust-lang/book
 - https://github.com/mattn/efm-langserver
 x https://github.com/rust-lang/mdBook
-- https://github.com/alphapapa/unpackaged.el
+x https://github.com/alphapapa/unpackaged.el
 - https://github.com/radareorg/cutter
 x https://github.com/argoproj/argo
 x https://github.com/ithewei/libhv
