@@ -475,7 +475,7 @@ x https://github.com/lunatic-lang/lunatic
 - https://github.com/ruffle-rs/ruffle
 - https://github.com/taniarascia/takenote
 - https://github.com/containers/skopeo
-- https://github.com/containers/podman
+x https://github.com/containers/podman
 x https://github.com/containers/buildah
 - https://github.com/rkt/rkt/
 - https://github.com/FormidableLabs/spectacle
