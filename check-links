@@ -1,0 +1,17 @@
+#!/bin/sh
+
+set -e
+
+check_and_drop_link() {
+    if ! git ls-remote "$1" 2>/dev/null >/dev/null; then
+        echo "$1" >>/tmp/items
+    fi
+}
+
+grep -E '^-' pending | cut -d' ' -f2 | while read -r line; do
+    echo "$line"
+    check_and_drop_link "$line"
+done
+
+cat /tmp/items | while read -r line; do sed -ibk "s|- $line||" pending; done
+sed -ibb 's/^$/d' pending
