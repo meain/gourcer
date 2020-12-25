@@ -463,7 +463,7 @@ x https://github.com/nwtgck/piping-server
 x https://github.com/jslegendre/AfloatX
 - https://github.com/hazelgrove/hazel
 - https://github.com/rejeep/prodigy.el
-- https://github.com/cask/cask
+x https://github.com/cask/cask
 - https://github.com/purcell/osx-location
 x https://github.com/purcell/exec-path-from-shell
 - https://github.com/purcell/airspeed
