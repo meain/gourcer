@@ -450,7 +450,7 @@ x https://github.com/getpopper/popper
 x https://github.com/dagster-io/dagster
 x https://github.com/alpinejs/alpine/
 - https://github.com/globalizejs/globalize
-- https://github.com/pksunkara/cargo-workspaces
+x https://github.com/pksunkara/cargo-workspaces
 - https://github.com/vim-test/vim-test
 x https://github.com/ogdenwebb/emacs-kaolin-themes
 x https://github.com/wbolster/emacs-python-pytest
