@@ -402,7 +402,7 @@ x https://github.com/devops-works/binenv
 - https://github.com/upptime/upptime
 - https://github.com/akirakyle/emacs-webkit
 - https://github.com/krassowski/jupyterlab-lsp
-- https://github.com/containers/image
+x https://github.com/containers/image
 x https://github.com/containers/storage
 x https://github.com/rust-unofficial/awesome-rust
 x https://github.com/fAndreuzzi/TUI-ConsoleLauncher
