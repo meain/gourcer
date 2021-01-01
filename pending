@@ -477,7 +477,7 @@ x https://github.com/lunatic-lang/lunatic
 - https://github.com/containers/skopeo
 x https://github.com/containers/podman
 x https://github.com/containers/buildah
-- https://github.com/rkt/rkt/
+x https://github.com/rkt/rkt/
 - https://github.com/FormidableLabs/spectacle
 x https://github.com/jxnblk/mdx-deck
 - https://github.com/mikejholly/impressive-markdown
