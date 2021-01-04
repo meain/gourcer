@@ -533,7 +533,7 @@ x https://github.com/poljar/weechat-matrix
 - https://github.com/edubart/nelua-lang
 - https://github.com/dtolnay/serde-yaml
 - https://github.com/webinstall/webi-installers
-- https://github.com/matrix-org/matrix-appservice-slack
+x https://github.com/matrix-org/matrix-appservice-slack
 - https://github.com/gsantner/markor
 - https://github.com/mpcjanssen/simpletask-android
 x https://github.com/benawad/vsinder
