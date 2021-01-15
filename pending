@@ -981,7 +981,7 @@ x https://github.com/facebookincubator/ktfmt
 - https://github.com/termux/termux-app
 - https://github.com/termux/termux-packages
 - https://github.com/termux/x11-packages
-- https://github.com/VladimirMarkelov/solkit
+x https://github.com/VladimirMarkelov/solkit
 - https://github.com/adder46/hstr-rs
 - https://github.com/archivy/archivy
 - https://github.com/chubin/cheat.sh
