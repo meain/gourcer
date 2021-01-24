@@ -388,7 +388,7 @@ x https://invent.kde.org/packaging/homebrew-kde
 x https://github.com/onelivesleft/PrettyErrors
 - https://github.com/dkopko/klox
 - https://github.com/swc-project/swc
-- https://github.com/weld-project/weld
+x https://github.com/weld-project/weld
 x https://github.com/packem/packem/
 - https://github.com/mozilla/agithub
 x https://github.com/andybrewer/mvp/
