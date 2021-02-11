@@ -419,7 +419,7 @@ x https://github.com/matrix-org/dendrite
 - https://github.com/Bios-Marcel/cordless
 x https://github.com/feross/safe-buffer
 - https://github.com/feross/simple-peer
-- https://github.com/feross/buffer
+x https://github.com/feross/buffer
 x https://github.com/webtorrent/webtorrent-desktop
 x https://github.com/standard/standard
 - https://github.com/digitallyinduced/ihp
