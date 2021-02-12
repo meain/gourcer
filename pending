@@ -531,7 +531,7 @@ x https://github.com/poljar/weechat-matrix
 x https://github.com/kivy/kivy
 - https://github.com/kivy/buildozer
 - https://github.com/edubart/nelua-lang
-- https://github.com/dtolnay/serde-yaml
+x https://github.com/dtolnay/serde-yaml
 x https://github.com/webinstall/webi-installers
 x https://github.com/matrix-org/matrix-appservice-slack
 - https://github.com/gsantner/markor
