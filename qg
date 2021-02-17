@@ -1,7 +1,7 @@
 #!/bin/sh
 
 
-wget 'https://github.com/porjo/youtubeuploader/releases/download/20.04/youtubeuploader_linux_amd64.tar.gz' 
+wget 'https://github.com/porjo/youtubeuploader/releases/download/21.02/youtubeuploader_linux_amd64.tar.gz' 
 tar -xvzf youtubeuploader_linux_amd64.tar.gz
 echo "$CLIENT_SECRETS" > client_secrets.json
 echo "$REQUEST_TOKEN" > request.token
