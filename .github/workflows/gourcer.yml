@@ -17,10 +17,8 @@ jobs:
       run: git clone "$(head repo)" crepo
     - name: Fetch description
       run: ./gstats > description && cat description
-    - name: Build container
-      run: docker build -t runner .
     - name: Create video
       env:
         CLIENT_SECRETS: ${{ secrets.CLIENT_SECRETS }}
         REQUEST_TOKEN: ${{ secrets.REQUEST_TOKEN }}
-      run: docker run -v "$(pwd)/results:/results" -v "$(pwd)/crepo:/repo"  --env TITLE="$(head repo|grep -Eo '[^\/]*/[^\/]*$')" --env DESCRIPTION="$(cat description)" -e CLIENT_SECRETS="$CLIENT_SECRETS" -e REQUEST_TOKEN="$REQUEST_TOKEN" -t runner
+      run: docker run -v "$(pwd)/results:/results" -v "$(pwd)/crepo:/repo"  --env TITLE="$(head repo|grep -Eo '[^\/]*/[^\/]*$')" --env DESCRIPTION="$(cat description)" -e CLIENT_SECRETS="$CLIENT_SECRETS" -e REQUEST_TOKEN="$REQUEST_TOKEN" -t meain/gourcer
