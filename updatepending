@@ -5,5 +5,7 @@ git config --global user.email "bot@meain.io"
 git config --global user.name "Bot"
 
 git add pending
-git commit -m "Ran $(head repo)"
+git commit -m "Ran $(head repo)
+
+$(grep -Ec '^x' pending)/$(grep -c . pending) items remaining."
 git push origin master
