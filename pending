@@ -978,7 +978,7 @@ x https://github.com/joaotavora/eglot
 - https://github.com/aspiers/git-deps
 - https://github.com/aatxe/irc
 - https://github.com/david-janssen/kmonad
-- https://github.com/termux/termux-app
+x https://github.com/termux/termux-app
 - https://github.com/termux/termux-packages
 - https://github.com/termux/x11-packages
 x https://github.com/VladimirMarkelov/solkit
