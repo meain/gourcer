@@ -464,7 +464,7 @@ x https://github.com/jslegendre/AfloatX
 x https://github.com/hazelgrove/hazel
 x https://github.com/rejeep/prodigy.el
 x https://github.com/cask/cask
-- https://github.com/purcell/osx-location
+x https://github.com/purcell/osx-location
 x https://github.com/purcell/exec-path-from-shell
 x https://github.com/purcell/airspeed
 - https://github.com/purcell/sqlint
