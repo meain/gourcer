@@ -19,8 +19,6 @@ jobs:
       run: git clone "$(head repo)" crepo
     - name: Fetch description
       run: ./gstats > description && cat description
-    - name: Build container
-      run: docker build -t runner .
     - name: Create video
       env:
         CLIENT_SECRETS: ${{ secrets.CLIENT_SECRETS }}
