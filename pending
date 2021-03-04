@@ -1099,7 +1099,7 @@ x https://github.com/pallets/werkzeug
 x https://github.com/hlissner/emacs-doom-themes
 - https://github.com/maubot/maubot
 - https://github.com/acj/krapslog-rs
-- https://github.com/openfaas/faasd
+x https://github.com/openfaas/faasd
 - https://github.com/JerBouma/FinanceDatabase
 - https://github.com/python-streamz/streamz
 - https://github.com/apple/darwin-xnu
