@@ -335,7 +335,7 @@ x https://github.com/rust-lang/cargo
 x https://github.com/rust-lang/rustup
 x https://github.com/rust-lang/rustfmt
 x https://github.com/rust-lang/book
-- https://github.com/mattn/efm-langserver
+x https://github.com/mattn/efm-langserver
 x https://github.com/rust-lang/mdBook
 x https://github.com/alphapapa/unpackaged.el
 x https://github.com/radareorg/cutter
