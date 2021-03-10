@@ -418,7 +418,7 @@ x https://github.com/matrix-org/synapse
 x https://github.com/matrix-org/dendrite
 x https://github.com/Bios-Marcel/cordless
 x https://github.com/feross/safe-buffer
-- https://github.com/feross/simple-peer
+x https://github.com/feross/simple-peer
 x https://github.com/feross/buffer
 x https://github.com/webtorrent/webtorrent-desktop
 x https://github.com/standard/standard
