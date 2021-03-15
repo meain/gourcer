@@ -1148,7 +1148,7 @@ x https://github.com/sakhnik/nvim-gdb
 x https://github.com/taylorskalyo/goreader
 - https://github.com/troglobit/netcalc
 - https://github.com/selik/xport
-- https://github.com/rust-secure-code/cargo-supply-chain
+x https://github.com/rust-secure-code/cargo-supply-chain
 x https://github.com/tauri-apps/tauri
 - https://github.com/anticomputer/gh-notify
 - https://github.com/jgraph/drawio-desktop
