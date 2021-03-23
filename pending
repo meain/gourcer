@@ -1095,7 +1095,7 @@ x https://github.com/pallets/werkzeug
 - https://github.com/cdr/code-server
 - https://github.com/micahflee/onionshare
 - https://github.com/jc21/nginx-proxy-manager
-- https://github.com/turt2live/matrix-bot-sdk
+x https://github.com/turt2live/matrix-bot-sdk
 x https://github.com/hlissner/emacs-doom-themes
 - https://github.com/maubot/maubot
 - https://github.com/acj/krapslog-rs
