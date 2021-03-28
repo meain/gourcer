@@ -6,7 +6,7 @@ echo "$REQUEST_TOKEN" > request.token
 
 RES="${RES:-1920x1080}"
 echo "Starting video generation..."
-gource -s 0.2 -a 1 ./ -"$RES" -o - |
+gource --title "$TITLE" --key -s 0.2 -a 1 ./ -"$RES" -o - |
 ffmpeg -y -r 60 -f image2pipe -vcodec ppm -i - -vcodec libx264 -preset medium \
 -timeout 20 \
 -pix_fmt yuv420p -crf 1 -analyzeduration 999999999 -probesize 999999999 \
