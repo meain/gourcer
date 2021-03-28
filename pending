@@ -478,7 +478,7 @@ x https://github.com/ruffle-rs/ruffle
 x https://github.com/containers/podman
 x https://github.com/containers/buildah
 x https://github.com/rkt/rkt/
-- https://github.com/FormidableLabs/spectacle
+x https://github.com/FormidableLabs/spectacle
 x https://github.com/jxnblk/mdx-deck
 - https://github.com/mikejholly/impressive-markdown
 - https://github.com/coq/coq
