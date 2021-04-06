@@ -1135,7 +1135,7 @@ x https://github.com/ajmwagar/vim-deus
 - https://github.com/kristijanhusak/line-notes.nvim
 - https://github.com/kristijanhusak/vim-dadbod-ui
 - https://github.com/kristijanhusak/vim-hybrid-material
-- https://github.com/dennyzhang/cheatsheet.dennyzhang.com
+x https://github.com/dennyzhang/cheatsheet.dennyzhang.com
 x https://github.com/knative/client
 x https://github.com/sakhnik/nvim-gdb
 - https://github.com/cormacrelf/vim-colors-github
