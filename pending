@@ -1131,7 +1131,7 @@ x https://github.com/rogchap/v8go
 - https://github.com/karthink/project-x
 x https://github.com/11ty/eleventy/
 x https://github.com/ajmwagar/vim-deus
-- https://github.com/f-person/git-blame.nvim
+x https://github.com/f-person/git-blame.nvim
 x https://github.com/kristijanhusak/line-notes.nvim
 - https://github.com/kristijanhusak/vim-dadbod-ui
 - https://github.com/kristijanhusak/vim-hybrid-material
