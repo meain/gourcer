@@ -1038,7 +1038,7 @@ x https://github.com/museun/cargo-whatfeatures
 - git://git.codemadness.org/sfeed- https://github.com/cessen/ropey
 x https://github.com/IGI-111/Smith
 x https://github.com/mcobzarenco/zee
-- https://github.com/ivanceras/ultron
+x https://github.com/ivanceras/ultron
 x https://github.com/objective-see/LuLu
 x https://github.com/mitmproxy/mitmproxy
 x https://github.com/nvim-telescope/telescope-frecency.nvim
