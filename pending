@@ -502,7 +502,7 @@ x https://github.com/hug-sun/element3
 x https://depp.brause.cc/chip8.el.git
 x https://github.com/manateelazycat/emacs-application-framework
 x https://github.com/MatthewZMD/.emacs.d
-- https://github.com/jpablobr/emacs-monkeytype
+x https://github.com/jpablobr/emacs-monkeytype
 - https://github.com/plouc/nivo
 x https://github.com/env-logger-rs/env_logger
 x https://github.com/PsichiX/raui
