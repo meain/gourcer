@@ -1134,7 +1134,7 @@ x https://github.com/ajmwagar/vim-deus
 x https://github.com/f-person/git-blame.nvim
 x https://github.com/kristijanhusak/line-notes.nvim
 - https://github.com/kristijanhusak/vim-dadbod-ui
-- https://github.com/kristijanhusak/vim-hybrid-material
+x https://github.com/kristijanhusak/vim-hybrid-material
 x https://github.com/dennyzhang/cheatsheet.dennyzhang.com
 x https://github.com/knative/client
 x https://github.com/sakhnik/nvim-gdb
