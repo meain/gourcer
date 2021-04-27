@@ -1207,7 +1207,7 @@ x https://github.com/jsoftware/jsource
 - https://github.com/emacs-pe/docker-tramp.el
 - https://gitlab.gnome.org/danigm/fractal.git
 - https://github.com/harc/ohm
-- https://github.com/kneasle/sapling
+x https://github.com/kneasle/sapling
 - https://github.com/containers/toolbox
 - https://github.com/nakabonne/rhack
 - https://github.com/kdheepak/taskwarrior-tui
