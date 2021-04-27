@@ -1251,7 +1251,7 @@ x https://github.com/frappe/frappe
 - https://github.com/valyala/fasthttp
 - https://github.com/sainnhe/tmux-fzf
 - https://github.com/tboox/tbox
-- https://github.com/smolck/uivonim
+x https://github.com/smolck/uivonim
 - https://github.com/minad/vertico
 x https://github.com/rclone/rclone
 - https://github.com/phaazon/hop.nvim
