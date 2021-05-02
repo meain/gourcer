@@ -1103,7 +1103,7 @@ x https://github.com/openfaas/faasd
 - https://github.com/JerBouma/FinanceDatabase
 - https://github.com/python-streamz/streamz
 - https://github.com/apple/darwin-xnu
-- https://github.com/dessant/buster
+x https://github.com/dessant/buster
 - https://github.com/friendlycaptcha/friendly-pow
 x https://github.com/freesteph/elescope
 - https://github.com/thefrontside/frontmacs
