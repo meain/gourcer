@@ -467,7 +467,7 @@ x https://github.com/cask/cask
 x https://github.com/purcell/osx-location
 x https://github.com/purcell/exec-path-from-shell
 x https://github.com/purcell/airspeed
-- https://github.com/purcell/sqlint
+x https://github.com/purcell/sqlint
 x https://github.com/dabeaz/curio
 x https://github.com/lunatic-lang/lunatic
 - https://github.com/eugen0329/vim-esearch
