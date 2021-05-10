@@ -1115,7 +1115,7 @@ x https://github.com/dim-an/cod
 - https://github.com/helloSystem/hello
 x https://github.com/prbinu/touch2sudo
 - https://github.com/publicsuffix/list
-- https://github.com/company-mode/company-statistics
+x https://github.com/company-mode/company-statistics
 - https://github.com/rust-lang/rustlings
 x https://github.com/lewis6991/gitsigns.nvim
 x https://github.com/nvim-lua/completion-nvim
