@@ -1206,7 +1206,7 @@ x https://github.com/jsoftware/jsource
 - https://github.com/rksm/clj-org-analyzer
 - https://github.com/emacs-pe/docker-tramp.el
 - https://gitlab.gnome.org/danigm/fractal.git
-- https://github.com/harc/ohm
+x https://github.com/harc/ohm
 x https://github.com/kneasle/sapling
 - https://github.com/containers/toolbox
 x https://github.com/nakabonne/rhack
