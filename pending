@@ -1076,7 +1076,7 @@ x https://github.com/zalando/pg_view
 x https://github.com/beekeeper-studio/beekeeper-studio
 - https://github.com/jackc/pgx
 - https://github.com/jackc/tern
-- https://github.com/syphon-org/syphon
+x https://github.com/syphon-org/syphon
 - https://github.com/rust-lang/glacier
 x https://github.com/dogecoin/dogecoin
 - https://github.com/keith/reminders-cli
