@@ -1165,7 +1165,7 @@ x https://github.com/denosaurs/sodium
 x https://github.com/brave/brave-browser
 x https://github.com/MoonZoon/MoonZoon
 - https://github.com/jimblandy/context-switch
-- https://github.com/omnilib/aiosqlite
+x https://github.com/omnilib/aiosqlite
 - https://github.com/omnilib/aiomultiprocess
 - https://github.com/omnilib/aioitertools
 - https://github.com/gzuidhof/starboard-notebook
