@@ -1261,7 +1261,7 @@ x https://github.com/mozilla/TTS
 - https://github.com/gravitational/teleport
 x https://github.com/rehypejs/rehype
 x https://github.com/gruns/icecream
-- https://github.com/matrix-org/matrix-react-sdk
+x https://github.com/matrix-org/matrix-react-sdk
 - https://github.com/ahmetb/kubectx
 x https://github.com/jplatte/caniuse.rs
 - https://github.com/elixir-lsp/elixir-ls
