@@ -1265,7 +1265,7 @@ x https://github.com/matrix-org/matrix-react-sdk
 - https://github.com/ahmetb/kubectx
 x https://github.com/jplatte/caniuse.rs
 - https://github.com/elixir-lsp/elixir-ls
-- https://github.com/sandboxie-plus/Sandboxie
+x https://github.com/sandboxie-plus/Sandboxie
 x https://github.com/algorithm-visualizer/algorithm-visualizer
 - https://github.com/sigmaSd/IRust
 - https://gitlab.com/ideasman42/emacs-mode-line-idle
