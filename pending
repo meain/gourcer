@@ -1106,7 +1106,7 @@ x https://github.com/apple/darwin-xnu
 x https://github.com/dessant/buster
 x https://github.com/friendlycaptcha/friendly-pow
 x https://github.com/freesteph/elescope
-- https://github.com/thefrontside/frontmacs
+x https://github.com/thefrontside/frontmacs
 x https://github.com/mrmekon/snitch-el
 x https://github.com/xiph/rav1e
 - https://github.com/daviderestivo/homebrew-emacs-head
