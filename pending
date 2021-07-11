@@ -982,7 +982,7 @@ x https://github.com/termux/termux-app
 x https://github.com/termux/termux-packages
 x https://github.com/termux/x11-packages
 x https://github.com/VladimirMarkelov/solkit
-- https://github.com/adder46/hstr-rs
+x https://github.com/adder46/hstr-rs
 x https://github.com/archivy/archivy
 x https://github.com/chubin/cheat.sh
 x https://github.com/anilmaurya/fast_jsonparser
