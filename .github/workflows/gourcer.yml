@@ -21,4 +21,4 @@ jobs:
       env:
         CLIENT_SECRETS: ${{ secrets.CLIENT_SECRETS }}
         REQUEST_TOKEN: ${{ secrets.REQUEST_TOKEN }}
-      run: docker run -v "$(pwd)/results:/results" -v "$(pwd)/crepo:/repo"  --env TITLE="$(head repo|grep -Eo '[^\/]*/[^\/]*$')" --env DESCRIPTION="$(cat description)" -e CLIENT_SECRETS="$CLIENT_SECRETS" -e REQUEST_TOKEN="$REQUEST_TOKEN" -t meain/gourcer:0.0.3
+      run: docker run -v "$(pwd)/results:/results" -v "$(pwd)/crepo:/repo"  --env TITLE="$(head repo|grep -Eo '[^\/]*/[^\/]*$')" --env DESCRIPTION="$(cat description)" -e CLIENT_SECRETS="$CLIENT_SECRETS" -e REQUEST_TOKEN="$REQUEST_TOKEN" -t meain/gourcer:0.0.4
