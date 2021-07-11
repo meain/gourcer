@@ -6,7 +6,10 @@ echo "$REQUEST_TOKEN" > request.token
 
 RES="${RES:-1920x1080}"
 echo "Starting video generation..."
-gource --title "$TITLE" --key -s 0.2 -a 1 ./ -"$RES" -o - |
+TIME_PER_COMMIT=0.2
+TOTAL_COMMITS="$(git log --oneline|wc -l)"
+[ "$TOTAL_COMMITS" -ge 10000 ] && TIME_PER_COMMIT="$(echo "(10*60)/$TOTAL_COMMITS"|bc -l)"  # max 10 mins
+gource --title "$TITLE" --key -s "$TIME_PER_COMMIT" -a 1 ./ -"$RES" -o - |
 ffmpeg -y -r 60 -f image2pipe -vcodec ppm -i - -vcodec libx264 -preset medium \
 -timeout 20 \
 -pix_fmt yuv420p -crf 1 -analyzeduration 999999999 -probesize 999999999 \
