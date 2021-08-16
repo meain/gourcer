@@ -1465,7 +1465,7 @@ x https://github.com/sghall/react-compound-slider
 - https://github.com/hrsh7th/nvim-compe
 - https://github.com/rafcamlet/nvim-luapad
 - https://github.com/kana/vim-vspec
-- https://github.com/MunifTanjim/nui.nvim
+x https://github.com/MunifTanjim/nui.nvim
 - https://github.com/nvim-treesitter/tree-sitter-query
 - https://github.com/neovide/neovide
 - https://github.com/evhub/coconut
