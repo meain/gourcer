@@ -1506,7 +1506,7 @@ x https://github.com/google/nixery
 - https://github.com/alex-dukhno/isomorphicdb
 - https://github.com/tikv/raft-rs
 - https://github.com/tokio-rs/tracing
-- https://github.com/ericaltendorf/plotman
+x https://github.com/ericaltendorf/plotman
 - https://github.com/SubhrajitPrusty/wallgen
 - https://github.com/Vanille-N/wallrnd
 - https://github.com/qarmin/czkawka
