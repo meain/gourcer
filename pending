@@ -1473,7 +1473,7 @@ x https://github.com/evhub/coconut
 - https://github.com/tecosaur/emacs-everywhere
 - https://github.com/folke/tokyonight.nvim
 - https://github.com/folke/trouble.nvim
-- https://github.com/folke/todo-comments.nvim
+x https://github.com/folke/todo-comments.nvim
 - https://github.com/folke/zen-mode.nvim
 x https://github.com/odpf/optimus
 - https://github.com/wbkd/react-flow
