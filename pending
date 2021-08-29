@@ -1504,7 +1504,7 @@ x https://github.com/alphapapa/ement.el
 - https://github.com/meilisearch/MeiliSearch
 x https://github.com/valeriansaliou/sonic
 - https://github.com/alex-dukhno/isomorphicdb
-- https://github.com/tikv/raft-rs
+x https://github.com/tikv/raft-rs
 x https://github.com/tokio-rs/tracing
 x https://github.com/ericaltendorf/plotman
 - https://github.com/SubhrajitPrusty/wallgen
