@@ -1469,7 +1469,7 @@ x https://github.com/MunifTanjim/nui.nvim
 - https://github.com/nvim-treesitter/tree-sitter-query
 x https://github.com/neovide/neovide
 x https://github.com/evhub/coconut
-- https://github.com/tecosaur/org-pandoc-import
+x https://github.com/tecosaur/org-pandoc-import
 - https://github.com/tecosaur/emacs-everywhere
 - https://github.com/folke/tokyonight.nvim
 x https://github.com/folke/trouble.nvim
