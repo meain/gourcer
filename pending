@@ -1568,7 +1568,7 @@ x https://github.com/tilt-dev/tilt
 - https://github.com/facebookincubator/glean
 - https://github.com/microsoft/codetour
 - https://github.com/ifreund/river
-- https://github.com/tokio-rs/mini-redis
+x https://github.com/tokio-rs/mini-redis
 - https://github.com/galdor/rfc-mode
 - https://github.com/edent/TweeView
 - https://github.com/Half-Shot/matrix-github
