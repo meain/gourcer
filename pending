@@ -1557,7 +1557,7 @@ x https://github.com/tilt-dev/tilt
 - https://github.com/fakedata-haskell/fakedata
 - https://github.com/commercialhaskell/stack
 - https://github.com/yesodweb/persistent
-- https://github.com/commitdev/zero
+x https://github.com/commitdev/zero
 - https://github.com/zkat/miette
 - https://github.com/blrsn/zentile
 - https://github.com/babysor/MockingBird
