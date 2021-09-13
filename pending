@@ -1584,7 +1584,7 @@ x https://github.com/tokio-rs/mini-redis
 - https://github.com/odoo/odoo
 - https://github.com/robscott/kube-capacity
 - https://github.com/kubernetes-sigs/krew
-- https://github.com/inclement/vivarium
+x https://github.com/inclement/vivarium
 - https://github.com/redhat-developer/yaml-language-server
 - https://github.com/FelixKratz/SketchyBar
 - https://github.com/roapi/roapi
