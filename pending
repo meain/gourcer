@@ -1555,7 +1555,7 @@ x https://github.com/tilt-dev/tilt
 - https://github.com/Eloston/ungoogled-chromium
 - https://github.com/yesodweb/yesod
 - https://github.com/fakedata-haskell/fakedata
-- https://github.com/commercialhaskell/stack
+x https://github.com/commercialhaskell/stack
 - https://github.com/yesodweb/persistent
 x https://github.com/commitdev/zero
 - https://github.com/zkat/miette
