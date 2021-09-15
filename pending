@@ -1553,7 +1553,7 @@ x https://github.com/ruma/ruma
 x https://github.com/jplatte/cargo-depgraph
 x https://github.com/tilt-dev/tilt
 x https://github.com/Eloston/ungoogled-chromium
-- https://github.com/yesodweb/yesod
+x https://github.com/yesodweb/yesod
 - https://github.com/fakedata-haskell/fakedata
 x https://github.com/commercialhaskell/stack
 - https://github.com/yesodweb/persistent
