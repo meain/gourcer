@@ -1636,7 +1636,7 @@ x https://github.com/peermaps/eyros
 - https://github.com/cloudnativelabs/kube-shell
 x https://github.com/c-bata/go-prompt
 - https://github.com/dbcli/pgcli
-- https://github.com/prompt-toolkit/python-prompt-toolkit
+x https://github.com/prompt-toolkit/python-prompt-toolkit
 - https://github.com/cch123/asm-cli
 - https://github.com/tiagorlampert/CHAOS
 x https://github.com/abs-lang/abs
