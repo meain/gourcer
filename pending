@@ -1556,7 +1556,7 @@ x https://github.com/Eloston/ungoogled-chromium
 x https://github.com/yesodweb/yesod
 - https://github.com/fakedata-haskell/fakedata
 x https://github.com/commercialhaskell/stack
-- https://github.com/yesodweb/persistent
+x https://github.com/yesodweb/persistent
 x https://github.com/commitdev/zero
 - https://github.com/zkat/miette
 x https://github.com/blrsn/zentile
