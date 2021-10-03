@@ -1709,6 +1709,6 @@ x https://github.com/kamax-matrix/mxisd
 - https://github.com/emacs-lsp/lsp-gitpod
 - https://github.com/sulami/literate-calc-mode.el
 - https://gitlab.com/pidu/git-timemachine.git
-- https://github.com/vlaci/nix-doom-emacs
+x https://github.com/vlaci/nix-doom-emacs
 - https://codeberg.org/FelipeLema/tree-sitter-indent.el.git
 - https://github.com/kisielk/errcheck
