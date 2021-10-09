@@ -1710,7 +1710,7 @@ x https://github.com/hashicorp/waypoint
 - https://github.com/sulami/literate-calc-mode.el
 - https://gitlab.com/pidu/git-timemachine.git
 x https://github.com/vlaci/nix-doom-emacs
-- https://codeberg.org/FelipeLema/tree-sitter-indent.el.git
+x https://codeberg.org/FelipeLema/tree-sitter-indent.el.git
 - https://github.com/kisielk/errcheck
 - https://github.com/hraberg/deuce
 - https://github.com/jyp/boon
