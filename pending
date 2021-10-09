@@ -1471,7 +1471,7 @@ x https://github.com/neovide/neovide
 x https://github.com/evhub/coconut
 x https://github.com/tecosaur/org-pandoc-import
 - https://github.com/tecosaur/emacs-everywhere
-- https://github.com/folke/tokyonight.nvim
+x https://github.com/folke/tokyonight.nvim
 x https://github.com/folke/trouble.nvim
 x https://github.com/folke/todo-comments.nvim
 x https://github.com/folke/zen-mode.nvim
