@@ -1558,7 +1558,7 @@ x https://github.com/yesodweb/yesod
 x https://github.com/commercialhaskell/stack
 x https://github.com/yesodweb/persistent
 x https://github.com/commitdev/zero
-- https://github.com/zkat/miette
+x https://github.com/zkat/miette
 x https://github.com/blrsn/zentile
 x https://github.com/babysor/MockingBird
 x https://github.com/armosec/kubescape
