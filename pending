@@ -1554,7 +1554,7 @@ x https://github.com/jplatte/cargo-depgraph
 x https://github.com/tilt-dev/tilt
 x https://github.com/Eloston/ungoogled-chromium
 x https://github.com/yesodweb/yesod
-- https://github.com/fakedata-haskell/fakedata
+x https://github.com/fakedata-haskell/fakedata
 x https://github.com/commercialhaskell/stack
 x https://github.com/yesodweb/persistent
 x https://github.com/commitdev/zero
