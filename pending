@@ -1711,7 +1711,7 @@ x https://github.com/hashicorp/waypoint
 - https://gitlab.com/pidu/git-timemachine.git
 x https://github.com/vlaci/nix-doom-emacs
 x https://codeberg.org/FelipeLema/tree-sitter-indent.el.git
-- https://github.com/kisielk/errcheck
+x https://github.com/kisielk/errcheck
 x https://github.com/hraberg/deuce
 - https://github.com/jyp/boon
 - https://github.com/janestreet/ecaml
