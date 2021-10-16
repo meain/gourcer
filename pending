@@ -1707,7 +1707,7 @@ x https://github.com/eraserhd/parinfer-rust
 - https://github.com/emacsorphanage/ov
 x https://github.com/hashicorp/waypoint
 - https://github.com/emacs-lsp/lsp-gitpod
-- https://github.com/sulami/literate-calc-mode.el
+x https://github.com/sulami/literate-calc-mode.el
 - https://gitlab.com/pidu/git-timemachine.git
 x https://github.com/vlaci/nix-doom-emacs
 x https://codeberg.org/FelipeLema/tree-sitter-indent.el.git
