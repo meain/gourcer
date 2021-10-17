@@ -1706,7 +1706,7 @@ x https://github.com/eraserhd/parinfer-rust
 - https://github.com/christianselig/Amplosion
 - https://github.com/emacsorphanage/ov
 x https://github.com/hashicorp/waypoint
-- https://github.com/emacs-lsp/lsp-gitpod
+x https://github.com/emacs-lsp/lsp-gitpod
 x https://github.com/sulami/literate-calc-mode.el
 - https://gitlab.com/pidu/git-timemachine.git
 x https://github.com/vlaci/nix-doom-emacs
