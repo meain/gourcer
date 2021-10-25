@@ -1871,7 +1871,7 @@ x https://github.com/lwilletts/mpvc
 - https://github.com/theleagueof/chunk
 - https://github.com/dash-docs-el/helm-dash
 - https://github.com/emacs-evil/evil-magit
-- https://github.com/pugjs/pug
+x https://github.com/pugjs/pug
 - https://github.com/hvesalai/emacs-scala-mode
 - https://github.com/digitaltoad/vim-pug
 - https://github.com/scala-native/scala-native
