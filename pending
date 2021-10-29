@@ -1771,7 +1771,7 @@ x https://github.com/lwilletts/mpvc
 - https://github.com/xzfc/cached-nix-shell
 - https://github.com/kuanyui/copy-as-org-mode
 - https://github.com/oantolin/orderless
-- https://github.com/purcell/nix-emacs-ci
+x https://github.com/purcell/nix-emacs-ci
 - https://github.com/tecosaur/emacs-config
 - https://github.com/bastibe/org-journal
 - https://github.com/stackgl/webgl-workshop
