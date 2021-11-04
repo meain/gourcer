@@ -1873,7 +1873,7 @@ x https://github.com/purcell/nix-emacs-ci
 - https://github.com/emacs-evil/evil-magit
 x https://github.com/pugjs/pug
 - https://github.com/hvesalai/emacs-scala-mode
-- https://github.com/digitaltoad/vim-pug
+x https://github.com/digitaltoad/vim-pug
 - https://github.com/scala-native/scala-native
 - https://github.com/jart/disaster
 x https://github.com/cute-jumper/evil-embrace.el
