@@ -1787,7 +1787,7 @@ x https://github.com/purcell/nix-emacs-ci
 - https://github.com/noctuid/things.el
 - https://github.com/brotzeit/rustic
 - https://github.com/jasonm23/autothemer
-- https://github.com/uniphil/nix-for-devs
+x https://github.com/uniphil/nix-for-devs
 - https://github.com/gilbertw1/better-jumper
 - https://github.com/DarthFennec/highlight-indent-guides
 - https://github.com/lewang/ws-butler
