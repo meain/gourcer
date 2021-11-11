@@ -2033,7 +2033,7 @@ x https://github.com/html5blank/html5blank
 - https://github.com/ellisonleao/magictools
 - https://github.com/bayandin/awesome-awesomeness
 - https://github.com/senny/rbenv.el
-- https://github.com/ternjs/tern
+x https://github.com/ternjs/tern
 - https://github.com/jaypei/emacs-neotree
 - https://github.com/emacsmirror/multiple-cursors
 - https://github.com/redguardtoo/evil-nerd-commenter
@@ -2062,7 +2062,7 @@ x https://github.com/JamieMason/ImageOptim-CLI
 - https://github.com/photonstorm/phaser
 - https://github.com/catchouli/coment
 - https://github.com/bdkjones/CodeKit2
-- https://github.com/ternjs/tern_for_vim
+x https://github.com/ternjs/tern_for_vim
 - https://github.com/mattn/emmet-vim
 - https://github.com/Shougo/neobundle.vim
 - https://github.com/pixijs/pixijs
