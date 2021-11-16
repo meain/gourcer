@@ -2069,7 +2069,7 @@ x https://github.com/ternjs/tern_for_vim
 - https://github.com/c-bata/kube-prompt
 - https://github.com/encode/httpx
 - https://github.com/excalidraw/excalidraw
-- https://github.com/emacs-tree-sitter/elisp-tree-sitter
+x https://github.com/emacs-tree-sitter/elisp-tree-sitter
 - https://github.com/hifi/heisenbridge
 - https://github.com/crate-ci/typos
 - https://github.com/containers/youki
