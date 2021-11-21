@@ -2071,7 +2071,7 @@ x https://github.com/ternjs/tern_for_vim
 - https://github.com/excalidraw/excalidraw
 x https://github.com/emacs-tree-sitter/elisp-tree-sitter
 - https://github.com/hifi/heisenbridge
-- https://github.com/crate-ci/typos
+x https://github.com/crate-ci/typos
 - https://github.com/containers/youki
 - https://github.com/nix-community/home-manager
 - https://github.com/phiresky/sql.js-httpvfs
