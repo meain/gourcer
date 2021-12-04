@@ -1,11 +1,11 @@
-Url: https://github.com/meain/undohist-el
+Url: https://github.com/meain/webpageget
 Author: meain
-Repo: undohist-el
-Description: Persistent Undo History for GNU Emacs
-Starred: 0
-Forked: 9
-Top Languages: Emacs Lisp 100.0%
-Total commits: 7
-Initial commit: Fri Mar 5 17:56:02 2010 +0900
-Total number of files: 1
-Total number of lines: 256
+Repo: webpageget
+Description: Get webpage content in different formats
+Starred: 1
+Forked: 0
+Watching: 3
+Total commits: 10
+Initial commit: Wed Nov 4 10:38:58 2020 +0530
+Total number of files: 4
+Total number of lines: 2745
