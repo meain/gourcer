@@ -2054,7 +2054,7 @@ x https://github.com/JamieMason/ImageOptim-CLI
 - https://github.com/lovetoys/lovetoys
 - https://github.com/Homebrew/homebrew-cask
 - https://github.com/SecGen/SecGen
-- https://github.com/carsomyr/rbenv-bundler
+x https://github.com/carsomyr/rbenv-bundler
 - https://github.com/rbenv/rbenv
 - https://github.com/pyenv/pyenv
 - https://github.com/pyenv/pyenv-virtualenv
