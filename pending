@@ -1931,7 +1931,7 @@ x https://github.com/tomterl/repl-toggle
 x https://github.com/wakatime/wakatime-mode
 - https://github.com/dfeich/helm-deft
 - https://github.com/zweifisch/ob-http
-- https://github.com/hyperium/hyper
+x https://github.com/hyperium/hyper
 - https://github.com/ubolonton/.emacs.d
 - https://github.com/vspinu/company-math
 - https://github.com/company-mode/company-mode
