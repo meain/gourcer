@@ -2053,7 +2053,7 @@ x https://github.com/JamieMason/ImageOptim-CLI
 - https://github.com/joakimkarlsson/igloo
 - https://github.com/lovetoys/lovetoys
 - https://github.com/Homebrew/homebrew-cask
-- https://github.com/SecGen/SecGen
+x https://github.com/SecGen/SecGen
 x https://github.com/carsomyr/rbenv-bundler
 - https://github.com/rbenv/rbenv
 - https://github.com/pyenv/pyenv
