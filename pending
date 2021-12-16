@@ -1949,7 +1949,7 @@ x https://github.com/junegunn/vim-plug
 - https://github.com/oprypin/crsfml
 - https://github.com/veelenga/awesome-crystal
 - https://github.com/emacsorphanage/helm-ag
-- https://github.com/PythonNut/evil-easymotion
+x https://github.com/PythonNut/evil-easymotion
 x https://github.com/CestDiego/nand2tetris.el
 - https://github.com/avinassh/rockstar
 - https://github.com/k0dai/density
