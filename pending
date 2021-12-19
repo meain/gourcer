@@ -1940,7 +1940,7 @@ x https://github.com/emacs-evil/evil-surround
 x https://github.com/wallyqs/org-ruby
 x https://github.com/PythonNut/quark-emacs
 x https://github.com/gabesoft/evil-mc
-- https://github.com/alecthomas/entityx
+x https://github.com/alecthomas/entityx
 x https://github.com/junegunn/vim-plug
 - https://github.com/iron/iron
 - https://github.com/emacsorphanage/go-eldoc
