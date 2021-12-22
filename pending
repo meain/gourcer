@@ -1868,7 +1868,7 @@ x https://github.com/jcjohnson/neural-style
 - https://github.com/mozilla/Fira
 - https://github.com/klepas/open-baskerville
 - https://github.com/theleagueof/league-gothic
-- https://github.com/theleagueof/chunk
+x https://github.com/theleagueof/chunk
 x https://github.com/dash-docs-el/helm-dash
 - https://github.com/emacs-evil/evil-magit
 x https://github.com/pugjs/pug
