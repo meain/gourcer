@@ -2913,6 +2913,6 @@ x https://github.com/KieronQuinn/TapTap
 - https://github.com/mastodon/mastodon
 - https://github.com/doublep/eldev
 - https://github.com/rubjo/victor-mono
-- https://github.com/GoogleContainerTools/distroless
+x https://github.com/GoogleContainerTools/distroless
 x https://github.com/sigstore/cosign
 - https://github.com/upx/upx
