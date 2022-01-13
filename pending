@@ -2922,7 +2922,7 @@ x https://github.com/upx/upx- https://github.com/cshum/imagor
 - https://github.com/redox-os/ion
 - https://github.com/bvaisvil/zenith
 - https://github.com/input-output-hk/bitte
-- https://github.com/fluxcd/flux2
+x https://github.com/fluxcd/flux2
 - https://github.com/bufbuild/buf- https://github.com/prabhatsharma/zinc
 - https://github.com/tonsky/sublime-clojure
 - https://codeberg.org/dnkl/foot.git
