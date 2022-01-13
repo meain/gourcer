@@ -2003,7 +2003,7 @@ x https://github.com/libgdx/packr
 - https://github.com/massiveinteractive/MassiveUnit
 - https://github.com/pry/pry-doc
 - https://github.com/ConradIrwin/pry-rescue
-- https://github.com/pry/pry-stack_explorer
+x https://github.com/pry/pry-stack_explorer
 x https://github.com/deivid-rodriguez/pry-byebug
 - https://github.com/mubix/shellshocker-pocs
 - https://github.com/FortAwesome/Font-Awesome
