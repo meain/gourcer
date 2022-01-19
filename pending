@@ -1769,7 +1769,7 @@ x https://github.com/ryantm/agenix
 - https://github.com/purcell/envrc
 - https://github.com/kholia/OSX-KVM
 - https://github.com/xzfc/cached-nix-shell
-- https://github.com/kuanyui/copy-as-org-mode
+x https://github.com/kuanyui/copy-as-org-mode
 - https://github.com/oantolin/orderless
 x https://github.com/purcell/nix-emacs-ci
 - https://github.com/tecosaur/emacs-config
