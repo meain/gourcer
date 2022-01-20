@@ -2067,7 +2067,7 @@ x https://github.com/ternjs/tern_for_vim
 - https://github.com/Shougo/neobundle.vim
 - https://github.com/pixijs/pixijs
 - https://github.com/c-bata/kube-prompt
-- https://github.com/encode/httpx
+x https://github.com/encode/httpx
 - https://github.com/excalidraw/excalidraw
 x https://github.com/emacs-tree-sitter/elisp-tree-sitter
 x https://github.com/hifi/heisenbridge
