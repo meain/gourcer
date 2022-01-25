@@ -2943,7 +2943,7 @@ x https://github.com/fluxcd/flux2
 - https://github.com/berberman/nvfetcher
 - https://github.com/ppy/osu
 - https://github.com/lib/pq
-- https://github.com/DATA-DOG/go-sqlmock
+x https://github.com/DATA-DOG/go-sqlmock
 - https://github.com/go-task/task
 - https://github.com/dwmkerr/hacker-laws
 - https://github.com/commune-org/commune
