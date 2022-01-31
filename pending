@@ -1774,7 +1774,7 @@ x https://github.com/kuanyui/copy-as-org-mode
 x https://github.com/purcell/nix-emacs-ci
 - https://github.com/tecosaur/emacs-config
 - https://github.com/bastibe/org-journal
-- https://github.com/stackgl/webgl-workshop
+x https://github.com/stackgl/webgl-workshop
 - https://github.com/stackgl/shader-school
 - https://github.com/chenyanming/calibredb.el
 - https://github.com/nix-community/emacs-overlay
