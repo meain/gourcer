@@ -1944,7 +1944,7 @@ x https://github.com/alecthomas/entityx
 x https://github.com/junegunn/vim-plug
 - https://github.com/iron/iron
 - https://github.com/emacsorphanage/go-eldoc
-- https://github.com/libgdx/libgdx
+x https://github.com/libgdx/libgdx
 - https://github.com/smihica/emmet-mode
 - https://github.com/oprypin/crsfml
 - https://github.com/veelenga/awesome-crystal
