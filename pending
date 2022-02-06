@@ -1730,7 +1730,7 @@ x https://github.com/borgbackup/borg
 x https://github.com/FiloSottile/mkcert
 - https://github.com/marceloprates/prettymaps
 x https://github.com/wiretrustee/wiretrustee
-- https://github.com/NixOS/nixos-search
+x https://github.com/NixOS/nixos-search
 - https://github.com/nativefier/nativefier
 - https://gitlab.com/simple-nixos-mailserver/nixos-mailserver
 x https://github.com/tweag/nickel
