@@ -2940,7 +2940,7 @@ x https://github.com/fluxcd/flux2
 - https://github.com/svenstaro/genact
 - https://github.com/lapce/lapce
 - https://github.com/kubevirt/kubevirt
-- https://github.com/berberman/nvfetcher
+x https://github.com/berberman/nvfetcher
 - https://github.com/ppy/osu
 - https://github.com/lib/pq
 x https://github.com/DATA-DOG/go-sqlmock
