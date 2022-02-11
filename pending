@@ -2927,7 +2927,7 @@ x https://github.com/fluxcd/flux2
 - https://github.com/tonsky/sublime-clojure
 - https://codeberg.org/dnkl/foot.git
 - https://github.com/xxh/xxh
-- https://github.com/osandov/drgn
+x https://github.com/osandov/drgn
 - https://github.com/wfxr/forgit
 - https://github.com/Eugeny/rust-sinner
 - https://github.com/tnballo/scapegoat
