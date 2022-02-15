@@ -1889,7 +1889,7 @@ x https://github.com/Sarcasm/irony-mode
 x https://github.com/Wilfred/babyc
 x https://github.com/syl20bnr/evil-escape
 - https://github.com/netdata/netdata
-- https://github.com/haskell/haskell-mode
+x https://github.com/haskell/haskell-mode
 - https://github.com/adlogix/docker-machine-nfs
 - https://github.com/josephmisiti/awesome-machine-learning
 - https://github.com/abo-abo/auto-yasnippet
