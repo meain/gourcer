@@ -2897,7 +2897,7 @@ x https://github.com/zulip/zulip
 - https://github.com/ToolJet/ToolJet
 - https://github.com/LibrePhotos/librephotos
 - https://github.com/Lassulus/nix-autobahn
-- https://github.com/Mic92/nix-ld
+x https://github.com/Mic92/nix-ld
 - https://github.com/orijtech/structslop
 x https://github.com/davecheney/httpstat
 - https://github.com/paritytech/cachepot
