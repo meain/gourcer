@@ -1870,7 +1870,7 @@ x https://github.com/klepas/open-baskerville
 - https://github.com/theleagueof/league-gothic
 x https://github.com/theleagueof/chunk
 x https://github.com/dash-docs-el/helm-dash
-- https://github.com/emacs-evil/evil-magit
+x https://github.com/emacs-evil/evil-magit
 x https://github.com/pugjs/pug
 x https://github.com/hvesalai/emacs-scala-mode
 x https://github.com/digitaltoad/vim-pug
