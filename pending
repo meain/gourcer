@@ -3037,7 +3037,7 @@ x https://github.com/solo-io/bumblebee
 x https://github.com/PowerShell/PowerShell
 - https://github.com/lihaoyi/ammonite
 - https://github.com/psyrendust/alf
-- https://github.com/getantibody/antibody
+x https://github.com/getantibody/antibody
 - https://github.com/zsh-users/antigen
 - https://github.com/dotphiles/dotzsh
 - https://github.com/nojhan/liquidprompt
