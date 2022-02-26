@@ -2063,7 +2063,7 @@ x https://github.com/carsomyr/rbenv-bundler
 - https://github.com/catchouli/coment
 - https://github.com/bdkjones/CodeKit2
 x https://github.com/ternjs/tern_for_vim
-- https://github.com/mattn/emmet-vim
+x https://github.com/mattn/emmet-vim
 - https://github.com/Shougo/neobundle.vim
 - https://github.com/pixijs/pixijs
 - https://github.com/c-bata/kube-prompt
