@@ -3064,7 +3064,7 @@ x https://github.com/unixorn/zsh-quickstart-kit
 - https://github.com/dvorka/hstr
 - https://github.com/magicmonty/bash-git-prompt
 - https://github.com/unixorn/git-extra-commands
-- https://github.com/lvv/git-prompt
+x https://github.com/lvv/git-prompt
 - https://github.com/michaeldfallen/git-radar
 - https://github.com/rtomayko/git-sh
 - https://github.com/momeni/gittify
