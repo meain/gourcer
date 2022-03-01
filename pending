@@ -1955,7 +1955,7 @@ x https://github.com/CestDiego/nand2tetris.el
 - https://github.com/k0dai/density
 - https://github.com/NetEase/pomelo
 - https://github.com/tarjoilija/zgen
-- https://github.com/golang/go
+x https://github.com/golang/go
 x https://github.com/skeeto/skewer-mode
 x https://github.com/Widdershin/sonic-pi-cli
 - https://github.com/syl20bnr/evil-iedit-state
