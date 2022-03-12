@@ -1934,7 +1934,7 @@ x https://github.com/dfeich/helm-deft
 x https://github.com/hyperium/hyper
 - https://github.com/ubolonton/.emacs.d
 - https://github.com/vspinu/company-math
-- https://github.com/company-mode/company-mode
+x https://github.com/company-mode/company-mode
 - https://github.com/cristicbz/rust-doom
 x https://github.com/emacs-evil/evil-surround
 x https://github.com/wallyqs/org-ruby
