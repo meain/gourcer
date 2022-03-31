@@ -1803,7 +1803,7 @@ x https://github.com/dylanaraps/pure-bash-bible
 - https://github.com/plexus/chemacs
 - https://github.com/emacs-evil/evil-collection
 - https://github.com/gregsexton/ob-ipython
-- https://github.com/RelaxedJS/ReLaXed
+x https://github.com/RelaxedJS/ReLaXed
 - https://github.com/noctuid/evil-guide
 - https://github.com/fuxialexander/emacs-webkit-katex-render
 x https://github.com/sebastiencs/sidebar.el
