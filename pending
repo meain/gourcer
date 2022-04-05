@@ -2065,7 +2065,7 @@ x https://github.com/catchouli/coment
 x https://github.com/ternjs/tern_for_vim
 x https://github.com/mattn/emmet-vim
 - https://github.com/Shougo/neobundle.vim
-- https://github.com/pixijs/pixijs
+x https://github.com/pixijs/pixijs
 - https://github.com/c-bata/kube-prompt
 x https://github.com/encode/httpx
 - https://github.com/excalidraw/excalidraw
