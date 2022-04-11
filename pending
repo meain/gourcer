@@ -1651,7 +1651,7 @@ x https://github.com/tektoncd/pipeline
 - https://github.com/tektoncd/cli
 - https://github.com/moby/moby
 - https://github.com/traefik/traefik
-- https://github.com/kdl-org/kdl
+x https://github.com/kdl-org/kdl
 - https://github.com/davep/cheat-sh.el
 x https://github.com/AndreaCrotti/yasnippet-snippets
 x https://github.com/system76/launch
