@@ -2961,7 +2961,7 @@ x https://github.com/clastix/capsule
 - https://github.com/openstyles/stylus
 - https://github.com/dtolnay/prettyplease
 - https://github.com/bors-ng/bors-ng
-- https://github.com/cachix/cachix
+x https://github.com/cachix/cachix
 - https://github.com/muesli/mango
 - https://github.com/cryptobadger/flight-attendant.el
 - https://github.com/typicode/json-server
