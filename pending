@@ -1927,7 +1927,7 @@ x https://github.com/pope/ob-go
 - https://github.com/ncsoft/Unreal.js
 - https://github.com/tmalsburg/helm-bibtex
 - https://github.com/jimeh/tmuxifier
-- https://github.com/zolrath/wemux
+x https://github.com/zolrath/wemux
 x https://github.com/wakatime/wakatime-mode
 x https://github.com/dfeich/helm-deft
 - https://github.com/zweifisch/ob-http
