@@ -1466,7 +1466,7 @@ x https://github.com/hrsh7th/nvim-compe
 x https://github.com/rafcamlet/nvim-luapad
 x https://github.com/kana/vim-vspec
 x https://github.com/MunifTanjim/nui.nvim
-- https://github.com/nvim-treesitter/tree-sitter-query
+x https://github.com/nvim-treesitter/tree-sitter-query
 x https://github.com/neovide/neovide
 x https://github.com/evhub/coconut
 x https://github.com/tecosaur/org-pandoc-import
