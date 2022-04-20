@@ -2575,7 +2575,7 @@ x https://github.com/magento/magento2
 - https://github.com/magwo/elevatorsaga
 x https://github.com/mail-in-a-box/mailinabox
 - https://github.com/mailcare/mailcare
-- https://github.com/mailcow/mailcow-dockerized
+x https://github.com/mailcow/mailcow-dockerized
 - https://github.com/mailhog/MailHog
 x https://github.com/mailpile/Mailpile
 x https://github.com/majodev/google-webfonts-helper
