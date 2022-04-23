@@ -1930,7 +1930,7 @@ x https://github.com/pope/ob-go
 x https://github.com/zolrath/wemux
 x https://github.com/wakatime/wakatime-mode
 x https://github.com/dfeich/helm-deft
-- https://github.com/zweifisch/ob-http
+x https://github.com/zweifisch/ob-http
 x https://github.com/hyperium/hyper
 - https://github.com/ubolonton/.emacs.d
 - https://github.com/vspinu/company-math
