@@ -1974,7 +1974,7 @@ x https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System
 - https://github.com/meh/ruby-tesseract-ocr
 x https://github.com/krasnoukhov/octodmin
 - https://github.com/sparklemotion/mechanize
-- https://github.com/thestinger/termite
+x https://github.com/thestinger/termite
 x https://github.com/nbyouri/moddedfonts
 x https://github.com/windelicato/dotfiles
 x https://github.com/LemonBoy/bar
@@ -3082,7 +3082,7 @@ x https://github.com/mobile-shell/mosh
 - https://github.com/gnome-terminator/terminator
 - https://github.com/billiob/terminology
 - https://github.com/Eugeny/terminus
-- https://github.com/thestinger/termite
+x https://github.com/thestinger/termite
 - https://github.com/lanoxx/tilda
 - https://github.com/basherpm/basher
 - https://github.com/skycocker/chromebrew
