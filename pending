@@ -1800,7 +1800,7 @@ x https://github.com/dylanaraps/pure-bash-bible
 - https://github.com/Alexander-Miller/treemacs
 - https://github.com/abo-abo/hydra
 - https://github.com/jojojames/smart-jump
-- https://github.com/plexus/chemacs
+x https://github.com/plexus/chemacs
 x https://github.com/emacs-evil/evil-collection
 - https://github.com/gregsexton/ob-ipython
 x https://github.com/RelaxedJS/ReLaXed
