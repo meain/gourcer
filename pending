@@ -1805,7 +1805,7 @@ x https://github.com/emacs-evil/evil-collection
 - https://github.com/gregsexton/ob-ipython
 x https://github.com/RelaxedJS/ReLaXed
 - https://github.com/noctuid/evil-guide
-- https://github.com/fuxialexander/emacs-webkit-katex-render
+x https://github.com/fuxialexander/emacs-webkit-katex-render
 x https://github.com/sebastiencs/sidebar.el
 x https://github.com/sharkdp/fd
 x https://github.com/UndeadKernel/emacs_doom_private
