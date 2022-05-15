@@ -2061,7 +2061,7 @@ x https://github.com/rbenv/rbenv
 - https://github.com/wkhtmltopdf/wkhtmltopdf
 - https://github.com/photonstorm/phaser
 x https://github.com/catchouli/coment
-- https://github.com/bdkjones/CodeKit2
+x https://github.com/bdkjones/CodeKit2
 x https://github.com/ternjs/tern_for_vim
 x https://github.com/mattn/emmet-vim
 - https://github.com/Shougo/neobundle.vim
