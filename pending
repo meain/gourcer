@@ -1732,7 +1732,7 @@ x https://github.com/FiloSottile/mkcert
 x https://github.com/wiretrustee/wiretrustee
 x https://github.com/NixOS/nixos-search
 x https://github.com/nativefier/nativefier
-- https://gitlab.com/simple-nixos-mailserver/nixos-mailserver
+x https://gitlab.com/simple-nixos-mailserver/nixos-mailserver
 x https://github.com/tweag/nickel
 x https://github.com/ArkScript-lang/Ark
 x https://github.com/pmndrs/react-three-flex
