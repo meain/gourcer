@@ -3148,7 +3148,7 @@ x https://github.com/kubernetes-sigs/e2e-framework
 x https://github.com/nolimits4web/atropos
 x https://github.com/jam1garner/binrw
 - https://github.com/jlengstorf/get-share-image
-- https://github.com/fkling/astexplorer
+x https://github.com/fkling/astexplorer
 - https://github.com/kclejeune/system
 - https://github.com/astro/microvm.nix
 - https://github.com/naelstrof/slop
