@@ -3044,7 +3044,7 @@ x https://github.com/zsh-users/antigen
 - https://github.com/robbyrussell/oh-my-zsh
 x https://github.com/bhilburn/powerlevel9k
 x https://github.com/sorin-ionescu/prezto
-- https://github.com/sindresorhus/pure
+x https://github.com/sindresorhus/pure
 - https://github.com/Eriner/zim
 - https://github.com/zplug/zplug
 - https://github.com/zpm-zsh/zpm
