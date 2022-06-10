@@ -3041,7 +3041,7 @@ x https://github.com/getantibody/antibody
 x https://github.com/zsh-users/antigen
 - https://github.com/dotphiles/dotzsh
 - https://github.com/nojhan/liquidprompt
-- https://github.com/robbyrussell/oh-my-zsh
+x https://github.com/robbyrussell/oh-my-zsh
 x https://github.com/bhilburn/powerlevel9k
 x https://github.com/sorin-ionescu/prezto
 x https://github.com/sindresorhus/pure
