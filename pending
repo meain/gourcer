@@ -1778,7 +1778,7 @@ x https://github.com/stackgl/webgl-workshop
 - https://github.com/stackgl/shader-school
 - https://github.com/chenyanming/calibredb.el
 - https://github.com/nix-community/emacs-overlay
-- https://github.com/godotengine/emacs-gdscript-mode
+x https://github.com/godotengine/emacs-gdscript-mode
 x https://github.com/alphapapa/emacs-package-dev-handbook
 x https://github.com/NixOS/nixpkgs
 - https://github.com/raxod502/apheleia
