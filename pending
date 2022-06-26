@@ -130,7 +130,7 @@ x https://github.com/evanw/esbuild
 x https://github.com/thomasp85/patchwork
 x https://github.com/ms-jpq/chadtree
 x https://github.com/EricChiang/pup
-x https://github.com/wellle/context.vim
+x https://github.com/wellle/context.vimothers
 x https://github.com/ajeetdsouza/zoxide
 x https://github.com/vinayak-mehta/present
 x https://github.com/warner/magic-wormhole
@@ -3220,7 +3220,7 @@ x https://github.com/edrlab/thorium-reader
 - https://github.com/symphorien/nix-du
 - https://github.com/dimensionhq/fleet
 - https://github.com/minad/org-modern
-- https://github.com/pretty-mode/pretty-mode/tree/5154355e90fdd70d3647257280a89eeb725ef084
+- https://github.com/pretty-mode/pretty-mode
 - https://github.com/0x20F/paris
 - https://github.com/sbdchd/neoformat
 - https://github.com/actualbudget/actual
@@ -3457,7 +3457,7 @@ x https://github.com/arcticicestudio/nord
 - https://github.com/shdown/luastatus
 - https://github.com/slomkowski/bash-full-of-colors
 - https://github.com/Smirnov-O/gf
-- https://github.com/Sparkenstein/awesome-ricing/
+- https://github.com/Sparkenstein/awesome-ricing
 - https://github.com/sqshq/sampler
 - https://github.com/ss7m/paleofetch
 - https://github.com/ssokolow/quicktile
@@ -3513,7 +3513,7 @@ x https://github.com/samber/mo
 - https://github.com/sourcegraph/doctree
 - https://github.com/probot/settings
 - https://github.com/Nheko-Reborn/nheko
-- https://github.com/robpike/ivy/tree/d463f695eecbb0500f49cd1469bee2c2d91e6def
+- https://github.com/robpike/ivy
 - https://github.com/rodrigo-brito/gocity
 - https://github.com/elementary/videos
 - https://github.com/norwoodj/helm-docs
