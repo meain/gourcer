@@ -3241,7 +3241,7 @@ x https://github.com/ggerganov/kbd-audio
 - https://github.com/infrahq/infra
 - https://github.com/AppFlowy-IO/AppFlowy
 - https://github.com/mvdan/sh
-- https://github.com/docker/compose
+x https://github.com/docker/compose
 - https://github.com/benchkram/bob
 - https://github.com/b3nj5m1n/xdg-ninja
 - https://github.com/raphlinus/pulldown-cmark
