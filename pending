@@ -3086,7 +3086,7 @@ x https://github.com/thestinger/termite
 x https://github.com/lanoxx/tilda
 - https://github.com/basherpm/basher
 - https://github.com/skycocker/chromebrew
-- https://github.com/OneGet/oneget
+x https://github.com/OneGet/oneget
 - https://github.com/beyondgrep/ack3
 x https://github.com/TejasQ/add-gitignore
 x https://github.com/wting/autojump
