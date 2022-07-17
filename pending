@@ -2056,7 +2056,7 @@ x https://github.com/Homebrew/homebrew-cask
 x https://github.com/SecGen/SecGen
 x https://github.com/carsomyr/rbenv-bundler
 x https://github.com/rbenv/rbenv
-- https://github.com/pyenv/pyenv
+x https://github.com/pyenv/pyenv
 x https://github.com/pyenv/pyenv-virtualenv
 - https://github.com/wkhtmltopdf/wkhtmltopdf
 - https://github.com/photonstorm/phaser
