@@ -2968,7 +2968,7 @@ x https://github.com/cachix/cachix
 x https://github.com/typicode/lowdb
 x https://github.com/Mic92/nixos-shell
 - https://github.com/Mic92/cntr
-- https://github.com/jmmaranan/forge
+x https://github.com/jmmaranan/forge
 x https://github.com/skerkour/bloom
 x https://github.com/jrvidal/lipstick
 x https://github.com/mitsuhiko/insta
