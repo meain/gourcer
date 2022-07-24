@@ -3745,7 +3745,7 @@ x https://github.com/multiprocessio/dsq
 - https://github.com/vim-airline/vim-airline
 - https://github.com/vim-pandoc/vim-pandoc
 - https://github.com/voldikss/vim-translator
-- https://github.com/VSCodeVim/Vim
+x https://github.com/VSCodeVim/Vim
 - https://github.com/wbthomason/lsp-status.nvim
 - https://github.com/wsdjeg/FlyGrep.vim
 - https://github.com/yatli/fvim
