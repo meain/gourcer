@@ -3576,7 +3576,7 @@ x https://github.com/probot/settings
 - https://github.com/salman-abedin/devour
 - https://github.com/tchiotludo/akhq
 - https://github.com/poem-web/poem
-- https://github.com/multiprocessio/dsq
+x https://github.com/multiprocessio/dsq
 - https://github.com/multiprocessio/datastation
 - https://github.com/vitessio/vitess/tree/547c51854da13966bdf8e0e0b84a114953fb7f89
 - https://github.com/dolthub/go-mysql-server
