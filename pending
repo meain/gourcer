@@ -3717,7 +3717,7 @@ x https://github.com/multiprocessio/dsq
 - https://github.com/Olical/aniseed
 - https://github.com/Olical/conjure
 - https://github.com/onsails/lspkind-nvim
-- https://github.com/pgdouyon/vim-accio
+x https://github.com/pgdouyon/vim-accio
 - https://github.com/raghur/vim-ghost
 - https://github.com/ripxorip/aerojump.nvim
 - https://github.com/ripxorip/bolt.nvim
