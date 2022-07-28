@@ -3636,7 +3636,7 @@ x https://github.com/multiprocessio/dsq
 - https://github.com/bfredl/nvim-miniyank
 - https://github.com/brglng/vim-im-select
 - https://github.com/brooth/far.vim
-- https://github.com/bruno-/vim-man
+x https://github.com/bruno-/vim-man
 - https://github.com/c0r73x/neotags.nvim
 - https://github.com/cdelledonne/vim-cmake
 - https://github.com/challenger-deep-theme/vim
