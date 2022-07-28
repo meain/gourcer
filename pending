@@ -3615,7 +3615,7 @@ x https://github.com/multiprocessio/dsq
 - https://github.com/VirtusLab/git-machete
 - https://github.com/arxanas/git-branchless
 - https://github.com/gitext-rs/git-stack
-- https://github.com/golangci/golangci-lint
+x https://github.com/golangci/golangci-lint
 - https://github.com/kris-nova/naml/tree/b0645e685561461d3eaab7b32bce2ea1b68349ba
 - https://github.com/cdk8s-team/cdk8s
 - https://github.com/input-output-hk/bitte/tree/f1106df9936dcabf915c5ed94b308e4a5f5e3189
