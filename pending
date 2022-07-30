@@ -3586,7 +3586,7 @@ x https://github.com/multiprocessio/dsq
 - https://github.com/pganalyze/pg_query
 - https://github.com/codeschool/sqlite-parser
 - https://github.com/JSQLParser/JSqlParser
-- https://github.com/lelit/pglast
+x https://github.com/lelit/pglast
 - https://github.com/pganalyze/libpg_query
 - https://github.com/prestodb/presto
 - https://github.com/sqlparser-rs/sqlparser-rs
