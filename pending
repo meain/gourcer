@@ -3195,7 +3195,7 @@ x https://github.com/edrlab/thorium-reader
 x https://github.com/ekzhang/bore
 - https://github.com/yarrick/pingfs
 - https://github.com/wimpysworld/rolling-rhino
-- https://github.com/BurntSushi/termcolor
+x https://github.com/BurntSushi/termcolor
 - https://github.com/up9inc/mizu
 - https://github.com/fullstorydev/grpcurl
 - https://github.com/jonringer/nix-template
