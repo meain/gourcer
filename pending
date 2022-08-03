@@ -3660,7 +3660,7 @@ x https://github.com/bruno-/vim-man
 - https://github.com/glepnir/galaxyline.nvim
 - https://github.com/glepnir/lspsaga.nvim
 - https://github.com/google/vroom
-- https://github.com/henriquehbr/nvim-startup.lua
+x https://github.com/henriquehbr/nvim-startup.lua
 - https://github.com/hismailbulut/Neoray
 - https://github.com/hkupty/iron.nvim
 - https://github.com/hkupty/nvimux
