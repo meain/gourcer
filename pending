@@ -3536,7 +3536,7 @@ x https://github.com/OpenGov/ephemeral.run
 - https://github.com/k3d-io/k3d/
 - https://github.com/delta-io/delta
 - https://github.com/denoland/fresh
-- https://github.com/anmitsu/goful
+x https://github.com/anmitsu/goful
 - https://github.com/awesome-gocui/gocui
 - https://github.com/browsh-org/browsh
 - https://github.com/esimov/ascii-fluid
