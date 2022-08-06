@@ -3719,7 +3719,7 @@ x https://github.com/jeanguyomarch/eovim
 - https://github.com/onsails/lspkind-nvim
 x https://github.com/pgdouyon/vim-accio
 - https://github.com/raghur/vim-ghost
-- https://github.com/ripxorip/aerojump.nvim
+x https://github.com/ripxorip/aerojump.nvim
 - https://github.com/ripxorip/bolt.nvim
 - https://github.com/rogual/neovim-dot-app
 - https://github.com/rohit-px2/nvui
