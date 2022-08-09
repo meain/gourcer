@@ -3532,7 +3532,7 @@ x https://github.com/jfecher/ante
 - https://github.com/spf13/afero
 - https://github.com/rs/zerolog
 - https://github.com/datreeio/datree
-- https://github.com/KenanBek/dbui
+x https://github.com/KenanBek/dbui
 - https://github.com/k3d-io/k3d/
 - https://github.com/delta-io/delta
 - https://github.com/denoland/fresh
