@@ -3704,7 +3704,7 @@ x https://github.com/jeanguyomarch/eovim
 - https://github.com/neovim/go-client
 - https://github.com/neovimhaskell/haskell-vim
 - https://github.com/neovimhaskell/nvim-hs
-- https://github.com/neovim/lua-client
+x https://github.com/neovim/lua-client
 - https://github.com/neovim/neovim-ruby
 - https://github.com/neovim/neovim.wiki.git
 - https://github.com/neovim/node-client
