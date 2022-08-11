@@ -3734,7 +3734,7 @@ x https://github.com/ripxorip/aerojump.nvim
 - https://github.com/sickill/vim-monokai
 - https://github.com/SidOfc/mkdx
 - https://github.com/skywind3000/asyncrun.vim
-- https://github.com/skywind3000/asynctasks.vim
+x https://github.com/skywind3000/asynctasks.vim
 - https://github.com/skywind3000/vim-quickui
 - https://github.com/slashmili/alchemist.vim
 - https://github.com/songww/reovim
