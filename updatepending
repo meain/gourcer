@@ -7,5 +7,5 @@ git config --global user.name "Bot"
 git add pending
 git commit -m "Ran $(head repo)
 
-$(grep -Ec '^-' pending)/$(grep -c . pending) items remaining."
+$(grep -Ec '^-' pending)/$(grep -c . pending) items remaining. [~$(($(grep -Ec '^-' pending) / 4))d]"
 git push origin master
