@@ -3676,7 +3676,7 @@ x https://github.com/henriquehbr/nvim-startup.lua
 - https://github.com/jalvesaq/Nvim-R
 x https://github.com/jalvesaq/vimcmdline
 - https://github.com/janestreet/vcaml
-- https://github.com/janko-m/vim-test
+x https://github.com/janko-m/vim-test
 - https://github.com/jceb/vmux
 x https://github.com/jeanguyomarch/eovim
 - https://github.com/jebberjeb/neovim-client
