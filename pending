@@ -2072,7 +2072,7 @@ x https://github.com/encode/httpx
 x https://github.com/emacs-tree-sitter/elisp-tree-sitter
 x https://github.com/hifi/heisenbridge
 x https://github.com/crate-ci/typos
-- https://github.com/containers/youki
+x https://github.com/containers/youki
 x https://github.com/nix-community/home-manager
 - https://github.com/phiresky/sql.js-httpvfs
 x https://github.com/hylang/hy
