@@ -3579,7 +3579,7 @@ x https://github.com/martinvonz/jj
 x https://github.com/multiprocessio/dsq
 - https://github.com/multiprocessio/datastation
 - https://github.com/vitessio/vitess/tree/547c51854da13966bdf8e0e0b84a114953fb7f89
-- https://github.com/dolthub/go-mysql-server
+x https://github.com/dolthub/go-mysql-server
 - https://github.com/AlaSQL/alasql
 - https://github.com/andialbrecht/sqlparse
 - https://github.com/cockroachdb/cockroach
