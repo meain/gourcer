@@ -3236,7 +3236,7 @@ x https://github.com/greatest-ape/OctaSine
 x https://github.com/ggerganov/kbd-audio
 - https://github.com/epi052/feroxbuster
 - https://github.com/ffuf/ffuf
-- https://github.com/hound-search/hound
+x https://github.com/hound-search/hound
 - https://github.com/oracle/opengrok
 - https://github.com/infrahq/infra
 x https://github.com/AppFlowy-IO/AppFlowy
@@ -3610,7 +3610,7 @@ x https://github.com/ibhagwan/fzf-lua/tree/95c859b4e4d90bd275bc4ba70da6b1e04118c
 - https://github.com/florentc/xob/tree/dc9079022fe3f70118f0f802011d0694c8a650d8
 - https://github.com/d12frosted/flyspell-correct/tree/7d7b6b01188bd28e20a13736ac9f36c3367bd16e
 - https://gitlab.com/famedly/conduit
-- https://github.com/hound-search/hound/tree/ae638e5b4793bae392202e645a931ea2044ea26d
+x https://github.com/hound-search/hound/tree/ae638e5b4793bae392202e645a931ea2044ea26d
 - https://github.com/loov/lensm/tree/c351e63275a107318449d6cd5ab5ba9e2faa2091
 x https://github.com/VirtusLab/git-machete
 - https://github.com/arxanas/git-branchless
