@@ -3201,7 +3201,7 @@ x https://github.com/BurntSushi/termcolor
 - https://github.com/jonringer/nix-template
 - https://github.com/seamia/protodot
 - https://github.com/cupcakearmy/autorestic
-- https://github.com/kamadorueda/alejandra
+x https://github.com/kamadorueda/alejandra
 - https://github.com/nix-community/impermanence
 x https://github.com/egoist/dum
 - https://github.com/twistlock/authz
