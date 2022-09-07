@@ -3740,7 +3740,7 @@ x https://github.com/skywind3000/asynctasks.vim
 - https://github.com/songww/reovim
 - https://github.com/tmux-plugins/tmux-resurrect
 x https://github.com/tweekmonster/nvimdev.nvim
-- https://github.com/vhakulinen/gnvim
+x https://github.com/vhakulinen/gnvim
 - https://github.com/Vigemus/nero.nvim
 - https://github.com/vim-airline/vim-airline
 - https://github.com/vim-pandoc/vim-pandoc
