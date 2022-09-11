@@ -3731,7 +3731,7 @@ x https://github.com/ripxorip/aerojump.nvim
 - https://github.com/Shougo/dein.vim
 - https://github.com/Shougo/denite.nvim
 - https://github.com/Shougo/deoplete.nvim
-- https://github.com/sickill/vim-monokai
+x https://github.com/sickill/vim-monokai
 - https://github.com/SidOfc/mkdx
 - https://github.com/skywind3000/asyncrun.vim
 x https://github.com/skywind3000/asynctasks.vim
