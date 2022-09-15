@@ -3658,7 +3658,7 @@ x https://github.com/clojure-vim/acid.nvim
 - https://github.com/glacambre/firenvim
 - https://github.com/glacambre/nwin
 - https://github.com/glepnir/galaxyline.nvim
-- https://github.com/glepnir/lspsaga.nvim
+x https://github.com/glepnir/lspsaga.nvim
 x https://github.com/google/vroom
 x https://github.com/henriquehbr/nvim-startup.lua
 - https://github.com/hismailbulut/Neoray
