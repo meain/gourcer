@@ -3722,7 +3722,7 @@ x https://github.com/pgdouyon/vim-accio
 x https://github.com/ripxorip/aerojump.nvim
 - https://github.com/ripxorip/bolt.nvim
 - https://github.com/rogual/neovim-dot-app
-- https://github.com/rohit-px2/nvui
+x https://github.com/rohit-px2/nvui
 - https://github.com/romgrk/barbar.nvim
 - https://github.com/roxma/nvim-completion-manager
 x https://github.com/roxma/vim-tmux-clipboard
