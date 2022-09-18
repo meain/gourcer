@@ -3652,7 +3652,7 @@ x https://github.com/clojure-vim/acid.nvim
 - https://github.com/fenetikm/falcon
 - https://github.com/Floobits/floobits-neovim
 - https://github.com/fmoralesc/neovim-gnome-terminal-wrapper
-- https://github.com/fmoralesc/nvimfs
+x https://github.com/fmoralesc/nvimfs
 - https://github.com/fszymanski/fzf-gitignore
 - https://github.com/gfanto/fzf-lsp.nvim
 - https://github.com/glacambre/firenvim
