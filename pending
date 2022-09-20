@@ -3599,7 +3599,7 @@ x https://github.com/simplex-chat/simplex-chat/tree/fec03c74f4689d9de43ad1b220db
 - https://github.com/kubernetes-sigs/cluster-api
 - https://github.com/novuhq/novu/tree/2f7aff0290419b8cc5c7c3c41e1bbbc3595cc1a7
 - https://github.com/gcla/termshark/tree/528c87ecf1b1f3ae5933a71b369d05d885182cfc
-- https://github.com/kylechui/nvim-surround/tree/325ed0328f6b37d274cc25bea6dd36f42569a26a
+x https://github.com/kylechui/nvim-surround/tree/325ed0328f6b37d274cc25bea6dd36f42569a26a
 - https://github.com/neeasade/ct.el/tree/dd883e2315aba099e32fba9f1039437551b96ef3
 x https://github.com/gnotclub/xst/tree/293b895061ac52ceb8eeef15d6447a917cf5ccd9
 - https://github.com/austral/austral/tree/01a6327815d1f9cc10975b75b2b24f42428ac6b2
