@@ -3645,7 +3645,7 @@ x https://github.com/clojure-vim/acid.nvim
 - https://github.com/daa84/neovim-lib
 - https://github.com/dense-analysis/ale
 - https://github.com/donRaphaco/neotex
-- https://github.com/dstein64/nvim-scrollview
+x https://github.com/dstein64/nvim-scrollview
 - https://github.com/equalsraf/neovim-qt
 - https://github.com/euclio/vim-markdown-composer
 - https://github.com/fatih/vim-go
