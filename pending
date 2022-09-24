@@ -3698,7 +3698,7 @@ x https://github.com/meatich/Viy
 - https://github.com/mhinz/neovim-remote
 - https://github.com/mhinz/vim-grepper
 - https://github.com/mhinz/vim-janah
-- https://github.com/mhinz/vim-signify
+x https://github.com/mhinz/vim-signify
 - https://github.com/ms-jpq/coq_nvim
 - https://github.com/ncm2/ncm2
 - https://github.com/neovim/go-client
