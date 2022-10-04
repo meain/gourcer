@@ -3197,7 +3197,7 @@ x https://github.com/yarrick/pingfs
 - https://github.com/wimpysworld/rolling-rhino
 x https://github.com/BurntSushi/termcolor
 - https://github.com/up9inc/mizu
-- https://github.com/fullstorydev/grpcurl
+x https://github.com/fullstorydev/grpcurl
 - https://github.com/jonringer/nix-template
 - https://github.com/seamia/protodot
 - https://github.com/cupcakearmy/autorestic
