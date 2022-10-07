@@ -3058,7 +3058,7 @@ x https://github.com/rocky/zshdb
 - https://github.com/molovo/zunit
 x https://github.com/sebglazebrook/aliases
 x https://github.com/Bash-it/bash-it
-- https://github.com/riobard/bash-powerline
+x https://github.com/riobard/bash-powerline
 - https://github.com/mrzool/bash-sensible
 - https://github.com/barryclark/bashstrap
 x https://github.com/dvorka/hstr
