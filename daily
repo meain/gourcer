@@ -9,3 +9,5 @@ curl "$URL" |
 	grep -o 'href="[^"]*' |
 	head -n1 |
 	awk -F'"' '{print "https://github.com"$2}' > repo
+
+echo "x $(cat repo)" >> pending
