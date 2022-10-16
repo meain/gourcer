@@ -1,6 +1,7 @@
 name: daily-build-from-pending
 
 on:
+  workflow_dispatch:
   schedule:
     - cron:  '13 */6 * * *'
 

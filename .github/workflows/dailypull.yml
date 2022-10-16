@@ -1,6 +1,7 @@
-name: daily-build
+name: daily-build-from-trending
 
 on:
+  workflow_dispatch:
   schedule:
     - cron:  '10 1 * * *'
 
