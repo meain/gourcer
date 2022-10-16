@@ -6,8 +6,20 @@ URL="https://github.com/trending"
 curl "$URL" |
 	grep 'data-hydro-click' |
 	grep 'TRENDING_REPOSITORIES_PAGE' |
-	grep -o 'href="[^"]*' |
-	head -n1 |
-	awk -F'"' '{print "https://github.com"$2}' > repo
+	grep -o 'href="[^"]*' | head -n10 |
+	awk -F'"' '{print "https://github.com"$2}' |
+	while read -r repo; do
+		grep -q "$repo" pending || echo "$repo"
+	done >/tmp/trending-repos
 
-echo "x $(cat repo)" >> pending
+cat /tmp/trending-repos | head -n1 >repo
+echo "x $(cat repo)" >>pending
+
+cat /tmp/trending-repos |
+	tail -n+2 | head -n2 |  # increase this count if we start running out of repos
+	while read -r repo; do
+		stars="$(curl -s "$repo" | pup '.js-social-count attr{aria-label}' |
+			grep 'starred this repository' | cut -d' ' -f1)"
+		[ -n "$stars" ] && [ $stars -le 50 ] && continue
+		echo "- $repo" >>pending
+	done
