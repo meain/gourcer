@@ -3638,7 +3638,7 @@ x https://github.com/artur-shaik/vim-javacomplete2
 - https://github.com/brooth/far.vim
 x https://github.com/bruno-/vim-man
 - https://github.com/c0r73x/neotags.nvim
-- https://github.com/cdelledonne/vim-cmake
+x https://github.com/cdelledonne/vim-cmake
 - https://github.com/challenger-deep-theme/vim
 x https://github.com/clojure-vim/acid.nvim
 - https://github.com/daa84/neovim-gtk
