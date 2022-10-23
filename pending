@@ -3598,7 +3598,7 @@ x https://github.com/simplex-chat/simplex-chat
 - https://github.com/robotframework/robotframework
 - https://github.com/kubernetes-sigs/cluster-api
 - https://github.com/novuhq/novu
-- https://github.com/gcla/termshark
+x https://github.com/gcla/termshark
 x https://github.com/kylechui/nvim-surround
 - https://github.com/neeasade/ct.el
 x https://github.com/gnotclub/xst
