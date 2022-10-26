@@ -3648,7 +3648,7 @@ x https://github.com/daa84/neovim-lib
 x https://github.com/dstein64/nvim-scrollview
 - https://github.com/equalsraf/neovim-qt
 - https://github.com/euclio/vim-markdown-composer
-- https://github.com/fatih/vim-go
+x https://github.com/fatih/vim-go
 - https://github.com/fenetikm/falcon
 - https://github.com/Floobits/floobits-neovim
 - https://github.com/fmoralesc/neovim-gnome-terminal-wrapper
