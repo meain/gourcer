@@ -3709,7 +3709,7 @@ x https://github.com/neovim/lua-client
 x https://github.com/neovim/neovim.wiki.git
 - https://github.com/neovim/node-client
 - https://github.com/neovim/nvim-lspconfig
-- https://github.com/neovim/pynvim
+x https://github.com/neovim/pynvim
 x https://github.com/noib3/nvim-oxi
 - https://github.com/numirias/semshi
 - https://github.com/nvim-lualine/lualine.nvim
