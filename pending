@@ -3589,7 +3589,7 @@ x https://github.com/AlaSQL/alasql
 x https://github.com/lelit/pglast
 - https://github.com/pganalyze/libpg_query
 - https://github.com/prestodb/presto
-- https://github.com/sqlparser-rs/sqlparser-rs
+x https://github.com/sqlparser-rs/sqlparser-rs
 - https://github.com/zaach/jison
 - https://github.com/helm/chart-testing
 x https://github.com/simplex-chat/simplex-chat
