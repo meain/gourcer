@@ -3736,7 +3736,7 @@ x https://github.com/sickill/vim-monokai
 - https://github.com/skywind3000/asyncrun.vim
 x https://github.com/skywind3000/asynctasks.vim
 - https://github.com/skywind3000/vim-quickui
-- https://github.com/slashmili/alchemist.vim
+x https://github.com/slashmili/alchemist.vim
 x https://github.com/songww/reovim
 x https://github.com/tmux-plugins/tmux-resurrect
 x https://github.com/tweekmonster/nvimdev.nvim
