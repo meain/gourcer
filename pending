@@ -3733,7 +3733,7 @@ x https://github.com/roxma/vim-tmux-clipboard
 - https://github.com/Shougo/deoplete.nvim
 x https://github.com/sickill/vim-monokai
 - https://github.com/SidOfc/mkdx
-- https://github.com/skywind3000/asyncrun.vim
+x https://github.com/skywind3000/asyncrun.vim
 x https://github.com/skywind3000/asynctasks.vim
 x https://github.com/skywind3000/vim-quickui
 x https://github.com/slashmili/alchemist.vim
