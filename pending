@@ -3730,7 +3730,7 @@ x https://github.com/roxma/vim-tmux-clipboard
 - https://github.com/savq/paq-nvim
 - https://github.com/Shougo/dein.vim
 - https://github.com/Shougo/denite.nvim
-- https://github.com/Shougo/deoplete.nvim
+x https://github.com/Shougo/deoplete.nvim
 x https://github.com/sickill/vim-monokai
 x https://github.com/SidOfc/mkdx
 x https://github.com/skywind3000/asyncrun.vim
