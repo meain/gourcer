@@ -3727,7 +3727,7 @@ x https://github.com/rohit-px2/nvui
 - https://github.com/roxma/nvim-completion-manager
 x https://github.com/roxma/vim-tmux-clipboard
 - https://github.com/ruifm/gitlinker.nvim
-- https://github.com/savq/paq-nvim
+x https://github.com/savq/paq-nvim
 x https://github.com/Shougo/dein.vim
 x https://github.com/Shougo/denite.nvim
 x https://github.com/Shougo/deoplete.nvim
