@@ -3724,7 +3724,7 @@ x https://github.com/ripxorip/aerojump.nvim
 - https://github.com/rogual/neovim-dot-app
 x https://github.com/rohit-px2/nvui
 - https://github.com/romgrk/barbar.nvim
-- https://github.com/roxma/nvim-completion-manager
+x https://github.com/roxma/nvim-completion-manager
 x https://github.com/roxma/vim-tmux-clipboard
 x https://github.com/ruifm/gitlinker.nvim
 x https://github.com/savq/paq-nvim
