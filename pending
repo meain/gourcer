@@ -3708,7 +3708,7 @@ x https://github.com/neovim/lua-client
 - https://github.com/neovim/neovim-ruby
 x https://github.com/neovim/neovim.wiki.git
 - https://github.com/neovim/node-client
-- https://github.com/neovim/nvim-lspconfig
+x https://github.com/neovim/nvim-lspconfig
 x https://github.com/neovim/pynvim
 x https://github.com/noib3/nvim-oxi
 x https://github.com/numirias/semshi
