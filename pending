@@ -3703,7 +3703,7 @@ x https://github.com/mhinz/vim-signify
 - https://github.com/ncm2/ncm2
 - https://github.com/neovim/go-client
 - https://github.com/neovimhaskell/haskell-vim
-- https://github.com/neovimhaskell/nvim-hs
+x https://github.com/neovimhaskell/nvim-hs
 x https://github.com/neovim/lua-client
 x https://github.com/neovim/neovim-ruby
 x https://github.com/neovim/neovim.wiki.git
