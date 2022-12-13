@@ -3696,7 +3696,7 @@ x https://github.com/meatich/Viy
 - https://github.com/mhartington/nvim-typescript
 - https://github.com/mhartington/oceanic-next
 - https://github.com/mhinz/neovim-remote
-- https://github.com/mhinz/vim-grepper
+x https://github.com/mhinz/vim-grepper
 x https://github.com/mhinz/vim-janah
 x https://github.com/mhinz/vim-signify
 x https://github.com/ms-jpq/coq_nvim
