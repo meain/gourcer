@@ -3635,7 +3635,7 @@ x https://github.com/artur-shaik/vim-javacomplete2
 - https://github.com/bfredl/nvim-luadev
 - https://github.com/bfredl/nvim-miniyank
 - https://github.com/brglng/vim-im-select
-- https://github.com/brooth/far.vim
+x https://github.com/brooth/far.vim
 x https://github.com/bruno-/vim-man
 x https://github.com/c0r73x/neotags.nvim
 x https://github.com/cdelledonne/vim-cmake
