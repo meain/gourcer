@@ -3631,7 +3631,7 @@ x https://github.com/artur-shaik/vim-javacomplete2
 - https://github.com/autozimu/LanguageClient-neovim
 - https://github.com/awetzel/neovim-elixir
 - https://github.com/beeender/glrnvim
-- https://github.com/bfredl/nvim-ipy
+x https://github.com/bfredl/nvim-ipy
 x https://github.com/bfredl/nvim-luadev
 x https://github.com/bfredl/nvim-miniyank
 x https://github.com/brglng/vim-im-select
