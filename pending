@@ -3625,7 +3625,7 @@ x https://github.com/golangci/golangci-lint
 - https://github.com/airblade/vim-gitgutter
 x https://github.com/akiyosi/goneovim
 - https://github.com/alaviss/nim.nvim
-- https://github.com/arakashic/chromatica.nvim
+x https://github.com/arakashic/chromatica.nvim
 x https://github.com/artur-shaik/vim-javacomplete2
 x https://github.com/asvetliakov/vscode-neovim
 x https://github.com/autozimu/LanguageClient-neovim
