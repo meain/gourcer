@@ -3622,7 +3622,7 @@ x https://github.com/golangci/golangci-lint
 - https://github.com/alexhallam/tv
 - https://github.com/snuffyDev/Beatbump
 - https://github.com/adolenc/cl-neovim
-- https://github.com/airblade/vim-gitgutter
+x https://github.com/airblade/vim-gitgutter
 x https://github.com/akiyosi/goneovim
 x https://github.com/alaviss/nim.nvim
 x https://github.com/arakashic/chromatica.nvim
