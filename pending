@@ -2921,7 +2921,7 @@ x https://github.com/nix-community/nixos-generators
 - https://github.com/bootandy/dust
 x https://github.com/redox-os/ion
 x https://github.com/bvaisvil/zenith
-- https://github.com/input-output-hk/bitte
+x https://github.com/input-output-hk/bitte
 x https://github.com/fluxcd/flux2
 - https://github.com/bufbuild/buf- https://github.com/prabhatsharma/zinc
 x https://github.com/tonsky/sublime-clojure
@@ -3618,7 +3618,7 @@ x https://github.com/VirtusLab/git-machete
 x https://github.com/golangci/golangci-lint
 - https://github.com/kris-nova/naml
 - https://github.com/cdk8s-team/cdk8s
-- https://github.com/input-output-hk/bitte
+x https://github.com/input-output-hk/bitte
 x https://github.com/alexhallam/tv
 x https://github.com/snuffyDev/Beatbump
 x https://github.com/adolenc/cl-neovim
