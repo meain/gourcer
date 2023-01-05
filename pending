@@ -3614,7 +3614,7 @@ x https://github.com/hound-search/hound
 - https://github.com/loov/lensm
 x https://github.com/VirtusLab/git-machete
 - https://github.com/arxanas/git-branchless
-- https://github.com/gitext-rs/git-stack
+x https://github.com/gitext-rs/git-stack
 x https://github.com/golangci/golangci-lint
 x https://github.com/kris-nova/naml
 x https://github.com/cdk8s-team/cdk8s
