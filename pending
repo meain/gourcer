@@ -3595,7 +3595,7 @@ x https://github.com/sqlparser-rs/sqlparser-rs
 x https://github.com/simplex-chat/simplex-chat
 - https://github.com/readysettech/readyset
 - https://github.com/searxng/searxng
-- https://github.com/robotframework/robotframework
+x https://github.com/robotframework/robotframework
 x https://github.com/kubernetes-sigs/cluster-api
 x https://github.com/novuhq/novu
 x https://github.com/gcla/termshark
