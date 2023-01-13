@@ -3591,7 +3591,7 @@ x https://github.com/lelit/pglast
 - https://github.com/prestodb/presto
 x https://github.com/sqlparser-rs/sqlparser-rs
 - https://github.com/zaach/jison
-- https://github.com/helm/chart-testing
+x https://github.com/helm/chart-testing
 x https://github.com/simplex-chat/simplex-chat
 x https://github.com/readysettech/readyset
 x https://github.com/searxng/searxng
