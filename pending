@@ -3587,7 +3587,7 @@ x https://github.com/AlaSQL/alasql
 - https://github.com/codeschool/sqlite-parser
 - https://github.com/JSQLParser/JSqlParser
 x https://github.com/lelit/pglast
-- https://github.com/pganalyze/libpg_query
+x https://github.com/pganalyze/libpg_query
 x https://github.com/prestodb/presto
 x https://github.com/sqlparser-rs/sqlparser-rs
 x https://github.com/zaach/jison
