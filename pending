@@ -3584,7 +3584,7 @@ x https://github.com/AlaSQL/alasql
 - https://github.com/andialbrecht/sqlparse
 - https://github.com/cockroachdb/cockroach
 - https://github.com/pganalyze/pg_query
-- https://github.com/codeschool/sqlite-parser
+x https://github.com/codeschool/sqlite-parser
 x https://github.com/JSQLParser/JSqlParser
 x https://github.com/lelit/pglast
 x https://github.com/pganalyze/libpg_query
