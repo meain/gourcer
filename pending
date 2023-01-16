@@ -3581,7 +3581,7 @@ x https://github.com/multiprocessio/dsq
 x https://github.com/vitessio/vitess
 x https://github.com/dolthub/go-mysql-server
 x https://github.com/AlaSQL/alasql
-- https://github.com/andialbrecht/sqlparse
+x https://github.com/andialbrecht/sqlparse
 x https://github.com/cockroachdb/cockroach
 x https://github.com/pganalyze/pg_query
 x https://github.com/codeschool/sqlite-parser
