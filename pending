@@ -3577,7 +3577,7 @@ x https://github.com/martinvonz/jj
 - https://github.com/tchiotludo/akhq
 x https://github.com/poem-web/poem
 x https://github.com/multiprocessio/dsq
-- https://github.com/multiprocessio/datastation
+x https://github.com/multiprocessio/datastation
 x https://github.com/vitessio/vitess
 x https://github.com/dolthub/go-mysql-server
 x https://github.com/AlaSQL/alasql
