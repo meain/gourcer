@@ -3237,7 +3237,7 @@ x https://github.com/ggerganov/kbd-audio
 - https://github.com/epi052/feroxbuster
 - https://github.com/ffuf/ffuf
 x https://github.com/hound-search/hound
-- https://github.com/oracle/opengrok
+x https://github.com/oracle/opengrok
 x https://github.com/infrahq/infra
 x https://github.com/AppFlowy-IO/AppFlowy
 x https://github.com/mvdan/sh
