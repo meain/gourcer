@@ -3152,7 +3152,7 @@ x https://github.com/fkling/astexplorer
 - https://github.com/kclejeune/system
 - https://github.com/astro/microvm.nix
 x https://github.com/naelstrof/slop
-- https://github.com/ahmetb/kubectl-tree
+x https://github.com/ahmetb/kubectl-tree
 x https://github.com/seemoo-lab/opendrop
 x https://github.com/Jeffail/benthos
 x https://github.com/fullstorydev/grpcui
