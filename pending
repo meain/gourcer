@@ -3051,7 +3051,7 @@ x https://github.com/zplug/zplug
 x https://github.com/zsh-users/zsh-autosuggestions
 - https://github.com/mika/zsh-pony
 x https://github.com/unixorn/zsh-quickstart-kit
-- https://github.com/zsh-users/zsh-syntax-highlighting
+x https://github.com/zsh-users/zsh-syntax-highlighting
 x https://github.com/rocky/zshdb
 x https://github.com/miohtama/ztanesh
 x https://github.com/zulu-zsh/zulu
