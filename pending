@@ -2059,7 +2059,7 @@ x https://github.com/rbenv/rbenv
 x https://github.com/pyenv/pyenv
 x https://github.com/pyenv/pyenv-virtualenv
 - https://github.com/wkhtmltopdf/wkhtmltopdf
-- https://github.com/photonstorm/phaser
+x https://github.com/photonstorm/phaser
 x https://github.com/catchouli/coment
 x https://github.com/bdkjones/CodeKit2
 x https://github.com/ternjs/tern_for_vim
