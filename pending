@@ -2040,7 +2040,7 @@ x https://github.com/redguardtoo/evil-nerd-commenter
 - https://github.com/magit/git-modes
 - https://github.com/nonsequitur/smex
 - https://github.com/bling/evil-visualstar
-- https://github.com/joaotavora/yasnippet
+x https://github.com/joaotavora/yasnippet
 x https://github.com/adambard/learnxinyminutes-docs
 x https://github.com/easymotion/vim-easymotion
 x https://github.com/idank/explainshell
