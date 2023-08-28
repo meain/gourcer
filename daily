@@ -16,7 +16,7 @@ cat /tmp/trending-repos | head -n1 >repo
 echo "x $(cat repo)" >>pending
 
 cat /tmp/trending-repos |
-	tail -n+2 | head -n2 |  # increase this count if we start running out of repos
+	tail -n+2 | head -n4 |  # increase/decrease `head` count to control how many trending items we add
 	while read -r repo; do
 		stars="$(curl -s "$repo" | pup '.js-social-count attr{aria-label}' |
 			grep 'starred this repository' | cut -d' ' -f1)"
