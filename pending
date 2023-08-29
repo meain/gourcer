@@ -1775,7 +1775,7 @@ x https://github.com/purcell/nix-emacs-ci
 x https://github.com/tecosaur/emacs-config
 x https://github.com/bastibe/org-journal
 x https://github.com/stackgl/webgl-workshop
-- https://github.com/stackgl/shader-school
+x https://github.com/stackgl/shader-school
 x https://github.com/chenyanming/calibredb.el
 x https://github.com/nix-community/emacs-overlay
 x https://github.com/godotengine/emacs-gdscript-mode
