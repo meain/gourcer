@@ -1768,7 +1768,7 @@ x https://github.com/discourse/discourse
 x https://github.com/ryantm/agenix
 - https://github.com/purcell/envrc
 - https://github.com/kholia/OSX-KVM
-- https://github.com/xzfc/cached-nix-shell
+x https://github.com/xzfc/cached-nix-shell
 x https://github.com/kuanyui/copy-as-org-mode
 x https://github.com/oantolin/orderless
 x https://github.com/purcell/nix-emacs-ci
