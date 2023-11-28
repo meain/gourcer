@@ -1692,7 +1692,7 @@ x https://github.com/elitak/nixos-infect
 x https://github.com/ouch-org/ouch
 x https://github.com/SeaQL/sea-query
 x https://github.com/Malabarba/elisp-bug-hunter
-- https://github.com/kubernetes-el/kubernetes-el
+x https://github.com/kubernetes-el/kubernetes-el
 x https://github.com/lewish/asciiflow
 x https://github.com/matryer/xbar
 x https://github.com/kamax-matrix/mxisd
