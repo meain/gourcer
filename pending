@@ -1648,7 +1648,7 @@ x https://github.com/docker-slim/docker-slim
 x https://github.com/rancher/cli
 x https://github.com/kubicorn/kubicorn
 x https://github.com/tektoncd/pipeline
-- https://github.com/tektoncd/cli
+x https://github.com/tektoncd/cli
 x https://github.com/moby/moby
 x https://github.com/traefik/traefik
 x https://github.com/kdl-org/kdl
