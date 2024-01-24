@@ -1035,7 +1035,7 @@ x https://github.com/igiagkiozis/plotly
 x https://github.com/volta-cli/volta
 x https://github.com/museun/cargo-whatfeatures
 x https://github.com/magiblot/tvision
-x git://git.codemadness.org/sfeed- https://github.com/cessen/ropey
+x git://git.codemadness.org/sfeedx https://github.com/cessen/ropey
 x https://github.com/IGI-111/Smith
 x https://github.com/mcobzarenco/zee
 x https://github.com/ivanceras/ultron
@@ -2915,7 +2915,7 @@ x https://github.com/doublep/eldev
 x https://github.com/rubjo/victor-mono
 x https://github.com/GoogleContainerTools/distroless
 x https://github.com/sigstore/cosign
-x https://github.com/upx/upx- https://github.com/cshum/imagor
+x https://github.com/upx/upxx https://github.com/cshum/imagor
 x https://github.com/olebedev/when
 x https://github.com/nix-community/nixos-generators
 x https://github.com/bootandy/dust
@@ -2923,7 +2923,7 @@ x https://github.com/redox-os/ion
 x https://github.com/bvaisvil/zenith
 x https://github.com/input-output-hk/bitte
 x https://github.com/fluxcd/flux2
-x https://github.com/bufbuild/buf- https://github.com/prabhatsharma/zinc
+x https://github.com/bufbuild/bufx https://github.com/prabhatsharma/zinc
 x https://github.com/tonsky/sublime-clojure
 x https://codeberg.org/dnkl/foot.git
 x https://github.com/xxh/xxh
