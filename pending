@@ -5537,3 +5537,8 @@ x https://github.com/reorproject/reor
 x https://github.com/NVIDIA/trt-llm-rag-windows
 x https://github.com/matter-labs/zksync-era
 x https://github.com/gptscript-ai/gptscript
+x https://github.com/LargeWorldModel/LWM
+- https://github.com/astral-sh/uv
+- https://github.com/apps/mergify
+- https://github.com/google/generative-ai-dart
+- https://github.com/dair-ai/ML-YouTube-Courses
