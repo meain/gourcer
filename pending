@@ -5700,7 +5700,7 @@ x https://github.com/layerdiffusion/sd-forge-layerdiffusion
 - https://github.com/fort-nix/nix-bitcoin
 - https://github.com/vlinkz/nixos-conf-editor
 - https://github.com/vlinkz/nix-software-center
-- https://github.com/freuk/awesome-nix-hpc
+x https://github.com/freuk/awesome-nix-hpc
 x https://github.com/chaotic-cx/nyx
 x https://github.com/chaotic-aur/
 x https://github.com/nix-community/nixpkgs-wayland
