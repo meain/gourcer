@@ -5698,7 +5698,7 @@ x https://github.com/layerdiffusion/sd-forge-layerdiffusion
 - https://github.com/nix-community/nixvim
 - https://github.com/danth/stylix
 - https://github.com/fort-nix/nix-bitcoin
-- https://github.com/vlinkz/nixos-conf-editor
+x https://github.com/vlinkz/nixos-conf-editor
 x https://github.com/vlinkz/nix-software-center
 x https://github.com/freuk/awesome-nix-hpc
 x https://github.com/chaotic-cx/nyx
