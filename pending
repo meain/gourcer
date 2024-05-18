@@ -5692,7 +5692,7 @@ x https://github.com/layerdiffusion/sd-forge-layerdiffusion
 - https://github.com/oxalica/rust-overlay
 - https://github.com/zaninime/sbt-derivation
 - https://github.com/nix-community/zon2nix
-- https://github.com/SenchoPens/base16.nix
+x https://github.com/SenchoPens/base16.nix
 x https://github.com/musnix/musnix
 x https://github.com/nixcloud/nixcloud-webservices
 x https://github.com/nix-community/nixvim
