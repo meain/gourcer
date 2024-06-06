@@ -5688,7 +5688,7 @@ x https://github.com/layerdiffusion/sd-forge-layerdiffusion
 - https://github.com/nix-community/fenix
 - https://github.com/nmattia/naersk
 - https://github.com/yusdacra/nix-cargo-integration
-- https://github.com/mozilla/nixpkgs-mozilla
+x https://github.com/mozilla/nixpkgs-mozilla
 x https://github.com/oxalica/rust-overlay
 x https://github.com/zaninime/sbt-derivation
 x https://github.com/nix-community/zon2nix
