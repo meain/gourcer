@@ -5684,7 +5684,7 @@ x https://github.com/layerdiffusion/sd-forge-layerdiffusion
 - https://github.com/nix-community/bundix
 - https://github.com/sagittaros/ruby-nix
 - https://github.com/cargo2nix/cargo2nix
-- https://github.com/ipetkov/crane
+x https://github.com/ipetkov/crane
 x https://github.com/nix-community/fenix
 x https://github.com/nmattia/naersk
 x https://github.com/yusdacra/nix-cargo-integration
