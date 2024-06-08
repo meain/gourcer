@@ -5681,7 +5681,7 @@ x https://github.com/layerdiffusion/sd-forge-layerdiffusion
 - https://github.com/justinwoo/easy-purescript-nix
 - https://github.com/purs-nix/purs-nix
 - https://github.com/nix-community/poetry2nix
-- https://github.com/nix-community/bundix
+x https://github.com/nix-community/bundix
 x https://github.com/sagittaros/ruby-nix
 x https://github.com/cargo2nix/cargo2nix
 x https://github.com/ipetkov/crane
