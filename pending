@@ -5677,7 +5677,7 @@ x https://github.com/layerdiffusion/sd-forge-layerdiffusion
 - https://github.com/nix-community/npmlock2nix
 - https://github.com/timbertson/opam2nix
 - https://github.com/svanderburg/composer2nix
-- https://github.com/loophp/nix-shell
+x https://github.com/loophp/nix-shell
 x https://github.com/justinwoo/easy-purescript-nix
 x https://github.com/purs-nix/purs-nix
 x https://github.com/nix-community/poetry2nix
