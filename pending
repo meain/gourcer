@@ -5671,7 +5671,7 @@ x https://github.com/layerdiffusion/sd-forge-layerdiffusion
 - https://github.com/NixOS/cabal2nix
 - https://github.com/srid/haskell-flake
 - https://github.com/input-output-hk/haskell.nix
-- https://github.com/pwm/nixkell
+x https://github.com/pwm/nixkell
 x https://github.com/nix-community/napalm
 x https://github.com/svanderburg/node2nix
 x https://github.com/nix-community/npmlock2nix
