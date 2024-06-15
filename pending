@@ -6185,3 +6185,8 @@ x https://github.com/fchollet/ARC-AGI
 x https://github.com/warpdotdev/Warp
 x https://github.com/datastrato/gravitino
 x https://github.com/goldmansachs/gs-quant
+x https://github.com/Azure/azure-sdk-for-java
+- https://github.com/web-platform-tests/wpt
+- https://github.com/fleetdm/fleet
+- https://github.com/microsoft/LightGBM
+- https://github.com/meetecho/janus-gateway
