@@ -6190,3 +6190,8 @@ x https://github.com/web-platform-tests/wpt
 x https://github.com/fleetdm/fleet
 x https://github.com/microsoft/LightGBM
 x https://github.com/meetecho/janus-gateway
+x https://github.com/puppeteer/puppeteer
+- https://github.com/apps/release-please
+- https://github.com/lepoco/wpfui
+- https://github.com/hashicorp/terraform-provider-aws
+- https://github.com/StevenBlack/hosts
