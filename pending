@@ -6193,5 +6193,5 @@ x https://github.com/meetecho/janus-gateway
 x https://github.com/puppeteer/puppeteer
 - https://github.com/apps/release-please
 - https://github.com/lepoco/wpfui
-- https://github.com/hashicorp/terraform-provider-aws
+x https://github.com/hashicorp/terraform-provider-aws
 x https://github.com/StevenBlack/hosts
