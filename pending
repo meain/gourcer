@@ -5669,7 +5669,7 @@ x https://github.com/layerdiffusion/sd-forge-layerdiffusion
 - https://github.com/jlesquembre/clj-nix
 - https://github.com/cachix/elm2nix
 - https://github.com/NixOS/cabal2nix
-- https://github.com/srid/haskell-flake
+x https://github.com/srid/haskell-flake
 x https://github.com/input-output-hk/haskell.nix
 x https://github.com/pwm/nixkell
 x https://github.com/nix-community/napalm
