@@ -5666,7 +5666,7 @@ x https://github.com/layerdiffusion/sd-forge-layerdiffusion
 - https://github.com/snowfallorg/lib
 - https://github.com/fluidattacks/makes
 - https://github.com/divnix/std
-- https://github.com/jlesquembre/clj-nix
+x https://github.com/jlesquembre/clj-nix
 x https://github.com/cachix/elm2nix
 x https://github.com/NixOS/cabal2nix
 x https://github.com/srid/haskell-flake
