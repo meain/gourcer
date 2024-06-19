@@ -5664,7 +5664,7 @@ x https://github.com/layerdiffusion/sd-forge-layerdiffusion
 - https://github.com/danielfullmer/robotnix
 - https://github.com/juspay/services-flake
 - https://github.com/snowfallorg/lib
-- https://github.com/fluidattacks/makes
+x https://github.com/fluidattacks/makes
 x https://github.com/divnix/std
 x https://github.com/jlesquembre/clj-nix
 x https://github.com/cachix/elm2nix
