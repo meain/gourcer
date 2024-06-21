@@ -5662,7 +5662,7 @@ x https://github.com/layerdiffusion/sd-forge-layerdiffusion
 - https://github.com/cachix/pre-commit-hooks.nix
 - https://github.com/nix-community/rnix-lsp
 - https://github.com/danielfullmer/robotnix
-- https://github.com/juspay/services-flake
+x https://github.com/juspay/services-flake
 x https://github.com/snowfallorg/lib
 x https://github.com/fluidattacks/makes
 x https://github.com/divnix/std
