@@ -5656,7 +5656,7 @@ x https://github.com/layerdiffusion/sd-forge-layerdiffusion
 - https://github.com/nix-community/namaka
 - https://github.com/oxalica/nil
 - https://github.com/nix-community/nix-direnv
-- https://github.com/Mic92/nix-update
+x https://github.com/Mic92/nix-update
 x https://github.com/nix-community/nixd
 x https://github.com/Mic92/nixpkgs-review
 x https://github.com/cachix/pre-commit-hooks.nix
