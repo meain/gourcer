@@ -5651,7 +5651,7 @@ x https://github.com/layerdiffusion/sd-forge-layerdiffusion
 - https://github.com/nix-community/flakelight
 - https://github.com/flox/flox
 - https://github.com/hercules-ci/gitignore.nix
-- https://github.com/nix-community/haumea
+x https://github.com/nix-community/haumea
 x https://github.com/nix-community/lorri
 x https://github.com/nix-community/namaka
 x https://github.com/oxalica/nil
