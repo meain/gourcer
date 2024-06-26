@@ -5652,7 +5652,7 @@ x https://github.com/layerdiffusion/sd-forge-layerdiffusion
 - https://github.com/flox/flox
 - https://github.com/hercules-ci/gitignore.nix
 - https://github.com/nix-community/haumea
-- https://github.com/nix-community/lorri
+x https://github.com/nix-community/lorri
 x https://github.com/nix-community/namaka
 x https://github.com/oxalica/nil
 x https://github.com/nix-community/nix-direnv
