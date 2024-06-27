@@ -5647,7 +5647,7 @@ x https://github.com/layerdiffusion/sd-forge-layerdiffusion
 - https://github.com/nix-community/dream2nix
 - https://github.com/hercules-ci/flake-parts
 - https://github.com/numtide/flake-utils
-- https://github.com/gytis-ivaskevicius/flake-utils-plus
+x https://github.com/gytis-ivaskevicius/flake-utils-plus
 x https://github.com/nix-community/flakelight
 x https://github.com/flox/flox
 x https://github.com/hercules-ci/gitignore.nix
