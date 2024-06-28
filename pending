@@ -5643,7 +5643,7 @@ x https://github.com/layerdiffusion/sd-forge-layerdiffusion
 - https://github.com/msteen/nix-prefetch
 - https://github.com/utdemir/nix-tree
 - https://github.com/nix-community/nurl
-- https://github.com/jetpack-io/devbox
+x https://github.com/jetpack-io/devbox
 x https://github.com/nix-community/dream2nix
 x https://github.com/hercules-ci/flake-parts
 x https://github.com/numtide/flake-utils
