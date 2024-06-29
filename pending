@@ -5641,7 +5641,7 @@ x https://github.com/layerdiffusion/sd-forge-layerdiffusion
 - https://github.com/nix-community/nix-melt
 - https://github.com/maralorn/nix-output-monitor
 - https://github.com/msteen/nix-prefetch
-- https://github.com/utdemir/nix-tree
+x https://github.com/utdemir/nix-tree
 x https://github.com/nix-community/nurl
 x https://github.com/jetpack-io/devbox
 x https://github.com/nix-community/dream2nix
