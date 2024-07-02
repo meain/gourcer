@@ -5637,7 +5637,7 @@ x https://github.com/layerdiffusion/sd-forge-layerdiffusion
 - https://github.com/thiagokokada/nix-alien
 - https://github.com/Gabriella439/nix-diff
 - https://github.com/bennofs/nix-index
-- https://github.com/nix-community/nix-init
+x https://github.com/nix-community/nix-init
 x https://github.com/nix-community/nix-melt
 x https://github.com/maralorn/nix-output-monitor
 x https://github.com/msteen/nix-prefetch
