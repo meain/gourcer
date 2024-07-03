@@ -5634,7 +5634,7 @@ x https://github.com/layerdiffusion/sd-forge-layerdiffusion
 - https://github.com/serokell/nixfmt
 - https://github.com/nix-community/nixpkgs-fmt
 - https://github.com/jtojnar/nixpkgs-hammering
-- https://github.com/thiagokokada/nix-alien
+x https://github.com/thiagokokada/nix-alien
 x https://github.com/Gabriella439/nix-diff
 x https://github.com/bennofs/nix-index
 x https://github.com/nix-community/nix-init
