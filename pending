@@ -5632,7 +5632,7 @@ x https://github.com/layerdiffusion/sd-forge-layerdiffusion
 - https://github.com/cachix/devenv
 - https://github.com/mlvzk/manix
 - https://github.com/serokell/nixfmt
-- https://github.com/nix-community/nixpkgs-fmt
+x https://github.com/nix-community/nixpkgs-fmt
 x https://github.com/jtojnar/nixpkgs-hammering
 x https://github.com/thiagokokada/nix-alien
 x https://github.com/Gabriella439/nix-diff
