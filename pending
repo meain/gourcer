@@ -9852,7 +9852,7 @@ x https://github.com/laravel/laravel
 - https://github.com/zenthangplus/goccm
 - https://github.com/zeromq/jeromq
 - https://github.com/zeromq/libzmq
-- https://github.com/zeroturnaround/zt-exec
+x https://github.com/zeroturnaround/zt-exec
 x https://github.com/zeroturnaround/zt-process-killer
 x https://github.com/zhenghaoz/gorse
 x https://github.com/zhenjl/bloom
