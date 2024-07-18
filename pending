@@ -9842,7 +9842,7 @@ x https://github.com/laravel/laravel
 - https://github.com/zalando/faux-pas
 - https://github.com/zalando/jackson-datatype-money
 - https://github.com/zalando/logbook
-- https://github.com/zalando/nakadi
+x https://github.com/zalando/nakadi
 x https://github.com/zalando/opentracing-toolbox
 x https://github.com/zalando/riptide
 x https://github.com/zavtech/morpheus-core
