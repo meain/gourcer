@@ -9839,7 +9839,7 @@ x https://github.com/laravel/laravel
 - https://github.com/zRedShift/mimemagic
 - https://github.com/zach-klippenstein/goregen
 - https://github.com/zalando/failsafe-actuator
-- https://github.com/zalando/faux-pas
+x https://github.com/zalando/faux-pas
 x https://github.com/zalando/jackson-datatype-money
 x https://github.com/zalando/logbook
 x https://github.com/zalando/nakadi
