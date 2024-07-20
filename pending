@@ -9837,7 +9837,7 @@ x https://github.com/laravel/laravel
 - https://github.com/yvasiyarov/php_session_decoder
 - https://github.com/z7zmey/php-parser
 - https://github.com/zRedShift/mimemagic
-- https://github.com/zach-klippenstein/goregen
+x https://github.com/zach-klippenstein/goregen
 x https://github.com/zalando/failsafe-actuator
 x https://github.com/zalando/faux-pas
 x https://github.com/zalando/jackson-datatype-money
