@@ -9956,3 +9956,6 @@ x https://github.com/google/benchmark
 x https://github.com/apache/apisix
 x https://github.com/hufrea/byedpi
 x https://github.com/marticliment/UniGetUI
+x https://github.com/trailofbits/multiplier
+- https://github.com/bghira/SimpleTuner
+- https://github.com/ardalis/CleanArchitecture
