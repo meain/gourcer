@@ -9685,7 +9685,7 @@ x https://github.com/laravel/laravel
 - https://github.com/vardius/gollback
 - https://github.com/vardius/gorouter
 - https://github.com/vardius/message-bus
-- https://github.com/vardius/worker-pool
+x https://github.com/vardius/worker-pool
 x https://github.com/vbauerster/mpb
 x https://github.com/vdobler/chart
 x https://github.com/veandco/go-sdl2
