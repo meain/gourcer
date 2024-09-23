@@ -9683,7 +9683,7 @@ x https://github.com/laravel/laravel
 - https://github.com/vanillasource/jaywire
 - https://github.com/vanng822/go-premailer
 - https://github.com/vardius/gollback
-- https://github.com/vardius/gorouter
+x https://github.com/vardius/gorouter
 x https://github.com/vardius/message-bus
 x https://github.com/vardius/worker-pool
 x https://github.com/vbauerster/mpb
