@@ -9664,7 +9664,7 @@ x https://github.com/laravel/laravel
 - https://github.com/unjs/consola
 - https://github.com/unrolled/render
 - https://github.com/unrolled/secure
-- https://github.com/upper/db
+x https://github.com/upper/db
 x https://github.com/uptrace/bun
 x https://github.com/urfave/cli
 x https://github.com/urfave/negroni
