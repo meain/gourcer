@@ -9642,7 +9642,7 @@ x https://github.com/laravel/laravel
 - https://github.com/uber/h3-go
 - https://github.com/uber/kraken
 - https://github.com/uber/makisu
-- https://github.com/uber/ringpop-go
+x https://github.com/uber/ringpop-go
 x https://github.com/udhos/jazigo
 x https://github.com/ugorji/go
 x https://github.com/ukautz/clif
