@@ -10127,4 +10127,4 @@ x
 x https://github.com/HumanSignal/label-studio
 - https://github.com/hibernate/hibernate-orm
 - https://github.com/deskflow/deskflow
-- https://github.com/hashicorp/terraform-provider-azurerm
+x https://github.com/hashicorp/terraform-provider-azurerm
