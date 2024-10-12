@@ -9638,7 +9638,7 @@ x https://github.com/laravel/laravel
 - https://github.com/uber-go/fx
 - https://github.com/uber-go/guide
 - https://github.com/uber-go/zap
-- https://github.com/uber/NullAway
+x https://github.com/uber/NullAway
 x https://github.com/uber/h3-go
 x https://github.com/uber/kraken
 x https://github.com/uber/makisu
