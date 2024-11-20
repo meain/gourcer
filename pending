@@ -9548,7 +9548,7 @@ x https://github.com/laravel/laravel
 - https://github.com/tersesystems/echopraxia
 - https://github.com/testcontainers/testcontainers-go
 - https://github.com/testcontainers/testcontainers-java
-- https://github.com/testcontainers/testcontainers-node
+x https://github.com/testcontainers/testcontainers-node
 x https://github.com/testingisdocumenting/webtau
 x https://github.com/tgjones/HlslTools
 x https://github.com/th-ch/youtube-music
