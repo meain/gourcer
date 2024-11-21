@@ -9546,7 +9546,7 @@ x https://github.com/laravel/laravel
 - https://github.com/teris-io/cli
 - https://github.com/teris-io/shortid
 - https://github.com/tersesystems/echopraxia
-- https://github.com/testcontainers/testcontainers-go
+x https://github.com/testcontainers/testcontainers-go
 x https://github.com/testcontainers/testcontainers-java
 x https://github.com/testcontainers/testcontainers-node
 x https://github.com/testingisdocumenting/webtau
