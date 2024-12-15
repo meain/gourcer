@@ -9492,7 +9492,7 @@ x https://github.com/laravel/laravel
 - https://github.com/stripe/stripe-go
 - https://github.com/stripe/stripe-java
 - https://github.com/strongbox-password-safe/Strongbox
-- https://github.com/studiosol/async
+x https://github.com/studiosol/async
 x https://github.com/stv0g/gont
 x https://github.com/stylecow/stylecow
 x https://github.com/subosito/gotenv
