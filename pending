@@ -9488,7 +9488,7 @@ x https://github.com/laravel/laravel
 - https://github.com/stesla/gospecify
 - https://github.com/stevensouza/automon
 - https://github.com/stianeikeland/go-rpio
-- https://github.com/stretchr/testify
+x https://github.com/stretchr/testify
 x https://github.com/stripe/stripe-go
 x https://github.com/stripe/stripe-java
 x https://github.com/strongbox-password-safe/Strongbox
