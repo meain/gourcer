@@ -9458,7 +9458,7 @@ x https://github.com/laravel/laravel
 - https://github.com/spotbugs/spotbugs
 - https://github.com/spotify/docker-client
 - https://github.com/spotify/docker-gc
-- https://github.com/spotify/dockerfile-maven
+x https://github.com/spotify/dockerfile-maven
 x https://github.com/spotify/helios
 x https://github.com/springdoc/springdoc-openapi
 x https://github.com/spyzhov/ajson
