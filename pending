@@ -9455,7 +9455,7 @@ x https://github.com/laravel/laravel
 - https://github.com/spiffe/spire
 - https://github.com/spiral/roadrunner
 - https://github.com/sponsors/sindresorhus
-- https://github.com/spotbugs/spotbugs
+x https://github.com/spotbugs/spotbugs
 x https://github.com/spotify/docker-client
 x https://github.com/spotify/docker-gc
 x https://github.com/spotify/dockerfile-maven
