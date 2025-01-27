@@ -9385,7 +9385,7 @@ x https://github.com/laravel/laravel
 - https://github.com/sindresorhus/string-length
 - https://github.com/sindresorhus/string-width
 - https://github.com/sindresorhus/strip-bom
-- https://github.com/sindresorhus/strip-css-comments
+x https://github.com/sindresorhus/strip-css-comments
 x https://github.com/sindresorhus/strip-indent
 x https://github.com/sindresorhus/strip-json-comments
 x https://github.com/sindresorhus/sudo-block
