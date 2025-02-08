@@ -9353,7 +9353,7 @@ x https://github.com/laravel/laravel
 - https://github.com/sindresorhus/is-up
 - https://github.com/sindresorhus/ky-universal
 - https://github.com/sindresorhus/leven
-- https://github.com/sindresorhus/load-json-file
+x https://github.com/sindresorhus/load-json-file
 x https://github.com/sindresorhus/log-symbols
 x https://github.com/sindresorhus/log-update
 x https://github.com/sindresorhus/matcher
