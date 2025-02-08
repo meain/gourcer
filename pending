@@ -9351,7 +9351,7 @@ x https://github.com/laravel/laravel
 - https://github.com/sindresorhus/is-docker
 - https://github.com/sindresorhus/is-online
 - https://github.com/sindresorhus/is-up
-- https://github.com/sindresorhus/ky-universal
+x https://github.com/sindresorhus/ky-universal
 x https://github.com/sindresorhus/leven
 x https://github.com/sindresorhus/load-json-file
 x https://github.com/sindresorhus/log-symbols
