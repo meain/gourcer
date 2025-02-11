@@ -9342,7 +9342,7 @@ x https://github.com/laravel/laravel
 - https://github.com/sindresorhus/hasha
 - https://github.com/sindresorhus/hook-std
 - https://github.com/sindresorhus/humanize-url
-- https://github.com/sindresorhus/image-dimensions
+x https://github.com/sindresorhus/image-dimensions
 x https://github.com/sindresorhus/image-type
 x https://github.com/sindresorhus/indent-string
 x https://github.com/sindresorhus/into-stream
