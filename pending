@@ -9331,7 +9331,7 @@ x https://github.com/laravel/laravel
 - https://github.com/sindresorhus/filenamify
 - https://github.com/sindresorhus/find-up
 - https://github.com/sindresorhus/fkill-cli
-- https://github.com/sindresorhus/generator-nm
+x https://github.com/sindresorhus/generator-nm
 x https://github.com/sindresorhus/get-port
 x https://github.com/sindresorhus/get-stdin
 x https://github.com/sindresorhus/get-stream
