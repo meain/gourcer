@@ -9327,7 +9327,7 @@ x https://github.com/laravel/laravel
 - https://github.com/sindresorhus/escape-string-regexp
 - https://github.com/sindresorhus/execa
 - https://github.com/sindresorhus/figures
-- https://github.com/sindresorhus/file-type
+x https://github.com/sindresorhus/file-type
 x https://github.com/sindresorhus/filenamify
 x https://github.com/sindresorhus/find-up
 x https://github.com/sindresorhus/fkill-cli
