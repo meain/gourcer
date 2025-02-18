@@ -9325,7 +9325,7 @@ x https://github.com/laravel/laravel
 - https://github.com/sindresorhus/dot-prop
 - https://github.com/sindresorhus/empty-trash
 - https://github.com/sindresorhus/escape-string-regexp
-- https://github.com/sindresorhus/execa
+x https://github.com/sindresorhus/execa
 x https://github.com/sindresorhus/figures
 x https://github.com/sindresorhus/file-type
 x https://github.com/sindresorhus/filenamify
