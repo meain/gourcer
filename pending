@@ -9308,7 +9308,7 @@ x https://github.com/laravel/laravel
 - https://github.com/sindresorhus/boxen
 - https://github.com/sindresorhus/camelcase
 - https://github.com/sindresorhus/cat-names
-- https://github.com/sindresorhus/cli-cursor
+x https://github.com/sindresorhus/cli-cursor
 x https://github.com/sindresorhus/cli-truncate
 x https://github.com/sindresorhus/clipboard-cli
 x https://github.com/sindresorhus/clipboardy
