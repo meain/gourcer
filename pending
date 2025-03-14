@@ -9254,7 +9254,7 @@ x https://github.com/laravel/laravel
 - https://github.com/sensepost/gowitness
 - https://github.com/sensorbee/sensorbee
 - https://github.com/sequelize/sequelize
-- https://github.com/serenity-bdd/serenity-core
+x https://github.com/serenity-bdd/serenity-core
 x https://github.com/serialport/node-serialport
 x https://github.com/sethgrid/pester
 x https://github.com/sfninja/thetool
