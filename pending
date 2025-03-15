@@ -9252,7 +9252,7 @@ x https://github.com/laravel/laravel
 - https://github.com/sendgrid/sendgrid-go
 - https://github.com/senecajs/seneca
 - https://github.com/sensepost/gowitness
-- https://github.com/sensorbee/sensorbee
+x https://github.com/sensorbee/sensorbee
 x https://github.com/sequelize/sequelize
 x https://github.com/serenity-bdd/serenity-core
 x https://github.com/serialport/node-serialport
