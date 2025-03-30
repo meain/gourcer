@@ -10548,3 +10548,6 @@ x https://github.com/Akkudoktor-EOS/EOS
 x https://github.com/signalapp/Signal-Android
 x https://github.com/signalapp/libsignal
 x 
+x https://github.com/google/perfetto
+- https://github.com/jlowin/fastmcp
+- https://github.com/open-source-parsers/jsoncpp
