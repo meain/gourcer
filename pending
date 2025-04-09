@@ -9186,7 +9186,7 @@ x https://github.com/laravel/laravel
 - https://github.com/rs/xid
 - https://github.com/rs/xlog
 - https://github.com/rs/xmux
-- https://github.com/rsteube/carapace
+x https://github.com/rsteube/carapace
 x https://github.com/rsteube/carapace-bin
 x https://github.com/rsteube/carapace-spec
 x https://github.com/rubenv/sql-migrate
