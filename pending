@@ -9111,7 +9111,7 @@ x https://github.com/laravel/laravel
 - https://github.com/real-logic/Aeron
 - https://github.com/real-logic/Agrona
 - https://github.com/real-logic/simple-binary-encoding
-- https://github.com/realm/realm-java
+x https://github.com/realm/realm-java
 x https://github.com/recoilme/pudge
 x https://github.com/redherd-project/redherd-framework
 x https://github.com/redis/go-redis
