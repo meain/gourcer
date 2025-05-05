@@ -9110,7 +9110,7 @@ x https://github.com/laravel/laravel
 - https://github.com/reactor/reactor-core
 - https://github.com/real-logic/Aeron
 - https://github.com/real-logic/Agrona
-- https://github.com/real-logic/simple-binary-encoding
+x https://github.com/real-logic/simple-binary-encoding
 x https://github.com/realm/realm-java
 x https://github.com/recoilme/pudge
 x https://github.com/redherd-project/redherd-framework
