@@ -9107,7 +9107,7 @@ x https://github.com/laravel/laravel
 - https://github.com/rcrowley/go-tigertonic
 - https://github.com/reactive-streams/reactive-streams-jvm
 - https://github.com/reactivex/rxjs
-- https://github.com/reactor/reactor-core
+x https://github.com/reactor/reactor-core
 x https://github.com/real-logic/Aeron
 x https://github.com/real-logic/Agrona
 x https://github.com/real-logic/simple-binary-encoding
