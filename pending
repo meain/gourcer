@@ -9082,7 +9082,7 @@ x https://github.com/laravel/laravel
 - https://github.com/quii/mockingjay-server
 - https://github.com/qustavo/sqlhooks
 - https://github.com/rabbitmq/amqp091-go
-- https://github.com/rabbitmq/rabbitmq-java-client
+x https://github.com/rabbitmq/rabbitmq-java-client
 x https://github.com/radsz/jacop
 x https://github.com/rafaeljesus/nsq-event-bus
 x https://github.com/rafaeljesus/rabbus
