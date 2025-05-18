@@ -9079,7 +9079,7 @@ x https://github.com/laravel/laravel
 - https://github.com/quartz-scheduler/quartz
 - https://github.com/quay/clair
 - https://github.com/quii/learn-go-with-tests
-- https://github.com/quii/mockingjay-server
+x https://github.com/quii/mockingjay-server
 x https://github.com/qustavo/sqlhooks
 x https://github.com/rabbitmq/amqp091-go
 x https://github.com/rabbitmq/rabbitmq-java-client
