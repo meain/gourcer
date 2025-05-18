@@ -9078,7 +9078,7 @@ x https://github.com/laravel/laravel
 - https://github.com/qmuntal/stateless
 - https://github.com/quartz-scheduler/quartz
 - https://github.com/quay/clair
-- https://github.com/quii/learn-go-with-tests
+x https://github.com/quii/learn-go-with-tests
 x https://github.com/quii/mockingjay-server
 x https://github.com/qustavo/sqlhooks
 x https://github.com/rabbitmq/amqp091-go
