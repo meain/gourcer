@@ -9055,7 +9055,7 @@ x https://github.com/laravel/laravel
 - https://github.com/projectcalico/calico
 - https://github.com/prometheus/client_java
 - https://github.com/prometheus/prometheus
-- https://github.com/protobufjs/protobuf
+x https://github.com/protobufjs/protobuf
 x https://github.com/psampaz/go-mod-outdated
 x https://github.com/psampaz/gothanks
 x https://github.com/psampaz/slice
