@@ -9052,7 +9052,7 @@ x https://github.com/laravel/laravel
 - https://github.com/primus/primus
 - https://github.com/prisma/prisma-client-go
 - https://github.com/probablykasper/time-machine-inspector
-- https://github.com/projectcalico/calico
+x https://github.com/projectcalico/calico
 x https://github.com/prometheus/client_java
 x https://github.com/prometheus/prometheus
 x https://github.com/protobufjs/protobuf
