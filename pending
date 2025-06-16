@@ -9003,7 +9003,7 @@ x https://github.com/laravel/laravel
 - https://github.com/philippgille/gokv
 - https://github.com/philippgille/ln-paywall
 - https://github.com/philips-labs/spiffe-vault
-- https://github.com/phusion/passenger
+x https://github.com/phusion/passenger
 x https://github.com/phuslu/log
 x https://github.com/piaohao/godis
 x https://github.com/pid/speakingurl
