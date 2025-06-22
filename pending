@@ -8986,7 +8986,7 @@ x https://github.com/laravel/laravel
 - https://github.com/pdfcpu/pdfcpu
 - https://github.com/peak/s5cmd
 - https://github.com/pebbe/textcat
-- https://github.com/pebbe/zmq3
+x https://github.com/pebbe/zmq3
 x https://github.com/pebbe/zmq4
 x https://github.com/pegjs/pegjs
 x https://github.com/pelletier/go-toml
