@@ -8912,7 +8912,7 @@ x https://github.com/laravel/laravel
 - https://github.com/oldj/SwitchHosts
 - https://github.com/olebedev/config
 - https://github.com/olebedev/emitter
-- https://github.com/olebedev/go-duktape
+x https://github.com/olebedev/go-duktape
 x https://github.com/olebedev/go-tgbot
 x https://github.com/oliver-moran/jimp
 x https://github.com/olivere/elastic
