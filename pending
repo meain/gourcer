@@ -8871,7 +8871,7 @@ x https://github.com/laravel/laravel
 - https://github.com/npm/node-semver
 - https://github.com/nproc/parseargs-go
 - https://github.com/nsf/termbox-go
-- https://github.com/nsheremet/banjo
+x https://github.com/nsheremet/banjo
 x https://github.com/nspragg/filehound
 x https://github.com/nsqio/go-nsq
 x https://github.com/nukeop/nuclear
