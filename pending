@@ -8859,7 +8859,7 @@ x https://github.com/laravel/laravel
 - https://github.com/nodeca/url-unshort
 - https://github.com/nodegit/nodegit
 - https://github.com/nodejs/llnode
-- https://github.com/nodejs/readable-stream
+x https://github.com/nodejs/readable-stream
 x https://github.com/nodemailer/nodemailer
 x https://github.com/nodenv/nodenv
 x https://github.com/noelyahan/mergi
