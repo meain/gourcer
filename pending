@@ -8861,7 +8861,7 @@ x https://github.com/laravel/laravel
 - https://github.com/nodejs/llnode
 - https://github.com/nodejs/readable-stream
 - https://github.com/nodemailer/nodemailer
-- https://github.com/nodenv/nodenv
+x https://github.com/nodenv/nodenv
 x https://github.com/noelyahan/mergi
 x https://github.com/nomemory/mockneat
 x https://github.com/norunners/vert
