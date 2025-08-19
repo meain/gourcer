@@ -8856,7 +8856,7 @@ x https://github.com/laravel/laravel
 - https://github.com/nodeca/pako
 - https://github.com/nodeca/pica
 - https://github.com/nodeca/promise-memoize
-- https://github.com/nodeca/url-unshort
+x https://github.com/nodeca/url-unshort
 x https://github.com/nodegit/nodegit
 x https://github.com/nodejs/llnode
 x https://github.com/nodejs/readable-stream
