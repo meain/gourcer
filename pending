@@ -8848,7 +8848,7 @@ x https://github.com/laravel/laravel
 - https://github.com/nock/nock
 - https://github.com/node-fetch/node-fetch
 - https://github.com/node-usb/node-usb
-- https://github.com/nodeca/babelfish
+x https://github.com/nodeca/babelfish
 x https://github.com/nodeca/embedza
 x https://github.com/nodeca/idoit
 x https://github.com/nodeca/js-yaml
