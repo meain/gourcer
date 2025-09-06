@@ -8816,7 +8816,7 @@ x https://github.com/laravel/laravel
 - https://github.com/newrelic/centurion
 - https://github.com/ngamux/ngamux
 - https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion
-- https://github.com/nginx-proxy/nginx-proxy
+x https://github.com/nginx-proxy/nginx-proxy
 x https://github.com/ngs-doo/dsl-json
 x https://github.com/ngs/go-amazon-product-advertising-api
 x https://github.com/ngs/go-google-email-audit-api
