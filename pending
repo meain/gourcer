@@ -8794,7 +8794,7 @@ x https://github.com/laravel/laravel
 - https://github.com/natefinch/lumberjack
 - https://github.com/nathan-osman/go-sunrise
 - https://github.com/nats-io/gnatsd
-- https://github.com/nats-io/nats
+x https://github.com/nats-io/nats
 x https://github.com/naver/pinpoint
 x https://github.com/nbari/violetear
 x https://github.com/ncopa/su-exec
