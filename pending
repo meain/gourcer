@@ -8790,7 +8790,7 @@ x https://github.com/laravel/laravel
 - https://github.com/nanomsg/mangos
 - https://github.com/nanovms/ops
 - https://github.com/nao1215/gup
-- https://github.com/napi-rs/napi-rs
+x https://github.com/napi-rs/napi-rs
 x https://github.com/natefinch/lumberjack
 x https://github.com/nathan-osman/go-sunrise
 x https://github.com/nats-io/gnatsd
