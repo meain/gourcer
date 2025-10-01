@@ -8756,7 +8756,7 @@ x https://github.com/laravel/laravel
 - https://github.com/mqttjs/MQTT
 - https://github.com/mr-linch/go-tg
 - https://github.com/mrjackwills/oxker
-- https://github.com/mscdex/ssh2
+x https://github.com/mscdex/ssh2
 x https://github.com/msempere/golarm
 x https://github.com/msgpack/msgpack-java
 x https://github.com/msoap/go-carpet
