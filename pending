@@ -8750,7 +8750,7 @@ x https://github.com/laravel/laravel
 - https://github.com/moxystudio/node-proper-lockfile
 - https://github.com/mozilla/nunjucks
 - https://github.com/mozillazg/go-pinyin
-- https://github.com/mozillazg/go-slugify
+x https://github.com/mozillazg/go-slugify
 x https://github.com/mozillazg/go-unidecode
 x https://github.com/mozillazg/request
 x https://github.com/mqttjs/MQTT
