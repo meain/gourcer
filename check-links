@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# Checks links in pending list. This validates that the repositories in the
+# pending list exists in GH and removes them if they do not.
+
 set -e
 
 check_and_drop_link() {

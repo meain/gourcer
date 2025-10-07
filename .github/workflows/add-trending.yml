@@ -13,4 +13,4 @@ jobs:
       - name: Daily pull
         run: ./add-trending
       - name: Mark completion
-        run: ./updatepending '[trending]'
+        run: ./commit-pending-list '[trending]'

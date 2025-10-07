@@ -11,17 +11,16 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Get repo
-        run: ./getpending
-      - name: Check repo
-        run: cat repo
-      - name: Mark completion
-        run: ./updatepending
+        run: |
+          ./get-pending-repo
+          cat repo
+          ./commit-pending-list
       - name: Populate dirs
         run: mkdir results && ls
       - name: Clone repo
         run: git clone --recurse-submodules "$(head repo)" crepo
       - name: Fetch description
-        run: ./gstats > description && cat description
+        run: ./generate-description > description && cat description
       - name: Create video
         env:
           CLIENT_SECRETS: ${{ secrets.CLIENT_SECRETS }}
