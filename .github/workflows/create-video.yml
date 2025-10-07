@@ -13,14 +13,14 @@ jobs:
       - name: Get repo
         run: |
           ./get-pending-repo
-          cat repo
           ./commit-pending-list
-      - name: Populate dirs
-        run: mkdir results && ls
-      - name: Clone repo
-        run: git clone --recurse-submodules "$(head repo)" crepo
-      - name: Fetch description
-        run: ./generate-description > description && cat description
+          cat repo
+      - name: Prepare repository
+        run: |
+          mkdir results && ls
+          git clone --recurse-submodules "$(head repo)" crepo
+          ./generate-description > description
+          cat description
       - name: Create video
         env:
           CLIENT_SECRETS: ${{ secrets.CLIENT_SECRETS }}

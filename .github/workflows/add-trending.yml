@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Daily pull
-        run: ./add-trending
-      - name: Mark completion
-        run: ./commit-pending-list '[trending]'
+      - name: Update trending
+        run: |
+          ./add-trending
+          ./commit-pending-list '[trending]'
