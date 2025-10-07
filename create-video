@@ -11,6 +11,8 @@ echo "Starting video generation..."
 TIME_PER_COMMIT=0.2
 TOTAL_COMMITS="$(git log --oneline | wc -l)"
 [ "$TOTAL_COMMITS" -ge 10000 ] && TIME_PER_COMMIT="$(echo "(10*60)/$TOTAL_COMMITS" | bc -l)" # max 10 mins
+
+git config --global --add safe.directory /repo # prevent git from freaking out
 gource --title "$TITLE" --key -s "$TIME_PER_COMMIT" -a 1 ./ -"$RES" -o - |
     ffmpeg -y -r 60 -f image2pipe -vcodec ppm -i - -vcodec libx264 -preset medium \
         -timeout 20 \
