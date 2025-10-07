@@ -1,0 +1,16 @@
+#!/bin/sh
+
+# We use a prebuilt docker image to speed up the process and to ensure
+# that the deps are somewhat locked. This script is just push the
+# prebuilt image.
+
+version="$1"
+if [ -z "$version" ]; then
+    echo "Usage: $0 <version>"
+    exit 1
+fi
+
+# We could consider using ghcr.io
+docker build -t docker.io/meain/gourcer:"$version" -f Dockerfile .
+docker push docker.io/meain/gourcer:"$version"
+echo "Update the version to $version in create-video.yaml action."
