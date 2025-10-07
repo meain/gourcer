@@ -6,22 +6,22 @@ set -e
 
 URL="https://github.com/trending"
 curl "$URL" |
-	grep 'data-hydro-click' |
-	grep 'TRENDING_REPOSITORIES_PAGE' |
-	grep -oE 'href="/[^/"]*/[^"]*' |
-	awk -F'"' '{print "https://github.com"$2}' |
-	while read -r repo; do
-		grep -q "$repo" pending || echo "$repo"
-	done >/tmp/trending-repos
+    grep 'data-hydro-click' |
+    grep 'TRENDING_REPOSITORIES_PAGE' |
+    grep -oE 'href="/[^/"]*/[^"]*' |
+    awk -F'"' '{print "https://github.com"$2}' |
+    while read -r repo; do
+        grep -q "$repo" pending || echo "$repo"
+    done >/tmp/trending-repos
 
 cat /tmp/trending-repos | head -n1 >repo
 echo "x $(cat repo)" >>pending
 
 cat /tmp/trending-repos |
-	tail -n+2 | head -n4 |  # increase/decrease `head` count to control how many trending items we add
-	while read -r repo; do
-		stars="$(curl -s "$repo" | pup '.js-social-count attr{aria-label}' |
-			grep 'starred this repository' | cut -d' ' -f1)"
-		[ -n "$stars" ] && [ $stars -le 50 ] && continue
-		echo "- $repo" >>pending
-	done
+    tail -n+2 | head -n4 | # increase/decrease `head` count to control how many trending items we add
+    while read -r repo; do
+        stars="$(curl -s "$repo" | pup '.js-social-count attr{aria-label}' |
+            grep 'starred this repository' | cut -d' ' -f1)"
+        [ -n "$stars" ] && [ $stars -le 50 ] && continue
+        echo "- $repo" >>pending
+    done

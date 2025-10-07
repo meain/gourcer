@@ -7,11 +7,16 @@ rm -f /results/{gource.ppm,gource.mp4}
 RES="${RES:-1920x1080}"
 DEPTH="${DEPTH:-24}"
 
-xvfb-run -a -s "-screen 0 ${RES}x${DEPTH}" /tmp/qg &
+# We need this one level of indirection to allow the script to run in a virtual
+# framebuffer environment.
+xvfb-run -a -s "-screen 0 ${RES}x${DEPTH}" /tmp/create-video &
 
+# xvfb-run does not really "finish" and so we wait for the video creation to be
+# complete by checking if the logs file is getting bigger and kill the script
+# once we detect that it is not growing anymore.
 lastsize=0
 filesize=0
-while true;do
+while true; do
     sleep 30
     lastsize="$filesize" && filesize="$(stat -c '%s' /results/gource)"
     echo 'Polling the size. Current size is' "$filesize"

@@ -8,5 +8,5 @@ set -e
 cp tests/repo repo
 rm -rf crepo
 git clone --recurse-submodules "$(head repo)" crepo
-./generate-description > description && cat description
+./generate-description >description && cat description
 diff <(head -n10 description) <(head -n10 tests/description)

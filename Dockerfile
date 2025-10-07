@@ -10,7 +10,7 @@ RUN wget 'https://github.com/porjo/youtubeuploader/releases/download/21.04/youtu
 RUN tar -xvzf youtubeuploader_linux_amd64.tar.gz
 
 ADD ./gourcer /tmp/gourcer
-ADD ./qg /tmp/qg
+ADD ./create-video /tmp/create-video
 
 VOLUME ["/repo", "/avatars", "/results"]
 WORKDIR /repo
