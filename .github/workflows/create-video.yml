@@ -1,4 +1,4 @@
-name: create-video
+name: Create and upload video
 
 on:
   workflow_dispatch:
