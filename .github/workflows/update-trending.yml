@@ -1,4 +1,4 @@
-name: daily-pull-from-trending
+name: update-trending
 
 on:
   workflow_dispatch:
