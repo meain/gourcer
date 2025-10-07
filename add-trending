@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# Adds daily trending repositories to pending list
+
 set -e
 
 URL="https://github.com/trending"

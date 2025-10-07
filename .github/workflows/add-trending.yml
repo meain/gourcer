@@ -1,4 +1,4 @@
-name: update-trending
+name: add-trending
 
 on:
   workflow_dispatch:
@@ -11,6 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Daily pull
-        run: ./daily
+        run: ./add-trending
       - name: Mark completion
         run: ./updatepending '[trending]'
