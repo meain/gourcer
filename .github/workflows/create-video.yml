@@ -31,4 +31,4 @@ jobs:
             --env DESCRIPTION="$(cat description)" \
             -e CLIENT_SECRETS="$CLIENT_SECRETS" \
             -e REQUEST_TOKEN="$REQUEST_TOKEN" \
-            -t meain/gourcer:0.0.6
+            -t meain/gourcer:latest
