@@ -2,24 +2,43 @@
 
 set -e
 
-cat repo | awk '{print "Url: "$0}'
-cat repo | sed 's|https://[^/]*/\([^/]*\)/\([^/]*\)|Author: \1#Repo: \2|' | tr '#' '\n'
+# Get repository info
+REPO_URL=$(cat repo)
+AUTHOR=$(echo "$REPO_URL" | sed 's|https://[^/]*/\([^/]*\)/.*|\1|')
+REPO_NAME=$(echo "$REPO_URL" | sed 's|.*/\([^/]*\)$|\1|')
+
+echo "🚀 Watch the development journey of $REPO_NAME by $AUTHOR!"
 echo ""
-if cat repo | grep -q '//github.com/'; then
-    cat repo | head -n1 | sed 's|github.com|api.github.com/repos|' | xargs curl >/tmp/gh-repo-page
-    jq -r '.description' /tmp/gh-repo-page | awk '{print "Description: "$0}'
-    jq -r '.watchers,.forks,.subscribers_count' /tmp/gh-repo-page |
-        xargs echo | awk '{print "Starred: "$1"\nForked: "$2"\nWatching: "$3}'
-    # printf "Top Languages: "
-    # cat /tmp/gh-repo-page|grep 'Progress-item'|grep -o 'aria-label="[^"]*' | head -n5 | awk -F'"' '{print $2"% | "}' | xargs echo | sed 's/..$//'
+
+if echo "$REPO_URL" | grep -q '//github.com/'; then
+    # Get GitHub API data
+    API_URL=$(echo "$REPO_URL" | sed 's|github.com|api.github.com/repos|')
+    curl -s "$API_URL" > /tmp/gh-repo-page
+
+    DESCRIPTION=$(jq -r '.description // "No description available"' /tmp/gh-repo-page)
+    STARS=$(jq -r '.watchers // 0' /tmp/gh-repo-page)
+    FORKS=$(jq -r '.forks // 0' /tmp/gh-repo-page)
+
+    echo "📝 $DESCRIPTION"
+    echo ""
+    echo "⭐ $STARS stars | 🍴 $FORKS forks"
+    echo ""
 fi
 
 cd crepo || exit 1
 
-echo "Total commits: $(git rev-list --count HEAD)"
-echo "Initial commit: $(git log --oneline | tail -1 | awk '{print $1}' | xargs git show | grep -E '^Date:' | sed 's|Date:\ *||')"
-echo "Total number of files: $(find . -type f | grep -v '.git/' | wc -l)"
-echo "Total number of lines: $(find . -type f | grep -v '.git/' | xargs cat | wc -l)"
-# echo "Number of contributers: $(git shortlog -sn|wc -l)"
-# echo "Top 5 contributers:"
-# git shortlog -sn|head -n5
+TOTAL_COMMITS=$(git rev-list --count HEAD)
+FIRST_COMMIT_DATE=$(git log --oneline | tail -1 | awk '{print $1}' | xargs git show --format="%ci" | head -1 | cut -d' ' -f1)
+TOTAL_FILES=$(find . -type f | grep -v '.git/' | wc -l | tr -d ' ')
+TOTAL_LINES=$(find . -type f | grep -v '.git/' | xargs cat 2>/dev/null | wc -l | tr -d ' ')
+
+echo "📊 Project Stats:"
+echo "• $TOTAL_COMMITS commits since $FIRST_COMMIT_DATE"
+echo "• $TOTAL_FILES files with $TOTAL_LINES lines of code"
+echo ""
+echo "🎬 This visualization shows the entire development history using Gource!"
+echo "Learn more about Gource: https://gource.io/"
+echo ""
+echo "🔗 Repository: $REPO_URL"
+echo ""
+echo "#programming #coding #opensource #gource #visualization #github"

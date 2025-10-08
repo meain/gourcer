@@ -19,5 +19,5 @@ gource --title "$TITLE" --key -s "$TIME_PER_COMMIT" -a 1 ./ -"$RES" -o - |
         -pix_fmt yuv420p -crf 1 -analyzeduration 999999999 -probesize 999999999 \
         -threads 0 -bf 0 -f mpegts - 2>/results/gource |
     ../youtubeuploader -filename - \
-        -title "$TITLE - Gource visualisation" \
+        -title "$TITLE" \
         -description "$DESCRIPTION" -privacy public
