@@ -8721,7 +8721,7 @@ x https://github.com/laravel/laravel
 - https://github.com/modelmapper/modelmapper
 - https://github.com/mojocn/base64Captcha
 - https://github.com/moleculerjs/moleculer
-- https://github.com/moment/luxon
+x https://github.com/moment/luxon
 x https://github.com/monaco-io/request
 x https://github.com/mongodb/mongo-go-driver
 x https://github.com/mongodb/node-mongodb-native
