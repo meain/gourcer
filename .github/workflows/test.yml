@@ -1,6 +1,7 @@
 name: Test gh description generation
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
