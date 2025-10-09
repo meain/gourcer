@@ -13,13 +13,13 @@ This is **Gourcer** - an automated system that generates Gource visualizations f
 
 The system consists of several shell scripts that work together:
 
-- **add-trending**: Scrapes GitHub trending page, filters repositories by star count (>50), and adds them to the pending queue
-- **get-pending-repo**: Selects the next repository from the pending queue for processing
-- **generate-description**: Extracts repository metadata (author, description, stats, commit history)
+- **scripts/add-trending**: Scrapes GitHub trending page, filters repositories by star count (>50), and adds them to the pending queue
+- **scripts/get-pending-repo**: Selects the next repository from the pending queue for processing
+- **scripts/generate-description**: Extracts repository metadata (author, description, stats, commit history)
 - **gourcer**: Main orchestration script that runs inside Docker container to generate the Gource visualization
 - **create-video**: Generates the actual Gource video using ffmpeg and uploads to YouTube
-- **commit-pending-list**: Commits and pushes changes to the pending queue back to the repository
-- **check-links**: Validates repository URLs and removes dead links from the pending queue
+- **scripts/commit-pending-list**: Commits and pushes changes to the pending queue back to the repository
+- **scripts/check-links**: Validates repository URLs and removes dead links from the pending queue
 
 ## Key Files
 
@@ -32,22 +32,22 @@ The system consists of several shell scripts that work together:
 
 ### Testing
 ```bash
-./test
+./scripts/test
 ```
 Runs the test suite which clones a test repository, generates stats, and compares output against expected results.
 
 ### Processing Pipeline
 ```bash
-./add-trending                       # Fetch trending repos and update pending queue
-./get-pending-repo                   # Select next repo for processing
-./generate-description > description # Generate repository statistics
+./scripts/add-trending                       # Fetch trending repos and update pending queue
+./scripts/get-pending-repo                   # Select next repo for processing
+./scripts/generate-description > description # Generate repository statistics
 ./gourcer                           # Generate Gource video (runs in Docker)
-./commit-pending-list [tag]         # Commit and push changes to pending queue
+./scripts/commit-pending-list [tag]         # Commit and push changes to pending queue
 ```
 
 ### Utility Commands
 ```bash
-./check-links             # Validate repository URLs and remove dead links
+./scripts/check-links             # Validate repository URLs and remove dead links
 ```
 
 ### Docker Usage
@@ -58,12 +58,12 @@ docker run -v /path/to/repo:/repo -v /path/to/results:/results gourcer
 
 ## Data Flow
 
-1. `add-trending` script fetches GitHub trending repositories and adds high-starred ones to `pending`
-2. `get-pending-repo` picks the next repository and writes URL to `repo` file
-3. `generate-description` clones the repository and extracts metadata for video description
+1. `scripts/add-trending` script fetches GitHub trending repositories and adds high-starred ones to `pending`
+2. `scripts/get-pending-repo` picks the next repository and writes URL to `repo` file
+3. `scripts/generate-description` clones the repository and extracts metadata for video description
 4. `gourcer` orchestrates the video generation process inside Docker
 5. `create-video` generates the Gource visualization and uploads to YouTube
-6. `commit-pending-list` commits the updated pending queue back to git
+6. `scripts/commit-pending-list` commits the updated pending queue back to git
 
 ## External Dependencies
 
@@ -82,22 +82,22 @@ The project leverages GitHub Actions to automate the entire video generation and
 - **Trigger**: Daily at 1:10 AM UTC via cron schedule, plus manual dispatch
 - **Purpose**: Fetches trending repositories and updates the pending queue
 - **Steps**:
-  1. Runs `./add-trending` to scrape GitHub trending and update pending queue
-  2. Commits changes with `[trending]` tag via `./commit-pending-list`
+  1. Runs `./scripts/add-trending` to scrape GitHub trending and update pending queue
+  2. Commits changes with `[trending]` tag via `./scripts/commit-pending-list`
 
 ### 2. Create and Upload Video (`create-video.yml`)
 - **Trigger**: Every 6 hours (at :13 minutes) via cron schedule, plus manual dispatch
 - **Purpose**: Processes repositories from the existing pending queue
 - **Steps**:
-  1. Selects next repository with `./get-pending-repo`
-  2. Marks completion with `./commit-pending-list`
-  3. Clones repository and generates metadata with `./generate-description`
+  1. Selects next repository with `./scripts/get-pending-repo`
+  2. Marks completion with `./scripts/commit-pending-list`
+  3. Clones repository and generates metadata with `./scripts/generate-description`
   4. Creates and uploads video using Docker container `meain/gourcer:latest`
 
 ### 3. Testing (`test.yml`)
 - **Trigger**: Pushes to master + daily at 1:10 AM UTC
 - **Purpose**: Validates the system functionality
-- **Steps**: Runs `./test` script to verify components work correctly
+- **Steps**: Runs `./scripts/test` script to verify components work correctly
 
 ### Workflow Secrets
 All video generation workflows require these GitHub Secrets:

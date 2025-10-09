@@ -12,14 +12,14 @@ jobs:
       - uses: actions/checkout@v2
       - name: Get repo
         run: |
-          ./get-pending-repo
-          ./commit-pending-list
+          ./scripts/get-pending-repo
+          ./scripts/commit-pending-list
           cat repo
       - name: Prepare repository
         run: |
           mkdir results && ls
           git clone --recurse-submodules "$(head repo)" crepo
-          ./generate-description > description
+          ./scripts/generate-description > description
           cat description
       - name: Create video
         env:

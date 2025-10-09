@@ -12,5 +12,5 @@ jobs:
       - uses: actions/checkout@v2
       - name: Update trending
         run: |
-          ./add-trending
-          ./commit-pending-list 'Update trending repositories'
+          ./scripts/add-trending
+          ./scripts/commit-pending-list 'Update trending repositories'
