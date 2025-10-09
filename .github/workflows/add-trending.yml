@@ -13,4 +13,4 @@ jobs:
       - name: Update trending
         run: |
           ./add-trending
-          ./commit-pending-list '[trending]'
+          ./commit-pending-list 'Update trending repositories'
