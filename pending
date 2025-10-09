@@ -172,7 +172,6 @@ x https://github.com/jarun/googler
 x https://github.com/schollz/croc
 x https://github.com/google/lovefield
 x https://github.com/saljam/webwormhole
-x https://github.com/getify/You-Dont-Know-JS 
 x https://github.com/dandavison/delta
 x https://github.com/microlinkhq/metascraper
 x https://github.com/timberio/vector
@@ -4394,8 +4393,6 @@ x https://github.com/voicepaw/so-vits-svc-fork
 x https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese
 x https://github.com/Orillusion/orillusion
 x https://github.com/eugeneyan/open-llms
-x 
-x 
 x https://github.com/pengzhile/pandora
 x https://github.com/yuzu-emu/yuzu
 x https://github.com/openai/plugins-quickstart
@@ -4696,7 +4693,6 @@ x https://github.com/defog-ai/sqlcoder
 x https://github.com/facebookresearch/codellama
 x https://github.com/microsoft/vscode
 x https://github.com/QwenLM/Qwen-VL
-x 
 x https://github.com/neulab/prompt2model
 x https://github.com/acheong08/rev-obsidian-sync
 x https://github.com/Plachtaa/VALL-E-X
@@ -5139,7 +5135,6 @@ x https://github.com/antirez/botlib
 x https://github.com/mRs-/Black-Friday-Deals
 x https://github.com/windmill-labs/windmill
 x https://github.com/sergiomarotco/Network-segmentation-cheat-sheet
-x 
 x https://github.com/opa334/TrollStore
 x https://github.com/jordan-cutler/path-to-senior-engineer-handbook
 x https://github.com/Ftindy/IPTV-URL
@@ -6200,8 +6195,6 @@ x https://github.com/Anjok07/ultimatevocalremovergui
 x https://github.com/argmaxinc/WhisperKit
 x https://github.com/pymc-devs/pymc
 x https://github.com/NVIDIA/warp
-x 
-x 
 x https://github.com/open-metadata/OpenMetadata
 x https://github.com/argilla-io/argilla
 x https://github.com/langflow-ai/langflow
@@ -6223,8 +6216,6 @@ x https://github.com/modelscope/DiffSynth-Studio
 x https://github.com/ExpressLRS/ExpressLRS
 x https://github.com/mehdihadeli/awesome-software-architecture
 x https://github.com/typescript-eslint/typescript-eslint
-x 
-x 
 x https://github.com/sampotts/plyr
 x https://github.com/stacks-network/stacks-core
 x https://github.com/YimMenu/YimMenu
@@ -9889,7 +9880,6 @@ x https://github.com/alex-shpak/hugo-book
 x https://github.com/brunodev85/winlator
 x https://github.com/techschool/simplebank
 x https://github.com/ethereum-optimism/optimism
-x 
 x https://github.com/yuliskov/SmartTube
 x https://github.com/swiftlang/swift
 x https://github.com/ueberdosis/tiptap
@@ -9913,7 +9903,6 @@ x https://github.com/abseil/abseil-cpp
 x https://github.com/hashicorp/vault
 x https://github.com/mermaid-js/mermaid
 x https://github.com/prowler-cloud/prowler
-x 
 x https://github.com/TraceMachina/nativelink
 x https://github.com/alibaba/nacos
 x https://github.com/g1879/DrissionPage
@@ -9927,7 +9916,6 @@ x https://github.com/lit/lit
 x https://github.com/Netflix/maestro
 x https://github.com/lz4/lz4
 x https://github.com/twbs/bootstrap
-x 
 x https://github.com/leanprover/lean4
 x https://github.com/alpkeskin/mosint
 x https://github.com/ollama/ollama-python
@@ -9964,7 +9952,6 @@ x https://github.com/pgvector/pgvector
 x https://github.com/hacksider/Deep-Live-Cam
 x https://github.com/THUDM/CogVideo
 x https://github.com/LLaVA-VL/LLaVA-NeXT
-x 
 x https://github.com/raspberrypi/pico-sdk
 x https://github.com/MahmoudAshraf97/whisper-diarization
 x https://github.com/cocos/cocos-engine
@@ -9995,7 +9982,6 @@ x https://github.com/keldaanCommunity/pokemonAutoChess
 x https://github.com/wistbean/learn_python3_spider
 x https://github.com/SorellaLabs/brontes
 x https://github.com/thuml/Time-Series-Library
-x 
 x https://github.com/NVlabs/VILA
 x https://github.com/fmtlib/fmt
 x https://github.com/microsoft/mimalloc
@@ -10012,7 +9998,6 @@ x https://github.com/Permify/permify
 x https://github.com/khcrysalis/Feather
 x https://github.com/PromtEngineer/Verbi
 x https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
-x 
 x https://github.com/Cinnamon/kotaemon
 x https://github.com/krishnadey30/LeetCode-Questions-CompanyWise
 x https://github.com/cemu-project/Cemu
@@ -10109,7 +10094,6 @@ x https://github.com/shuding/nextra
 x https://github.com/apache/nuttx
 x https://github.com/microsoft/RD-Agent
 x https://github.com/Hannibal046/Awesome-LLM
-x 
 x https://github.com/pytorch/ao
 x https://github.com/github-linguist/linguist
 x https://github.com/XengShi/materialYouNewTab
@@ -10117,13 +10101,10 @@ x https://github.com/mandiant/capa
 x https://github.com/xenova/whisper-web
 x https://github.com/LadybirdBrowser/ladybird
 x https://github.com/fineanmol/Hacktoberfest2024
-x 
 x https://github.com/livekit/agents
 x https://github.com/onejs/one
 x https://github.com/zauberzeug/nicegui
 x https://github.com/ErikBjare/gptme
-x 
-x 
 x https://github.com/HumanSignal/label-studio
 x https://github.com/hibernate/hibernate-orm
 x https://github.com/deskflow/deskflow
@@ -10169,7 +10150,6 @@ x https://github.com/ranaroussi/yfinance
 x https://github.com/chrislgarry/Apollo-11
 x https://github.com/OJ/gobuster
 x https://github.com/Guovin/TV
-x 
 x https://github.com/dittofeed/dittofeed
 x https://github.com/vfsfitvnm/ViMusic
 x https://github.com/cypress-io/cypress
@@ -10196,7 +10176,6 @@ x https://github.com/CodePhiliaX/Chat2DB
 x https://github.com/jtroo/kanata
 x https://github.com/DS4SD/docling
 x https://github.com/wg-easy/wg-easy
-x 
 x https://github.com/haydenbleasel/next-forge
 x https://github.com/Shpota/github-activity-generator
 x https://github.com/iterative/datachain
@@ -10213,7 +10192,6 @@ x https://github.com/dromara/Sa-Token
 x https://github.com/vercel/ai-chatbot
 x https://github.com/letta-ai/letta
 x https://github.com/pr3y/Bruce
-x 
 x https://github.com/filecxx/FileCentipede
 x https://github.com/microsoft/vscode-ai-toolkit
 x https://github.com/yorukot/superfile
@@ -10231,24 +10209,20 @@ x https://github.com/TheBeastLT/torrentio-scraper
 x https://github.com/tursodatabase/libsql
 x https://github.com/facebook/lexical
 x https://github.com/bluesky-social/pds
-x 
 x https://github.com/leaningtech/webvm
 x https://github.com/epasveer/seer
 x https://github.com/olimorris/codecompanion.nvim
 x https://github.com/NVIDIA/garak
 x https://github.com/arkohut/pensieve
 x https://github.com/awslabs/multi-agent-orchestrator
-x 
 x https://github.com/FreeCAD/FreeCAD
 x https://github.com/android/nowinandroid
-x 
 x https://github.com/black-forest-labs/flux
 x https://github.com/shader-slang/slang
 x https://github.com/primefaces/primevue
 x https://github.com/pingcap/autoflow
 x https://github.com/xmrig/xmrig
 x https://github.com/justcallmekoko/ESP32Marauder
-x 
 x https://github.com/allenai/open-instruct
 x https://github.com/pawelsalawa/sqlitestudio
 x https://github.com/ant-design/x
@@ -10288,7 +10262,6 @@ x https://github.com/al1abb/invoify
 x https://github.com/soxoj/maigret
 x https://github.com/chaitin/SafeLine
 x https://github.com/evolutionaryscale/esm
-x 
 x https://github.com/lmarzen/esp32-weather-epd
 x https://github.com/nexus-xyz/nexus-zkvm
 x https://github.com/koreader/koreader
@@ -10311,7 +10284,6 @@ x https://github.com/Saghen/blink.cmp
 x https://github.com/RIOT-OS/RIOT
 x https://github.com/microsoft/windows-rs
 x https://github.com/flame-engine/flame
-x 
 x https://github.com/stripe/stripe-ios
 x https://github.com/zju3dv/EasyVolcap
 x https://github.com/fatedier/frp
@@ -10357,7 +10329,6 @@ x https://github.com/pathwaycom/llm-app
 x https://github.com/deepseek-ai/DeepSeek-Coder-V2
 x https://github.com/erigontech/erigon
 x https://github.com/crewAIInc/crewAI
-x 
 x https://github.com/louis-e/arnis
 x https://github.com/loco-rs/loco
 x https://github.com/alufers/mitmproxy2swagger
@@ -10404,8 +10375,6 @@ x https://github.com/emcie-co/parlant
 x https://github.com/echasnovski/mini.nvim
 x https://github.com/henrygd/beszel
 x https://github.com/linera-io/linera-protocol
-x 
-x 
 x https://github.com/piotrostr/listen
 x https://github.com/deepseek-ai/awesome-deepseek-integration
 x https://github.com/deepseek-ai/DeepSeek-LLM
@@ -10414,7 +10383,6 @@ x https://github.com/patchy631/ai-engineering-hub
 x https://github.com/lightpanda-io/browser
 x https://github.com/yassinebenaid/bunster
 x https://github.com/onlook-dev/onlook
-x 
 x https://github.com/deepseek-ai/Janus
 x https://github.com/deepseek-ai/DeepSeek-Math
 x https://github.com/QwenLM/Qwen2.5-VL
@@ -10442,7 +10410,6 @@ x https://github.com/monasticacademy/httptap
 x https://github.com/elastic/integrations
 x https://github.com/Physical-Intelligence/openpi
 x https://github.com/ChatGPTNextWeb/NextChat
-x 
 x https://github.com/RockChinQ/LangBot
 x https://github.com/potpie-ai/potpie
 x https://github.com/browser-use/browser-use
@@ -10465,7 +10432,6 @@ x https://github.com/cordx56/rustowl
 x https://github.com/mongodb-developer/GenAI-Showcase
 x https://github.com/hummingbot/hummingbot
 x https://github.com/meshtastic/firmware
-x 
 x https://github.com/docmost/docmost
 x https://github.com/aidenybai/react-scan
 x https://github.com/ValveSoftware/source-sdk-2013
@@ -10477,7 +10443,6 @@ x https://github.com/fastapi/full-stack-fastapi-template
 x https://github.com/mountain-loop/yaak
 x https://github.com/nndl/nndl.github.io
 x https://github.com/koide3/glim
-x 
 x https://github.com/vllm-project/aibrix
 x https://github.com/Flowseal/zapret-discord-youtube
 x https://github.com/langchain-ai/open_deep_research
@@ -10485,10 +10450,7 @@ x https://github.com/NirDiamant/GenAI_Agents
 x https://github.com/ggerganov/ggwave
 x https://github.com/allenai/olmocr
 x https://github.com/freddyaboulton/fastrtc
-x 
-x 
 x https://github.com/praydog/REFramework
-x 
 x https://github.com/hedge-dev/UnleashedRecomp
 x https://github.com/virattt/ai-hedge-fund
 x https://github.com/apache/gravitino
@@ -10504,7 +10466,6 @@ x https://github.com/EFForg/rayhunter
 x https://github.com/GuijiAI/duix.ai
 x https://github.com/camel-ai/camel
 x https://github.com/punkpeye/awesome-mcp-servers
-x 
 x https://github.com/thalissonvs/pydoll
 x https://github.com/mfontanini/presenterm
 x https://github.com/kelseyhightower/kubernetes-the-hard-way
@@ -10522,7 +10483,6 @@ x https://github.com/ai-christianson/RA.Aid
 x https://github.com/tj-actions/changed-files
 x https://github.com/apps/repo-ranger
 x https://github.com/RIP-Comm/sossoldi
-x 
 x https://github.com/wmariuss/awesome-devops
 x https://github.com/subframe7536/maple-font
 x https://github.com/satnaing/shadcn-admin
@@ -10531,7 +10491,6 @@ x https://github.com/sinclairtarget/git-who
 x https://github.com/kekingcn/kkFileView
 x https://github.com/hotheadhacker/awesome-selfhost-docker
 x https://github.com/cloudflare/mcp-server-cloudflare
-x 
 x https://github.com/RSSNext/Folo
 x https://github.com/ageerle/ruoyi-ai
 x https://github.com/wonderwhy-er/ClaudeDesktopCommander
@@ -10547,7 +10506,6 @@ x https://github.com/deepseek-ai/DeepSeek-V3
 x https://github.com/Akkudoktor-EOS/EOS
 x https://github.com/signalapp/Signal-Android
 x https://github.com/signalapp/libsignal
-x 
 x https://github.com/google/perfetto
 x https://github.com/jlowin/fastmcp
 x https://github.com/open-source-parsers/jsoncpp
@@ -10599,7 +10557,6 @@ x https://github.com/apps/nocobase
 x https://github.com/wanglin2/mind-map
 x https://github.com/ashvardanian/less_slow.cpp
 x https://github.com/007revad/Synology_HDD_db
-x 
 x https://github.com/bytedance/UI-TARS
 x https://github.com/kortix-ai/suna
 x https://github.com/jujumilk3/leaked-system-prompts
@@ -10630,7 +10587,6 @@ x https://github.com/jj-vcs/jj
 x https://github.com/Mail-0/Zero
 x https://github.com/htr-tech/zphisher
 x https://github.com/littlefs-project/littlefs
-x 
 x https://github.com/GoogleCloudPlatform/kubectl-ai
 x https://github.com/CapSoftware/Cap
 x https://github.com/sunnypilot/sunnypilot
@@ -10678,7 +10634,6 @@ x https://github.com/huggingface/huggingface.js
 x https://github.com/XiaoYouChR/Ghost-Downloader-3
 x https://github.com/anthropics/claude-code
 x https://github.com/Fosowl/agenticSeek
-x 
 x https://github.com/groupultra/telegram-search
 x https://github.com/microsoft/typescript-go
 x https://github.com/reactos/reactos
@@ -10703,7 +10658,6 @@ x https://github.com/elebumm/RedditVideoMakerBot
 x https://github.com/assimp/assimp
 x https://github.com/googleapis/go-genai
 x https://github.com/apps/claude
-x 
 x https://github.com/jemalloc/jemalloc
 x https://github.com/scrapy/scrapy
 x https://github.com/netbirdio/netbird
@@ -10729,9 +10683,6 @@ x https://github.com/jdepoix/youtube-transcript-api
 x https://github.com/xiangechen/chili3d
 x https://github.com/confident-ai/deepeval
 x https://github.com/FareedKhan-dev/all-rag-techniques
-x 
-x 
-x 
 x https://github.com/microsoft/fluentui-system-icons
 x https://github.com/gtsteffaniak/filebrowser
 x https://github.com/linshenkx/prompt-optimizer
@@ -10806,8 +10757,6 @@ x https://github.com/flutter/packages
 x https://github.com/landing-ai/agentic-doc
 x https://github.com/open-telemetry/opentelemetry-go
 x https://github.com/antiwork/flexile
-x 
-x 
 x https://github.com/OpenPipe/ART
 x https://github.com/nisargjhaveri/WirelessAndroidAutoDongle
 x https://github.com/bluewave-labs/Checkmate
@@ -10845,8 +10794,6 @@ x https://github.com/daveebbelaar/ai-cookbook
 x https://github.com/mikf/gallery-dl
 x https://github.com/ashishpatel26/500-AI-Agents-Projects
 x https://github.com/mattermost-community/focalboard
-x 
-x 
 x https://github.com/kijai/ComfyUI-WanVideoWrapper
 x https://github.com/SkyworkAI/SkyReels-V2
 x https://github.com/EmenstaNougat/ESP32-BlueJammer
@@ -10862,7 +10809,6 @@ x https://github.com/sst/opencode
 x https://github.com/TideDra/zotero-arxiv-daily
 x https://github.com/reflex-dev/reflex
 x https://github.com/flydelabs/flyde
-x 
 x https://github.com/microsoft/mcp-for-beginners
 x https://github.com/hashcat/hashcat
 x https://github.com/huiyadanli/RevokeMsgPatcher
@@ -10923,14 +10869,12 @@ x https://github.com/HKUDS/DeepCode
 x https://github.com/scottpetrovic/mesh2motion-app
 x https://github.com/pestphp/pest
 x https://github.com/NVIDIA-NeMo/RL
-x 
 x https://github.com/willccbb/verifiers
 x https://github.com/asgeirtj/system_prompts_leaks
 x https://github.com/rothgar/awesome-tuis
 x https://github.com/SimplifyJobs/Summer2026-Internships
 x https://github.com/QuentinFuxa/WhisperLiveKit
 x https://github.com/santinic/audiblez
-x 
 x https://github.com/humanlayer/humanlayer
 x https://github.com/nats-io/nats-server
 x https://github.com/mercurjs/mercur
@@ -11039,4 +10983,3 @@ x https://github.com/BeehiveInnovations/zen-mcp-server
 x https://github.com/openemr/openemr
 x https://github.com/google/osv.dev
 x https://github.com/openai/openai-agents-python
-x 
