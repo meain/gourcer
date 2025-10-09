@@ -5,7 +5,7 @@
 set -e
 
 URL="https://github.com/trending"
-curl "$URL" |
+curl -s "$URL" |
     grep 'data-hydro-click' |
     grep 'TRENDING_REPOSITORIES_PAGE' |
     grep -oE 'href="/[^/"]*/[^"]*' |
@@ -14,11 +14,13 @@ curl "$URL" |
         grep -q "$repo" pending || echo "$repo"
     done >/tmp/trending-repos
 
-cat /tmp/trending-repos | head -n1 >repo
-echo "x $(cat repo)" >>pending
+if ! grep -q . /tmp/trending-repos ; then
+    echo "No new trending repositories found"
+    exit 0
+fi
 
 cat /tmp/trending-repos |
-    tail -n+2 | head -n4 | # increase/decrease `head` count to control how many trending items we add
+    head -n4 | # increase/decrease `head` count to control how many trending items we add
     while read -r repo; do
         stars="$(curl -s "$repo" | pup '.js-social-count attr{aria-label}' |
             grep 'starred this repository' | cut -d' ' -f1)"
