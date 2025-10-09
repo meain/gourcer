@@ -4,7 +4,9 @@
 
 set -e
 
+TMPFILE="/tmp/trending-repos"
 URL="https://github.com/trending"
+
 curl -s "$URL" |
     grep 'data-hydro-click' |
     grep 'TRENDING_REPOSITORIES_PAGE' |
@@ -12,18 +14,21 @@ curl -s "$URL" |
     awk -F'"' '{print "https://github.com"$2}' |
     while read -r repo; do
         grep -q "$repo" pending || echo "$repo"
-    done >/tmp/trending-repos
+    done >"$TMPFILE"
 
-if ! grep -q . /tmp/trending-repos ; then
+if ! grep -q . "$TMPFILE"; then
     echo "No new trending repositories found"
     exit 0
 fi
 
-cat /tmp/trending-repos |
-    head -n4 | # increase/decrease `head` count to control how many trending items we add
-    while read -r repo; do
-        stars="$(curl -s "$repo" | pup '.js-social-count attr{aria-label}' |
-            grep 'starred this repository' | cut -d' ' -f1)"
-        [ -n "$stars" ] && [ $stars -le 50 ] && continue
-        echo "- $repo" >>pending
-    done
+# Filter out repositories with less than 50 stars. We could add a
+# limitter here(like only 4 repos max), but it is unlikely that we
+# will run into new many repos that we have not already seen.
+while read -r repo; do
+    # We could check for stars with the following snippet, but
+    # since these are already trending repos, let's just add them.
+    # stars="$(curl -s "$repo" | pup '.js-social-count attr{aria-label}' |
+    #     grep 'starred this repository' | cut -d' ' -f1)"
+    # [ -n "$stars" ] && [ $stars -le 50 ] && continue
+    echo "- $repo" >>pending
+done <"$TMPFILE"
