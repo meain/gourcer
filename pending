@@ -8720,7 +8720,7 @@ x https://github.com/laravel/laravel
 - https://github.com/mocktools/go-smtp-mock
 - https://github.com/modelmapper/modelmapper
 - https://github.com/mojocn/base64Captcha
-- https://github.com/moleculerjs/moleculer
+x https://github.com/moleculerjs/moleculer
 x https://github.com/moment/luxon
 x https://github.com/monaco-io/request
 x https://github.com/mongodb/mongo-go-driver
