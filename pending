@@ -8718,7 +8718,7 @@ x https://github.com/laravel/laravel
 - https://github.com/mochajs/mocha
 - https://github.com/mockito/mockito
 - https://github.com/mocktools/go-smtp-mock
-- https://github.com/modelmapper/modelmapper
+x https://github.com/modelmapper/modelmapper
 x https://github.com/mojocn/base64Captcha
 x https://github.com/moleculerjs/moleculer
 x https://github.com/moment/luxon
