@@ -8715,7 +8715,7 @@ x https://github.com/laravel/laravel
 - https://github.com/mmattozzi/cocoa-rest-client
 - https://github.com/mmcdole/gofeed
 - https://github.com/moby/buildkit
-- https://github.com/mochajs/mocha
+x https://github.com/mochajs/mocha
 x https://github.com/mockito/mockito
 x https://github.com/mocktools/go-smtp-mock
 x https://github.com/modelmapper/modelmapper
