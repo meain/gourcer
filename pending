@@ -8694,7 +8694,7 @@ x https://github.com/laravel/laravel
 - https://github.com/mitchellh/cli
 - https://github.com/mitchellh/go-server-timing
 - https://github.com/mitchellh/gox
-- https://github.com/mitchellh/mapstructure
+x https://github.com/mitchellh/mapstructure
 x https://github.com/mitchellh/packer
 x https://github.com/mitchellh/vagrant
 x https://github.com/mixn/carbon-now-cli
