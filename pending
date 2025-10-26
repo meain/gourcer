@@ -8692,7 +8692,7 @@ x https://github.com/laravel/laravel
 - https://github.com/mishoo/UglifyJS
 - https://github.com/mitaki28/vscode-clang
 - https://github.com/mitchellh/cli
-- https://github.com/mitchellh/go-server-timing
+x https://github.com/mitchellh/go-server-timing
 x https://github.com/mitchellh/gox
 x https://github.com/mitchellh/mapstructure
 x https://github.com/mitchellh/packer
