@@ -8684,7 +8684,7 @@ x https://github.com/laravel/laravel
 - https://github.com/mingrammer/commonregex
 - https://github.com/minio/mc
 - https://github.com/minio/minio-go
-- https://github.com/minio/minio-java
+x https://github.com/minio/minio-java
 x https://github.com/miniscruff/changie
 x https://github.com/minus5/gofreetds
 x https://github.com/miolini/jsonf
