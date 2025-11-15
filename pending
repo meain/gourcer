@@ -8664,7 +8664,7 @@ x https://github.com/laravel/laravel
 - https://github.com/micro/micro
 - https://github.com/microcosm-cc/bluemonday
 - https://github.com/micromata/http-fake-backend
-- https://github.com/micrometer-metrics/micrometer
+x https://github.com/micrometer-metrics/micrometer
 x https://github.com/micrometer-metrics/tracing
 x https://github.com/microsoft/openjdk
 x https://github.com/microsoft/reactxp
