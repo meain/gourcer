@@ -8661,7 +8661,7 @@ x https://github.com/laravel/laravel
 - https://github.com/mickep76/encdec
 - https://github.com/mickep76/mapslice-json
 - https://github.com/micro/go-micro
-- https://github.com/micro/micro
+x https://github.com/micro/micro
 x https://github.com/microcosm-cc/bluemonday
 x https://github.com/micromata/http-fake-backend
 x https://github.com/micrometer-metrics/micrometer
