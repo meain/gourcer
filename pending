@@ -8626,7 +8626,7 @@ x https://github.com/laravel/laravel
 - https://github.com/mde/ejs
 - https://github.com/mdempsky/unconvert
 - https://github.com/mdlayher/arp
-- https://github.com/mdlayher/dhcp6
+x https://github.com/mdlayher/dhcp6
 x https://github.com/mdlayher/ethernet
 x https://github.com/mdlayher/raw
 x https://github.com/medialize/URI
