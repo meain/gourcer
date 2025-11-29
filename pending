@@ -8610,7 +8610,7 @@ x https://github.com/laravel/laravel
 - https://github.com/mattn/go-oci8
 - https://github.com/mattn/go-runewidth
 - https://github.com/mattn/go-sqlite3
-- https://github.com/mattn/gom
+x https://github.com/mattn/gom
 x https://github.com/mattn/goveralls
 x https://github.com/mavihq/persian
 x https://github.com/maxatome/go-testdeep
