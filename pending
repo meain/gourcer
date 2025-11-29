@@ -8608,7 +8608,7 @@ x https://github.com/laravel/laravel
 - https://github.com/mattn/go-colorable
 - https://github.com/mattn/go-isatty
 - https://github.com/mattn/go-oci8
-- https://github.com/mattn/go-runewidth
+x https://github.com/mattn/go-runewidth
 x https://github.com/mattn/go-sqlite3
 x https://github.com/mattn/gom
 x https://github.com/mattn/goveralls
