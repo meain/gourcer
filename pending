@@ -8604,7 +8604,7 @@ x https://github.com/laravel/laravel
 - https://github.com/mattes/fugu
 - https://github.com/matthewmueller/x-ray
 - https://github.com/mattn/anko
-- https://github.com/mattn/go-adodb
+x https://github.com/mattn/go-adodb
 x https://github.com/mattn/go-colorable
 x https://github.com/mattn/go-isatty
 x https://github.com/mattn/go-oci8
