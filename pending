@@ -8557,7 +8557,7 @@ x https://github.com/laravel/laravel
 - https://github.com/magefile/mage
 - https://github.com/magicmark/composerize
 - https://github.com/mailchain/mailchain
-- https://github.com/mailgun/mailgun-go
+x https://github.com/mailgun/mailgun-go
 x https://github.com/mailhog/smtp
 x https://github.com/maja42/goval
 x https://github.com/mancunianetz/APNGb
