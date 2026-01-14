@@ -8517,7 +8517,7 @@ x https://github.com/laravel/laravel
 - https://github.com/lucas-clemente/quic-go
 - https://github.com/lucasepe/draft
 - https://github.com/lucasepe/modgv
-- https://github.com/lucaslorentz/caddy-docker-proxy
+x https://github.com/lucaslorentz/caddy-docker-proxy
 x https://github.com/luin/ioredis
 x https://github.com/lukas-krecan/JsonUnit
 x https://github.com/lukas-krecan/ShedLock
