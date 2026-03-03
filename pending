@@ -8440,7 +8440,7 @@ x https://github.com/laravel/laravel
 - https://github.com/kyleterry/tenyks
 - https://github.com/kyoh86/richgo
 - https://github.com/lab210-dev/async-job
-- https://github.com/labstack/echo
+x https://github.com/labstack/echo
 x https://github.com/labstack/gommon
 x https://github.com/lacion/cookiecutter-golang
 x https://github.com/ladjs/lad
