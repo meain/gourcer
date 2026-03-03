@@ -8442,7 +8442,7 @@ x https://github.com/laravel/laravel
 - https://github.com/lab210-dev/async-job
 - https://github.com/labstack/echo
 - https://github.com/labstack/gommon
-- https://github.com/lacion/cookiecutter-golang
+x https://github.com/lacion/cookiecutter-golang
 x https://github.com/ladjs/lad
 x https://github.com/laher/goxc
 x https://github.com/lalamove/konfig
