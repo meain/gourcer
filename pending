@@ -8426,7 +8426,7 @@ x https://github.com/laravel/laravel
 - https://github.com/kstaken/dockerfile-examples
 - https://github.com/kubenetworks/kubevpn
 - https://github.com/kubernetes-sigs/kind
-- https://github.com/kubernetes/kompose
+x https://github.com/kubernetes/kompose
 x https://github.com/kubernetes/kubernetes
 x https://github.com/kubernetes/minikube
 x https://github.com/kubevela/kubevela
