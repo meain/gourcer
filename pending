@@ -8380,7 +8380,7 @@ x https://github.com/laravel/laravel
 - https://github.com/kelindar/column
 - https://github.com/kelindar/tile
 - https://github.com/kelseyhightower/confd
-- https://github.com/kelseyhightower/envconfig
+x https://github.com/kelseyhightower/envconfig
 x https://github.com/kentcdodds/cross-env
 x https://github.com/kesla/node-snappy
 x https://github.com/kessler/node-bcat
