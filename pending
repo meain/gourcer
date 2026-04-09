@@ -8359,7 +8359,7 @@ x https://github.com/laravel/laravel
 - https://github.com/jwilder/docker-gen
 - https://github.com/jwtk/jjwt
 - https://github.com/k0kubun/pp
-- https://github.com/k3s-io/k3s
+x https://github.com/k3s-io/k3s
 x https://github.com/kach/nearley
 x https://github.com/kagkarlsson/db-scheduler
 x https://github.com/kak-tus/nan
