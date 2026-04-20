@@ -8335,7 +8335,7 @@ x https://github.com/laravel/laravel
 - https://github.com/jsdom/jsdom
 - https://github.com/jsgilmore/gostorm
 - https://github.com/json-iterator/go
-- https://github.com/json-path/JsonPath
+x https://github.com/json-path/JsonPath
 x https://github.com/jsonld-java/jsonld-java
 x https://github.com/jstachio/jstachio
 x https://github.com/jstrace/chart
