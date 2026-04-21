@@ -8332,7 +8332,7 @@ x https://github.com/laravel/laravel
 - https://github.com/jquense/yup
 - https://github.com/jroimartin/gocui
 - https://github.com/jsdoc/jsdoc
-- https://github.com/jsdom/jsdom
+x https://github.com/jsdom/jsdom
 x https://github.com/jsgilmore/gostorm
 x https://github.com/json-iterator/go
 x https://github.com/json-path/JsonPath
