@@ -8333,7 +8333,7 @@ x https://github.com/laravel/laravel
 - https://github.com/jroimartin/gocui
 - https://github.com/jsdoc/jsdoc
 - https://github.com/jsdom/jsdom
-- https://github.com/jsgilmore/gostorm
+x https://github.com/jsgilmore/gostorm
 x https://github.com/json-iterator/go
 x https://github.com/json-path/JsonPath
 x https://github.com/jsonld-java/jsonld-java
