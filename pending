@@ -8325,7 +8325,7 @@ x https://github.com/laravel/laravel
 - https://github.com/joshbetz/config
 - https://github.com/jovandeginste/payme
 - https://github.com/joyent/node-vstream
-- https://github.com/jpetazzo/nsenter
+x https://github.com/jpetazzo/nsenter
 x https://github.com/jpetazzo/pipework
 x https://github.com/jplhomer/lifeboat
 x https://github.com/jprichardson/node-fs-extra
