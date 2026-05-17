@@ -8285,7 +8285,7 @@ x https://github.com/laravel/laravel
 - https://github.com/jgraph/jgraphx
 - https://github.com/jgrapht/jgrapht
 - https://github.com/jhalterman/concurrentunit
-- https://github.com/jhalterman/failsafe
+x https://github.com/jhalterman/failsafe
 x https://github.com/jhalterman/typetools
 x https://github.com/jhipster/generator-jhipster
 x https://github.com/jimbethancourt/RefactorFirst
