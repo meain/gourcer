@@ -8272,7 +8272,7 @@ x https://github.com/laravel/laravel
 - https://github.com/jeroenpeeters/docker-ssh
 - https://github.com/jeroenrinzema/commander
 - https://github.com/jesseduffield/lazydocker
-- https://github.com/jessevdk/go-flags
+x https://github.com/jessevdk/go-flags
 x https://github.com/jessfraz/dockerfiles
 x https://github.com/jessfraz/dockfmt
 x https://github.com/jesusprubio/strong-node
