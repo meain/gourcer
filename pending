@@ -8266,7 +8266,7 @@ x https://github.com/laravel/laravel
 - https://github.com/jeffail/leaps
 - https://github.com/jellydator/ttlcache
 - https://github.com/jenkins-zh/jenkins-cli
-- https://github.com/jenkinsci/docker-plugin
+x https://github.com/jenkinsci/docker-plugin
 x https://github.com/jenssegers/captain
 x https://github.com/jenv/jenv
 x https://github.com/jeroenpeeters/docker-ssh
