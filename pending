@@ -8253,7 +8253,7 @@ x https://github.com/laravel/laravel
 - https://github.com/javamelody/javamelody
 - https://github.com/javaparser/javaparser
 - https://github.com/javaparser/javasymbolsolver
-- https://github.com/javapathfinder/jpf-core
+x https://github.com/javapathfinder/jpf-core
 x https://github.com/jawher/mow
 x https://github.com/jaypipes/ghw
 x https://github.com/jbock-java/jbock
