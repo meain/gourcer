@@ -8250,7 +8250,7 @@ x https://github.com/laravel/laravel
 - https://github.com/jasonlvhit/gocron
 - https://github.com/java-native-access/jna
 - https://github.com/javadev/underscore-java
-- https://github.com/javamelody/javamelody
+x https://github.com/javamelody/javamelody
 x https://github.com/javaparser/javaparser
 x https://github.com/javaparser/javasymbolsolver
 x https://github.com/javapathfinder/jpf-core
