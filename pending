@@ -8125,7 +8125,7 @@ x https://github.com/laravel/laravel
 - https://github.com/hexops/dockerfile
 - https://github.com/hibiken/asynq
 - https://github.com/hidevopsio/hiboot
-- https://github.com/hierynomus/sshj
+x https://github.com/hierynomus/sshj
 x https://github.com/hillu/go-yara
 x https://github.com/hishamhm/htop
 x https://github.com/hishamkaram/geoserver
