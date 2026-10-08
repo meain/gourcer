@@ -8099,7 +8099,7 @@ x https://github.com/laravel/laravel
 - https://github.com/hashicorp/logutils
 - https://github.com/hashicorp/mdns
 - https://github.com/hashicorp/nomad
-- https://github.com/hashicorp/raft
+x https://github.com/hashicorp/raft
 x https://github.com/haskell/haskell-ide-engine
 x https://github.com/hasura/gitkube
 x https://github.com/hatashiro/pen
