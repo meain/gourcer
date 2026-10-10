@@ -8094,7 +8094,7 @@ x https://github.com/laravel/laravel
 - https://github.com/harrytran103/7_days_of_go
 - https://github.com/hashicorp/go-cleanhttp
 - https://github.com/hashicorp/go-getter
-- https://github.com/hashicorp/go-multierror
+x https://github.com/hashicorp/go-multierror
 x https://github.com/hashicorp/go-retryablehttp
 x https://github.com/hashicorp/logutils
 x https://github.com/hashicorp/mdns
