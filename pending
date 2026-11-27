@@ -8030,7 +8030,7 @@ x https://github.com/laravel/laravel
 - https://github.com/gorilla/csrf
 - https://github.com/gorilla/mux
 - https://github.com/gortc/sdp
-- https://github.com/gosimple/slug
+x https://github.com/gosimple/slug
 x https://github.com/gosuri/go-store
 x https://github.com/gosuri/uilive
 x https://github.com/gosuri/uiprogress
